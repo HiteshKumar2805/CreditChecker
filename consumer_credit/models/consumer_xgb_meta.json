@@ -1,0 +1,29 @@
+{
+  "model_type": "XGBoost",
+  "version": "1.0.0",
+  "features": [
+    "cibil_score",
+    "income",
+    "dependents",
+    "loan_amount",
+    "tenure",
+    "down_payment",
+    "existing_emi",
+    "credit_card",
+    "employment_type",
+    "statement_score",
+    "emi",
+    "account_age",
+    "overdrafts",
+    "bounced_payments",
+    "late_emi_ratio",
+    "income_volatility",
+    "avg_balance",
+    "transaction_frequency",
+    "monthly_spending"
+  ],
+  "optimal_threshold": 0.6984471082687378,
+  "train_rows": 3000,
+  "pos_class_count": 324,
+  "neg_class_count": 2676
+}

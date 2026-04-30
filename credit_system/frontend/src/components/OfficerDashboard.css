@@ -1,0 +1,433 @@
+/* ═══════════════════════════════════════════════════════
+   OfficerDashboard.css
+═══════════════════════════════════════════════════════ */
+
+/* ── Hero ────────────────────────────────────────────── */
+.od-hero { text-align: center; margin-bottom: 1.5rem; }
+.od-title {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--blue-800);
+  margin-bottom: 0.4rem;
+}
+.od-desc {
+  color: var(--blue-600);
+  font-size: 0.92rem;
+  max-width: 580px;
+  margin: 0 auto;
+}
+
+/* ── Chain Banner ────────────────────────────────────── */
+.od-chain-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1.25rem;
+  border-radius: var(--radius-md);
+  margin-bottom: 1.25rem;
+  animation: slide-up .35s ease;
+}
+.chain-ok {
+  background: linear-gradient(90deg, #dcfce7, #f0fdf4);
+  border: 1.5px solid #86efac;
+}
+.chain-fail {
+  background: linear-gradient(90deg, #fee2e2, #fef2f2);
+  border: 1.5px solid #fca5a5;
+}
+.chain-icon { font-size: 1.5rem; }
+.chain-meta {
+  display: block;
+  font-size: 0.78rem;
+  color: var(--blue-600);
+  margin-top: 0.1rem;
+}
+
+/* ── Search ──────────────────────────────────────────── */
+.od-search {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+}
+.od-search input {
+  flex: 1;
+  padding: 0.6rem 1rem;
+  border: 1.5px solid var(--blue-100);
+  border-radius: var(--radius-full);
+  background: var(--ivory-100);
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  transition: border-color .2s;
+}
+.od-search input:focus {
+  outline: none;
+  border-color: var(--blue-400);
+  box-shadow: 0 0 0 3px rgba(37,99,176,.1);
+}
+.od-search-err {
+  font-size: 0.82rem;
+  color: var(--red-600);
+  margin: -0.75rem 0 1rem 1rem;
+}
+
+/* ── Small Buttons ───────────────────────────────────── */
+.btn-sm {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: var(--radius-full);
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all .2s;
+}
+.btn-blue {
+  background: var(--blue-500);
+  color: #fff;
+}
+.btn-blue:hover { background: var(--blue-600); }
+.btn-outline {
+  background: transparent;
+  color: var(--blue-700);
+  border: 1.5px solid var(--blue-300);
+}
+.btn-outline:hover { background: var(--blue-50); }
+
+/* ── Layout ──────────────────────────────────────────── */
+.od-layout {
+  display: grid;
+  grid-template-columns: 340px 1fr;
+  gap: 1.5rem;
+  align-items: start;
+}
+@media (max-width: 960px) {
+  .od-layout { grid-template-columns: 1fr; }
+}
+
+/* ── Decision List ───────────────────────────────────── */
+.od-list-panel {
+  background: var(--ivory-100);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  border: 1.5px solid var(--blue-100);
+  overflow: hidden;
+}
+.od-section-title {
+  font-family: var(--font-heading);
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: var(--blue-800);
+  padding: 0.85rem 1rem;
+  background: var(--blue-50);
+  border-bottom: 1px solid var(--blue-100);
+}
+.od-list {
+  max-height: 65vh;
+  overflow-y: auto;
+}
+.od-loading, .od-empty {
+  padding: 2rem;
+  text-align: center;
+  color: var(--blue-500);
+  font-size: 0.88rem;
+}
+.spinner-blue {
+  display: inline-block;
+  width: 14px; height: 14px;
+  border: 2.5px solid var(--blue-200);
+  border-top-color: var(--blue-500);
+  border-radius: 50%;
+  animation: spin .6s linear infinite;
+  margin-right: 0.4rem;
+  vertical-align: middle;
+}
+
+.od-item {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--ivory-400);
+  cursor: pointer;
+  transition: background .15s;
+}
+.od-item:hover { background: var(--blue-50); }
+.od-item-active { background: var(--blue-100) !important; border-left: 3px solid var(--blue-500); }
+
+.od-item-top {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.3rem;
+}
+.od-dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.dot-green { background: var(--green-600); }
+.dot-red   { background: var(--red-600); }
+
+.od-item-id {
+  font-family: monospace;
+  font-size: 0.8rem;
+  color: var(--blue-800);
+  font-weight: 600;
+}
+.od-item-badge {
+  margin-left: auto;
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 0.15rem 0.5rem;
+  border-radius: var(--radius-full);
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+.ib-green { background: var(--green-100); color: var(--green-600); }
+.ib-red   { background: var(--red-100);   color: var(--red-600); }
+
+.od-item-bottom {
+  display: flex;
+  gap: 0.75rem;
+  font-size: 0.72rem;
+  color: var(--blue-500);
+}
+.od-item-time { margin-left: auto; color: var(--blue-300); }
+
+/* ── Detail Panel ────────────────────────────────────── */
+.od-detail-panel {
+  position: sticky;
+  top: 6rem;
+}
+.od-placeholder {
+  text-align: center;
+  padding: 4rem 2rem;
+  border: 2px dashed var(--blue-200);
+  border-radius: var(--radius-lg);
+  background: var(--ivory-200);
+  color: var(--blue-500);
+}
+.od-ph-icon { font-size: 3rem; margin-bottom: 1rem; opacity: .5; }
+
+.od-detail {
+  background: var(--ivory-100);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  padding: 1.5rem;
+  animation: slide-up .35s ease;
+}
+
+/* ── Detail Header ───────────────────────────────────── */
+.od-detail-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.25rem;
+}
+.od-detail-header h3 {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--blue-500);
+  font-weight: 600;
+}
+.od-app-id {
+  font-size: 0.82rem;
+  word-break: break-all;
+  color: var(--blue-800);
+}
+.od-detail-badge {
+  padding: 0.35rem 0.85rem;
+  border-radius: var(--radius-full);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+/* ── Meta Cards ──────────────────────────────────────── */
+.od-meta-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
+}
+@media (max-width: 720px) {
+  .od-meta-grid { grid-template-columns: 1fr 1fr; }
+}
+
+.od-meta-card {
+  background: var(--blue-50);
+  border: 1px solid var(--blue-100);
+  border-radius: var(--radius-md);
+  padding: 0.75rem;
+  text-align: center;
+}
+.omc-label {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--blue-500);
+  margin-bottom: 0.3rem;
+  font-weight: 600;
+}
+.omc-value {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: var(--blue-800);
+}
+.conf-high   { color: var(--green-600); }
+.conf-medium { color: var(--amber-500); }
+.conf-low    { color: var(--red-600); }
+
+/* ── Anomaly ─────────────────────────────────────────── */
+.od-anomaly {
+  background: var(--amber-100);
+  border: 1.5px solid var(--amber-500);
+  border-radius: var(--radius-md);
+  padding: 0.75rem 1rem;
+  font-size: 0.84rem;
+  margin-bottom: 1.25rem;
+  color: #92400e;
+}
+
+/* ── SHAP Section ────────────────────────────────────── */
+.od-shap-section {
+  margin-bottom: 1.25rem;
+}
+.od-shap-section h4 {
+  font-family: var(--font-heading);
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: var(--blue-800);
+  margin-bottom: 0.5rem;
+}
+.od-shap-base {
+  font-size: 0.78rem;
+  color: var(--blue-500);
+  margin-bottom: 0.75rem;
+}
+
+.od-shap-row {
+  display: grid;
+  grid-template-columns: 150px 1fr 72px 70px;
+  gap: 0.4rem;
+  align-items: center;
+  margin-bottom: 0.35rem;
+}
+.od-shap-lbl {
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--blue-700);
+  text-align: right;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.od-action-tag {
+  display: inline-block;
+  font-size: 0.58rem;
+  background: var(--gold-300);
+  color: var(--blue-900);
+  padding: 0.05rem 0.35rem;
+  border-radius: var(--radius-full);
+  margin-left: 0.35rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  vertical-align: middle;
+}
+.od-shap-track {
+  height: 12px;
+  background: var(--ivory-400);
+  border-radius: var(--radius-full);
+  overflow: hidden;
+}
+.od-shap-fill {
+  height: 100%;
+  border-radius: var(--radius-full);
+  transition: width .5s ease;
+}
+.sf-pos { background: linear-gradient(90deg, #3b82d4, #60a5f5); }
+.sf-neg { background: linear-gradient(90deg, #dc2626, #f87171); }
+.od-shap-val {
+  font-size: 0.72rem;
+  font-weight: 700;
+  font-family: monospace;
+}
+.sv-pos { color: var(--blue-500); }
+.sv-neg { color: var(--red-600); }
+.od-shap-raw {
+  font-size: 0.68rem;
+  color: var(--blue-400);
+  font-family: monospace;
+}
+
+/* ── Input Features ──────────────────────────────────── */
+.od-inputs-detail {
+  margin-bottom: 1.25rem;
+}
+.od-inputs-detail summary {
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--blue-700);
+  padding: 0.5rem 0;
+}
+.od-inputs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.4rem;
+  margin-top: 0.5rem;
+}
+.od-input-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.35rem 0.6rem;
+  background: var(--ivory-300);
+  border-radius: var(--radius-sm);
+  font-size: 0.72rem;
+}
+.oi-key { color: var(--blue-600); font-weight: 500; }
+.oi-val { color: var(--blue-900); font-weight: 700; font-family: monospace; }
+
+/* ── Audit Section ───────────────────────────────────── */
+.od-audit-section {
+  border-top: 1px solid var(--blue-100);
+  padding-top: 1rem;
+}
+.od-audit-section h4 {
+  font-family: var(--font-heading);
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: var(--blue-800);
+  margin-bottom: 0.75rem;
+}
+.od-audit-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.od-audit-grid > div {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+.oa-key {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--blue-500);
+  min-width: 80px;
+}
+.od-audit-grid code {
+  font-size: 0.7rem;
+  word-break: break-all;
+  background: var(--blue-50);
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--radius-sm);
+  color: var(--blue-800);
+  border: 1px solid var(--blue-100);
+}
+
+/* ── Animations ──────────────────────────────────────── */
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}

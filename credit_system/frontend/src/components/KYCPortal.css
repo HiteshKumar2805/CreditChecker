@@ -1,0 +1,536 @@
+/* ═══════════════════════════════════════════════════════════
+   KYCPortal.css — Credit Checker KYC Onboarding Flow
+   Palette inherits from index.css design system
+═══════════════════════════════════════════════════════════ */
+
+/* ── Portal Container ─────────────────────────────────────────── */
+.kyc-portal {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  padding-bottom: 4rem;
+}
+
+/* ── Hero ─────────────────────────────────────────────────────── */
+.kyc-hero {
+  text-align: center;
+  padding: 2.5rem 1rem 1rem;
+  position: relative;
+}
+
+.kyc-hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.35rem 1rem;
+  background: linear-gradient(135deg, var(--blue-100), var(--ivory-300));
+  border: 1.5px solid var(--blue-200);
+  border-radius: var(--radius-full);
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--blue-700);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+  animation: badge-pop .5s ease;
+}
+@keyframes badge-pop {
+  from { transform: scale(0.85); opacity: 0; }
+  to   { transform: scale(1);    opacity: 1; }
+}
+
+.kyc-hero-title {
+  font-family: var(--font-heading);
+  font-size: 3rem;
+  font-weight: 900;
+  color: var(--blue-900);
+  letter-spacing: -1.5px;
+  line-height: 1.1;
+  margin-bottom: 0.75rem;
+}
+.kyc-title-accent {
+  background: linear-gradient(135deg, var(--blue-500), var(--gold-400));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.kyc-hero-desc {
+  max-width: 540px;
+  margin: 0 auto;
+  color: var(--blue-600);
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+/* ── Step Bar ─────────────────────────────────────────────────── */
+.kyc-stepbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  padding: 1.25rem 0;
+  background: var(--ivory-100);
+  border-radius: var(--radius-xl);
+  border: 1.5px solid var(--blue-100);
+  box-shadow: var(--shadow-sm);
+}
+
+.kyc-step-group {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.kyc-step-dot {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  background: var(--ivory-400);
+  color: var(--blue-500);
+  border: 2px solid var(--blue-200);
+  transition: all .35s ease;
+  flex-shrink: 0;
+}
+.kyc-step-dot.active {
+  background: var(--blue-700);
+  color: #fff;
+  border-color: var(--blue-700);
+  box-shadow: 0 0 0 4px rgba(37,99,176,.2);
+}
+.kyc-step-dot.done {
+  background: var(--green-600);
+  color: #fff;
+  border-color: var(--green-600);
+}
+
+.kyc-step-label {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--blue-400);
+  white-space: nowrap;
+  transition: color .35s;
+}
+.kyc-step-label.active { color: var(--blue-800); font-weight: 700; }
+
+.kyc-step-line {
+  width: 60px;
+  height: 2px;
+  background: var(--blue-100);
+  border-radius: 2px;
+  margin: 0 0.25rem;
+  transition: background .35s;
+}
+.kyc-step-line.done { background: var(--green-600); }
+
+@media (max-width: 640px) {
+  .kyc-step-label { display: none; }
+  .kyc-step-line  { width: 30px; }
+}
+
+/* ── Section ──────────────────────────────────────────────────── */
+.kyc-section {
+  background: var(--ivory-100);
+  border-radius: var(--radius-xl);
+  border: 1.5px solid var(--blue-100);
+  padding: 2rem;
+  box-shadow: var(--shadow-md);
+}
+.kyc-section-animate {
+  animation: slide-up .45s ease;
+}
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.kyc-section-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1.75rem;
+}
+.kyc-section-num {
+  font-family: var(--font-heading);
+  font-size: 2.5rem;
+  font-weight: 900;
+  color: var(--blue-100);
+  line-height: 1;
+  user-select: none;
+  flex-shrink: 0;
+  margin-top: -0.25rem;
+}
+.kyc-section-title {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--blue-800);
+  margin-bottom: 0.2rem;
+}
+.kyc-section-sub {
+  font-size: 0.875rem;
+  color: var(--blue-500);
+  line-height: 1.5;
+}
+
+/* ── Upload Grid ──────────────────────────────────────────────── */
+.kyc-upload-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+@media (max-width: 640px) {
+  .kyc-upload-grid { grid-template-columns: 1fr; }
+}
+
+.kyc-upload-wrapper { display: flex; flex-direction: column; gap: 0.6rem; }
+
+.kyc-doc-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.kyc-doc-chip {
+  font-family: var(--font-heading);
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--blue-700);
+  background: var(--blue-50);
+  border: 1px solid var(--blue-200);
+  border-radius: var(--radius-full);
+  padding: 0.2rem 0.75rem;
+}
+.kyc-doc-hint {
+  font-size: 0.72rem;
+  color: var(--blue-400);
+}
+
+/* ── Upload Box ───────────────────────────────────────────────── */
+.kyc-upload-box {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  min-height: 160px;
+  padding: 1.5rem;
+  border: 2.5px dashed var(--blue-200);
+  border-radius: var(--radius-lg);
+  background: var(--ivory-200);
+  cursor: pointer;
+  transition: all .25s ease;
+  text-align: center;
+}
+.kyc-upload-box:hover,
+.kyc-upload-box:focus-visible {
+  border-color: var(--blue-400);
+  background: var(--blue-50);
+  box-shadow: 0 0 0 4px rgba(37,99,176,.08);
+}
+.kyc-upload-box.dragging {
+  border-color: var(--blue-500);
+  background: var(--blue-100);
+  transform: scale(1.02);
+}
+.kyc-upload-box.has-file {
+  border-style: solid;
+  border-color: var(--green-600);
+  background: var(--green-100);
+}
+
+.kyc-upload-icon { font-size: 2.5rem; line-height: 1; }
+
+.kyc-upload-info { display: flex; flex-direction: column; gap: 0.2rem; }
+.kyc-upload-label {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--blue-700);
+}
+.kyc-upload-hint {
+  font-size: 0.75rem;
+  color: var(--blue-400);
+}
+.kyc-file-name {
+  font-weight: 600;
+  font-size: 0.88rem;
+  color: var(--green-600);
+  word-break: break-all;
+  max-width: 180px;
+}
+.kyc-file-size {
+  font-size: 0.72rem;
+  color: var(--blue-500);
+}
+.kyc-remove-btn {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: none;
+  background: var(--red-600);
+  color: #fff;
+  font-size: 0.65rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform .2s;
+}
+.kyc-remove-btn:hover { transform: scale(1.15); }
+
+/* ── Extract Button Row ───────────────────────────────────────── */
+.kyc-extract-row {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.kyc-btn-extract {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.85rem 2rem;
+  border: none;
+  border-radius: var(--radius-full);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all .3s ease;
+  background: var(--ivory-400);
+  color: var(--blue-500);
+  box-shadow: none;
+}
+.kyc-btn-extract.active {
+  background: linear-gradient(135deg, var(--blue-700), var(--blue-500));
+  color: #fff;
+  box-shadow: var(--shadow-blue);
+}
+.kyc-btn-extract.active:hover:not(:disabled) {
+  background: linear-gradient(135deg, var(--blue-900), var(--blue-700));
+  transform: translateY(-2px);
+  box-shadow: 0 14px 40px rgba(37,99,176,.4);
+}
+.kyc-btn-extract:disabled { opacity: .6; cursor: not-allowed; }
+
+.kyc-btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  border: 1.5px solid var(--blue-200);
+  border-radius: var(--radius-full);
+  background: transparent;
+  color: var(--blue-600);
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all .2s;
+}
+.kyc-btn-ghost:hover { background: var(--blue-50); border-color: var(--blue-400); }
+
+.kyc-spinner {
+  width: 16px;
+  height: 16px;
+  border: 2.5px solid rgba(255,255,255,.3);
+  border-top-color: #fff;
+  border-radius: 50%;
+  animation: spin .6s linear infinite;
+  display: inline-block;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ── Error Bar ────────────────────────────────────────────────── */
+.kyc-error-bar {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  padding: 0.9rem 1.1rem;
+  background: var(--red-100);
+  border: 1.5px solid var(--red-600);
+  border-radius: var(--radius-md);
+  color: var(--red-600);
+  font-size: 0.875rem;
+  font-weight: 500;
+  animation: slide-up .3s ease;
+}
+
+/* ── Verification Badges ──────────────────────────────────────── */
+.kyc-verify-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+.kyc-verify-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.45rem 1rem;
+  border-radius: var(--radius-full);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+.kyc-verify-badge.badge-ok {
+  background: var(--green-100);
+  color: var(--green-600);
+  border: 1.5px solid var(--green-600);
+}
+.kyc-verify-badge.badge-warn {
+  background: var(--amber-100);
+  color: #b45309;
+  border: 1.5px solid var(--amber-500);
+}
+
+/* ── Data Cards ───────────────────────────────────────────────── */
+.kyc-cards-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+}
+@media (max-width: 700px) {
+  .kyc-cards-grid { grid-template-columns: 1fr; }
+}
+
+.kyc-data-card {
+  border: 1.5px solid var(--blue-100);
+  border-radius: var(--radius-lg);
+  background: var(--ivory-200);
+  overflow: hidden;
+}
+.kyc-data-card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.85rem 1.1rem;
+  background: linear-gradient(135deg, var(--blue-900), var(--blue-700));
+  color: #fff;
+}
+.kyc-data-card-icon { font-size: 1.3rem; }
+.kyc-data-card-header h3 {
+  font-family: var(--font-heading);
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+.kyc-data-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+.kyc-data-field {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.65rem 1.1rem;
+  border-bottom: 1px solid var(--ivory-400);
+  font-size: 0.85rem;
+  transition: background .15s;
+}
+.kyc-data-field:last-child { border-bottom: none; }
+.kyc-data-field:hover { background: var(--ivory-100); }
+.kyc-data-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  color: var(--blue-500);
+  flex-shrink: 0;
+}
+.kyc-data-value {
+  font-weight: 600;
+  color: var(--blue-900);
+  text-align: right;
+  word-break: break-word;
+}
+.kyc-data-missing {
+  font-style: italic;
+  color: var(--blue-300);
+  font-weight: 400;
+}
+
+/* ── Loan Select ──────────────────────────────────────────────── */
+.kyc-loan-select-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  max-width: 420px;
+}
+.kyc-select-icon {
+  position: absolute;
+  left: 1rem;
+  font-size: 1.2rem;
+  pointer-events: none;
+  z-index: 1;
+}
+.kyc-loan-select {
+  width: 100%;
+  padding: 1rem 3rem 1rem 3.2rem;
+  border: 2px solid var(--blue-200);
+  border-radius: var(--radius-full);
+  background: var(--ivory-100);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--blue-800);
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  transition: border-color .2s, box-shadow .2s;
+  box-shadow: var(--shadow-sm);
+}
+.kyc-loan-select:focus {
+  outline: none;
+  border-color: var(--blue-500);
+  box-shadow: 0 0 0 4px rgba(37,99,176,.12);
+}
+.kyc-select-chevron {
+  position: absolute;
+  right: 1.1rem;
+  font-size: 1rem;
+  color: var(--blue-500);
+  pointer-events: none;
+}
+
+/* ── Proceed Hint ─────────────────────────────────────────────── */
+.kyc-proceed-hint {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+  padding: 1rem 1.25rem;
+  background: linear-gradient(135deg, var(--blue-50), var(--ivory-300));
+  border: 1.5px solid var(--blue-200);
+  border-radius: var(--radius-md);
+  font-size: 0.88rem;
+  color: var(--blue-700);
+  line-height: 1.5;
+  animation: slide-up .3s ease;
+}
+.kyc-proceed-icon { font-size: 1.4rem; flex-shrink: 0; }
+
+/* ── Disabled Section ─────────────────────────────────────────── */
+.kyc-section-disabled {
+  opacity: 0.45;
+  filter: grayscale(80%);
+  pointer-events: none;
+  user-select: none;
+  background: var(--ivory-300);
+  border-color: var(--ivory-400);
+  cursor: not-allowed;
+}

@@ -1,0 +1,79 @@
+/* ═══════════════════════════════════════════════════════════
+   CreditSense AI — Global Design System
+   Palette: Deep Navy Blue + Warm Ivory + Gold accents
+═══════════════════════════════════════════════════════════ */
+
+/* ── Google Fonts already loaded via index.html ── */
+
+:root {
+  /* Blues */
+  --blue-950: #0a1628;
+  --blue-900: #0d1f3c;
+  --blue-800: #102a50;
+  --blue-700: #1a3a6b;
+  --blue-600: #1e4d8c;
+  --blue-500: #2563b0;
+  --blue-400: #3b82d4;
+  --blue-300: #60a5f5;
+  --blue-200: #a8cbf8;
+  --blue-100: #dbeafe;
+  --blue-50:  #eff6ff;
+
+  /* Ivory / Warm White */
+  --ivory-100: #fffff8;
+  --ivory-200: #fdfcf4;
+  --ivory-300: #faf8ee;
+  --ivory-400: #f5f2e4;
+  --ivory-500: #ede9d5;
+
+  /* Gold accent */
+  --gold-500: #d4a017;
+  --gold-400: #e8b923;
+  --gold-300: #f5d060;
+
+  /* Status */
+  --green-600: #16a34a;
+  --green-100: #dcfce7;
+  --red-600:   #dc2626;
+  --red-100:   #fee2e2;
+  --amber-500: #f59e0b;
+  --amber-100: #fef3c7;
+
+  /* Typography */
+  --font-heading: 'Outfit', sans-serif;
+  --font-body:    'Inter', sans-serif;
+
+  /* Spacing */
+  --radius-sm:  6px;
+  --radius-md:  12px;
+  --radius-lg:  18px;
+  --radius-xl:  24px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-sm:  0 1px 3px rgba(10,22,40,.08), 0 1px 2px rgba(10,22,40,.06);
+  --shadow-md:  0 4px 16px rgba(10,22,40,.10), 0 2px 6px rgba(10,22,40,.07);
+  --shadow-lg:  0 12px 40px rgba(10,22,40,.14), 0 4px 12px rgba(10,22,40,.08);
+  --shadow-blue: 0 8px 32px rgba(37,99,176,.25);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-body);
+  background: var(--ivory-300);
+  color: var(--blue-950);
+  min-height: 100vh;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Scrollbar ─────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--ivory-400); }
+::-webkit-scrollbar-thumb { background: var(--blue-300); border-radius: 4px; }
+
+/* ── Utility ───────────────────────────────────────────── */
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0,0,0,0); }

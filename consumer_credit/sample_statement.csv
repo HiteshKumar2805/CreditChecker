@@ -1,0 +1,9 @@
+txn_type,amount,balance,date,description
+credit,35000,45000,2023-01-01,Salary
+debit,12000,33000,2023-01-05,Rent Payment
+debit,5000,28000,2023-01-10,Zerodha Mutual Fund SIP
+debit,2000,26000,2023-01-15,Electricity Bill
+credit,5000,31000,2023-01-20,Freelance Payment
+debit,800,30200,2023-01-22,Zomato Food Delivery
+debit,2000,28200,2023-01-25,Dream11 Add Funds
+debit,1000,27200,2023-01-28,Amazon Shopping

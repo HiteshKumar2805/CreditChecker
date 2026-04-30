@@ -1,0 +1,12 @@
+{
+  "model_type": "LightGBM",
+  "n_estimators": 800,
+  "cv_auc": 0.9989,
+  "optimal_threshold": 0.9961102771991198,
+  "scale_pos_weight": 37.96,
+  "n_features": 32,
+  "train_rows": 3000,
+  "pos_class_count": 77,
+  "neg_class_count": 2923,
+  "version": "1.0.0"
+}

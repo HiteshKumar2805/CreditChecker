@@ -1,0 +1,138 @@
+{
+  "features": {
+    "cibil_score": {
+      "label": "CIBIL / Credit Score",
+      "description": "Your credit score as reported by CIBIL",
+      "unit": "points (300\u2013900)",
+      "actionable": true,
+      "action_tip": "Pay all EMIs on time for 6\u201312 months to improve your score",
+      "direction": "higher_is_better",
+      "rejection_threshold": 550,
+      "weight": "dominant"
+    },
+    "dti_ratio": {
+      "label": "Debt-to-Income Ratio",
+      "description": "Total monthly EMI obligations as a fraction of income",
+      "unit": "ratio (0\u20131)",
+      "actionable": true,
+      "action_tip": "Close existing loans or request a smaller loan amount",
+      "direction": "lower_is_better",
+      "rejection_threshold": 0.75,
+      "weight": "dominant"
+    },
+    "employment_tenure_days": {
+      "label": "Employment Stability",
+      "description": "Duration at current employer or in current business",
+      "unit": "days",
+      "actionable": false,
+      "action_tip": "Continue in your current role; stability improves over time",
+      "direction": "higher_is_better",
+      "rejection_threshold": 180,
+      "weight": "strong"
+    },
+    "days_past_due": {
+      "label": "Overdue Payment History",
+      "description": "Days overdue on most recent loan or credit card",
+      "unit": "days",
+      "actionable": true,
+      "action_tip": "Clear all overdue amounts immediately",
+      "direction": "lower_is_better",
+      "rejection_threshold": 90,
+      "weight": "strong"
+    },
+    "monthly_income": {
+      "label": "Monthly Income",
+      "description": "Verified net monthly income",
+      "unit": "INR",
+      "actionable": false,
+      "action_tip": "Consider adding a co-applicant with income",
+      "direction": "higher_is_better",
+      "weight": "moderate"
+    },
+    "loan_amount": {
+      "label": "Loan Amount Requested",
+      "description": "Principal amount applied for",
+      "unit": "INR",
+      "actionable": true,
+      "action_tip": "Reducing the loan amount improves approval chances",
+      "direction": "lower_is_better",
+      "weight": "moderate"
+    },
+    "loan_to_income": {
+      "label": "Loan-to-Income Multiple",
+      "description": "Loan amount as a multiple of monthly income",
+      "unit": "x",
+      "actionable": true,
+      "action_tip": "Request a lower amount relative to your income",
+      "direction": "lower_is_better",
+      "weight": "moderate"
+    },
+    "bounced_cheques_12m": {
+      "label": "Bounced Cheques (12 months)",
+      "description": "Number of returned/bounced cheques in the past year",
+      "unit": "count",
+      "actionable": true,
+      "action_tip": "Maintain sufficient balance to avoid cheque bounces",
+      "direction": "lower_is_better",
+      "rejection_threshold": 3,
+      "weight": "moderate"
+    },
+    "balance_volatility": {
+      "label": "Balance Stability",
+      "description": "Variability in bank account balance over 6 months",
+      "unit": "coefficient of variation",
+      "actionable": false,
+      "action_tip": "Maintain consistent account activity",
+      "direction": "lower_is_better",
+      "weight": "secondary"
+    },
+    "credit_enquiries_6m": {
+      "label": "Recent Credit Enquiries",
+      "description": "Hard credit pulls in the last 6 months",
+      "unit": "count",
+      "actionable": true,
+      "action_tip": "Avoid applying for multiple loans simultaneously",
+      "direction": "lower_is_better",
+      "weight": "secondary"
+    },
+    "credit_utilization": {
+      "label": "Credit Card Utilization",
+      "description": "Fraction of available credit card limit being used",
+      "unit": "ratio (0\u20131)",
+      "actionable": true,
+      "action_tip": "Keep credit card utilization below 30%",
+      "direction": "lower_is_better",
+      "weight": "secondary"
+    },
+    "credit_history_years": {
+      "label": "Credit History Length",
+      "description": "Years since first credit account was opened",
+      "unit": "years",
+      "actionable": false,
+      "action_tip": "Credit history length improves naturally over time",
+      "direction": "higher_is_better",
+      "weight": "secondary"
+    },
+    "net_monthly_surplus": {
+      "label": "Monthly Surplus",
+      "description": "Income remaining after all existing and proposed EMIs",
+      "unit": "INR",
+      "actionable": true,
+      "action_tip": "Reduce existing EMI burden or add a co-applicant",
+      "direction": "higher_is_better",
+      "weight": "moderate"
+    }
+  },
+  "protected_attributes": [
+    "gender",
+    "city_tier",
+    "age"
+  ],
+  "label_column": "loan_approved",
+  "id_column": "application_id",
+  "drop_before_training": [
+    "application_id",
+    "approval_proba"
+  ],
+  "model_notes": "LightGBM binary classifier. Positive class = loan approved."
+}

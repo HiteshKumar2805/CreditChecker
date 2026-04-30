@@ -1,0 +1,3001 @@
+name,age,gender,marital_status,cibil_score,monthly_income,employment_type,family_size,dependents,education_level
+Kirsten Henderson,27,Female,Married,738,48881,Self-Employed,5,0,PhD
+Kendra Salazar,40,Female,Single,430,143372,Unemployed,2,1,PhD
+Tiffany Rivera,46,Male,Single,888,111055,Salaried,4,0,High School
+Steven Perez,40,Male,Married,352,38711,Unemployed,3,2,High School
+Lisa Fuller,31,Male,Married,755,34496,Unemployed,2,1,High School
+Lauren Randolph,58,Male,Married,589,131253,Unemployed,4,3,PhD
+Adam Ray PhD,35,Female,Married,765,180535,Unemployed,4,2,High School
+Sandra Lee PhD,38,Female,Single,875,42039,Unemployed,2,0,PhD
+Julia Ritter,39,Female,Single,747,177477,Self-Employed,5,1,PhD
+Mark Lloyd,42,Female,Single,705,120345,Self-Employed,6,5,PhD
+Miss Katrina Ryan,47,Female,Married,320,22285,Unemployed,4,2,PhD
+Yesenia Nguyen,45,Female,Single,465,127693,Unemployed,4,1,High School
+Roger Rodriguez,37,Female,Single,600,182175,Unemployed,1,0,PhD
+Marvin Barber,42,Male,Single,764,50417,Salaried,3,0,Master
+Wendy Anderson,41,Male,Married,426,176053,Salaried,6,5,Master
+Ryan Brooks,22,Female,Married,512,163725,Salaried,1,0,Bachelor
+Justin Robertson,44,Male,Married,716,92302,Unemployed,4,1,PhD
+Mike Murray,50,Male,Single,477,15353,Unemployed,4,3,High School
+Jeffery Preston,52,Male,Married,628,48984,Self-Employed,3,2,High School
+Heather Moreno,26,Male,Single,687,29386,Salaried,5,1,Master
+Patrick Quinn,31,Female,Single,538,130124,Unemployed,6,0,High School
+Daniel Howard,46,Male,Single,490,40702,Salaried,5,0,High School
+Michele Brown,56,Male,Married,769,108162,Salaried,2,0,High School
+Julie Hill,43,Female,Single,617,57724,Unemployed,4,3,Master
+Elizabeth Gonzalez,43,Male,Single,743,42746,Salaried,3,1,PhD
+Johnny Lewis,21,Male,Single,397,45337,Salaried,6,0,High School
+Michael Davis,43,Female,Married,522,56273,Unemployed,4,1,High School
+Joe Lambert,51,Female,Single,416,75532,Unemployed,5,4,PhD
+Michael White,42,Female,Single,319,28868,Self-Employed,6,4,High School
+Amy Bray,41,Female,Married,900,173986,Self-Employed,1,0,Bachelor
+Taylor Good,28,Male,Single,385,147689,Unemployed,2,1,High School
+Michael Gregory,59,Female,Single,806,44671,Unemployed,2,0,High School
+Anthony Sims,53,Female,Married,670,188771,Self-Employed,4,3,Master
+Douglas Bryant,45,Female,Single,525,141284,Unemployed,3,1,PhD
+Kelly Alvarez,52,Female,Single,870,85779,Salaried,3,1,Master
+Misty Gonzalez,33,Male,Married,554,41475,Salaried,5,0,PhD
+Anthony Brown,37,Female,Married,317,63106,Self-Employed,3,0,PhD
+Todd Clark,27,Male,Single,502,185877,Unemployed,5,2,Bachelor
+Antonio Austin,35,Male,Married,869,47028,Self-Employed,3,2,Master
+Hunter Shaw,36,Female,Married,681,31861,Self-Employed,6,1,PhD
+Lori Howard,39,Male,Single,891,21377,Self-Employed,2,1,Bachelor
+Jamie Howell,53,Female,Single,859,98643,Unemployed,6,2,Bachelor
+Michael Ramirez,54,Female,Single,617,172875,Unemployed,3,1,High School
+Amber Johnson,28,Female,Married,614,117015,Self-Employed,1,0,High School
+Erik Hughes,49,Female,Married,684,194069,Self-Employed,2,1,Bachelor
+Trevor Harvey,29,Male,Married,814,82189,Self-Employed,3,2,PhD
+Ryan Wilson,23,Male,Married,813,83204,Self-Employed,6,4,PhD
+Derek Horn,33,Male,Single,828,193402,Salaried,1,0,Bachelor
+David Burch,33,Male,Married,778,60161,Unemployed,6,1,High School
+Kelly Lee,40,Male,Single,883,149611,Salaried,6,3,High School
+Alexander Hoffman,59,Female,Single,455,126552,Salaried,6,4,PhD
+Beth French,25,Female,Single,730,109621,Salaried,3,0,Bachelor
+Randall Peters,39,Male,Married,430,73859,Unemployed,6,3,High School
+Christopher Moore,44,Female,Single,656,69336,Unemployed,5,3,Bachelor
+John Fitzgerald,54,Male,Married,518,94955,Unemployed,1,0,Bachelor
+Andrew Greene,48,Male,Married,742,136697,Unemployed,4,3,Master
+Thomas Jones,38,Female,Single,851,193578,Salaried,1,0,Bachelor
+Heather Stout,40,Male,Married,607,128770,Unemployed,1,0,Master
+Susan Patterson,25,Male,Single,710,69912,Salaried,2,0,High School
+Linda Murray,36,Male,Single,522,141217,Salaried,6,5,High School
+Alicia Morris,27,Female,Married,899,130785,Salaried,6,1,High School
+Joel Cooper,29,Female,Married,336,96146,Unemployed,2,0,PhD
+Brenda Vega,42,Male,Single,828,44363,Unemployed,1,0,High School
+Allen Holloway,52,Female,Married,574,168547,Unemployed,5,2,High School
+Angela Baldwin,56,Female,Single,505,169210,Self-Employed,4,0,PhD
+Daniel Quinn,27,Male,Married,554,16003,Salaried,6,1,Master
+David Rodgers,58,Male,Married,688,180927,Salaried,1,0,Bachelor
+Denise Garner,23,Male,Single,420,29698,Unemployed,2,1,Bachelor
+Shannon Ward,46,Male,Single,803,85869,Salaried,5,0,PhD
+Katelyn Anderson,53,Female,Married,502,104203,Self-Employed,4,2,PhD
+Julie Hinton,43,Male,Single,446,49856,Self-Employed,6,3,Master
+Joseph Nguyen,51,Female,Single,397,105156,Salaried,6,0,High School
+Sean Jones,33,Female,Single,576,42948,Self-Employed,1,0,Master
+Travis Salinas,38,Male,Married,728,145853,Unemployed,3,0,Master
+Todd Gross,25,Female,Married,614,135981,Salaried,4,0,High School
+Richard Taylor,33,Male,Married,842,20336,Salaried,4,3,Master
+Dana Roach,37,Female,Single,521,161895,Salaried,4,2,Master
+Travis Lawrence,24,Female,Married,547,100439,Unemployed,1,0,Master
+Lisa Schroeder,51,Male,Single,696,178052,Salaried,3,2,PhD
+Ricardo Barnett,47,Female,Single,308,120822,Self-Employed,3,1,Master
+Joseph Wilson,56,Female,Married,598,156246,Unemployed,6,4,High School
+Jimmy Brown,27,Female,Single,583,159998,Self-Employed,5,0,High School
+Thomas Ray,38,Male,Single,331,120262,Salaried,1,0,PhD
+Jeffery Phillips,23,Female,Married,703,40807,Salaried,3,1,Master
+Mark Bird,54,Female,Single,766,181391,Self-Employed,3,0,Master
+Edwin Lewis,38,Male,Single,709,185281,Self-Employed,6,4,Master
+Jonathan Cobb,27,Male,Single,571,29983,Unemployed,4,2,PhD
+Sherry Owens,35,Female,Single,574,46734,Self-Employed,5,4,PhD
+Jason Hampton,55,Male,Married,613,102859,Salaried,5,4,PhD
+Tina Sanford,33,Female,Married,634,181991,Salaried,2,1,Master
+Annette Jones,46,Male,Married,791,192700,Self-Employed,3,1,Master
+Javier Barber,22,Male,Single,820,53729,Salaried,3,1,PhD
+Derek Bentley,54,Female,Single,346,70196,Salaried,1,0,Master
+Trevor Glass,31,Female,Single,367,42320,Self-Employed,1,0,High School
+Michelle Edwards,27,Male,Single,499,140274,Salaried,1,0,High School
+Anthony Hodges,21,Male,Single,767,196785,Unemployed,6,3,Bachelor
+Vanessa Harrison,25,Male,Single,420,68332,Salaried,4,1,PhD
+Jessica Mejia,24,Male,Single,546,88565,Self-Employed,6,3,PhD
+Miss Jordan Vasquez DDS,41,Male,Married,570,173480,Unemployed,3,1,Master
+Jeffrey Howard,22,Male,Single,781,72416,Salaried,6,0,PhD
+Ronald Hall,34,Female,Married,382,78253,Unemployed,4,0,Bachelor
+Timothy Mcclain,46,Male,Married,456,135093,Self-Employed,4,3,High School
+Brandon Simpson,44,Female,Married,555,25645,Salaried,5,0,High School
+Tiffany Williams,27,Male,Married,500,172146,Salaried,4,0,PhD
+Monica West,30,Female,Single,803,82717,Self-Employed,2,1,Master
+Katherine Smith,27,Female,Married,724,175519,Unemployed,6,4,High School
+Vanessa Brown,25,Female,Single,802,138325,Salaried,6,2,High School
+Erica Fitzgerald,57,Male,Single,846,48505,Self-Employed,5,4,Master
+Douglas Mcintosh,56,Female,Single,342,66550,Self-Employed,1,0,High School
+Ashley King,50,Male,Married,879,16606,Salaried,5,0,PhD
+Julia Blanchard,53,Female,Married,582,139074,Salaried,1,0,PhD
+Mrs. Misty Cooper,52,Male,Married,411,127259,Unemployed,3,0,Master
+Steven Wagner,38,Female,Single,455,56950,Salaried,5,2,High School
+Christopher Hill,51,Male,Married,725,42635,Salaried,6,0,High School
+James Torres,51,Male,Married,561,85590,Unemployed,1,0,Bachelor
+Jennifer Williamson,26,Female,Married,549,61825,Salaried,6,5,PhD
+Catherine Brown,57,Female,Single,683,69386,Salaried,4,2,Bachelor
+James Foster,26,Male,Married,602,197357,Unemployed,2,1,Bachelor
+Emily Davis,47,Female,Single,560,124108,Unemployed,5,3,Bachelor
+Austin Fox,29,Male,Married,816,199340,Unemployed,6,2,Bachelor
+Gary Alexander,21,Male,Single,500,197944,Salaried,1,0,PhD
+Jason Garcia,21,Female,Single,661,176213,Salaried,3,2,High School
+Mary Murphy,54,Female,Married,882,164247,Self-Employed,3,1,Bachelor
+John Jacobs,26,Female,Single,412,114273,Self-Employed,5,3,Master
+Danielle Vaughn,60,Male,Married,535,146180,Salaried,1,0,Master
+Kelly Hernandez,44,Female,Married,771,196612,Salaried,5,1,Master
+Mrs. Jessica Smith MD,58,Male,Single,650,196114,Salaried,4,1,Bachelor
+John Owens,32,Female,Single,686,184851,Self-Employed,2,1,Master
+Cindy Fuentes,54,Male,Single,328,76711,Salaried,1,0,Master
+Beth Welch MD,25,Male,Single,326,42840,Self-Employed,1,0,PhD
+Sean Sullivan,36,Female,Single,326,97526,Salaried,6,4,PhD
+Brenda Hudson,37,Female,Married,375,148342,Self-Employed,5,1,Master
+Mary Mahoney,45,Male,Married,725,61443,Unemployed,2,1,PhD
+Brittany Keller,23,Male,Married,748,170598,Unemployed,2,1,Bachelor
+Erika Roberts,41,Female,Married,423,119633,Salaried,4,0,High School
+Philip Brown,40,Male,Married,816,196976,Salaried,5,0,PhD
+William Walker MD,26,Female,Single,871,83095,Unemployed,2,1,Master
+Andrew Hart,57,Male,Single,396,48518,Salaried,2,0,High School
+Dan Roberts,58,Female,Single,357,197403,Salaried,2,0,High School
+Christine Wyatt,25,Female,Married,654,30752,Unemployed,6,5,High School
+Kelly Santiago,38,Female,Married,630,186952,Self-Employed,6,1,PhD
+Bobby Vargas,60,Male,Married,884,197663,Unemployed,3,1,High School
+Philip Wheeler,52,Female,Married,852,122282,Self-Employed,6,4,High School
+Sarah Byrd,29,Female,Married,841,110072,Salaried,3,1,Bachelor
+Matthew Benson,44,Female,Married,575,58512,Unemployed,4,2,High School
+Janet Hess,47,Female,Single,750,128094,Salaried,2,1,PhD
+Shane Macdonald,38,Male,Married,382,21928,Unemployed,4,0,High School
+Manuel Welch,31,Female,Married,516,150786,Self-Employed,4,2,High School
+Eric Brooks,30,Female,Single,507,182207,Self-Employed,1,0,Master
+Amy Huffman,27,Female,Married,882,130039,Salaried,6,5,Master
+Sandra Willis,43,Female,Single,433,102019,Unemployed,1,0,Bachelor
+Jasmine Reynolds,50,Male,Single,787,97433,Self-Employed,4,0,Bachelor
+James Campos,57,Male,Married,668,149508,Salaried,5,2,High School
+Alejandra Parsons,52,Male,Married,728,88708,Salaried,1,0,Master
+John Buchanan,42,Female,Single,495,170935,Self-Employed,2,0,Bachelor
+Zoe Schwartz,26,Female,Single,640,199740,Unemployed,6,5,PhD
+Jessica Ramos,57,Female,Single,602,198059,Salaried,1,0,Master
+Mindy Taylor,53,Male,Married,586,150617,Self-Employed,1,0,PhD
+David Hobbs,27,Male,Single,669,74764,Salaried,6,2,Bachelor
+Crystal Kim,53,Female,Single,733,135057,Self-Employed,4,0,High School
+John Garcia,52,Male,Married,648,30862,Salaried,2,1,High School
+Brandon Wolf,25,Male,Married,549,46888,Unemployed,5,1,High School
+Nancy Ruiz,39,Female,Married,441,104663,Salaried,6,5,PhD
+Valerie Stewart,23,Female,Single,439,181963,Unemployed,1,0,Master
+John Valentine,50,Male,Married,828,56038,Salaried,2,0,PhD
+Marie Woods,27,Female,Single,740,60604,Salaried,4,2,Bachelor
+Joshua Bailey,45,Male,Single,719,83272,Self-Employed,5,3,PhD
+Mary Garrett,56,Male,Single,831,38050,Unemployed,1,0,PhD
+Timothy Hester,48,Male,Married,355,193678,Self-Employed,6,5,PhD
+Danielle Hanna,53,Male,Single,593,57062,Unemployed,6,5,High School
+Matthew Greene,22,Female,Married,593,57831,Salaried,6,0,High School
+Nicole Reeves,51,Male,Single,409,66186,Self-Employed,4,3,Master
+Jessica Bennett,31,Female,Single,682,174380,Self-Employed,6,3,Master
+Jeremy Moreno,42,Male,Married,633,128549,Self-Employed,2,1,Master
+Victor Campos,46,Female,Single,714,166669,Salaried,2,0,Bachelor
+Stephanie Cantrell,40,Female,Married,633,80937,Self-Employed,6,2,Master
+Ricky Ortega,56,Female,Married,570,67352,Unemployed,4,0,PhD
+Katrina Guzman,31,Female,Married,747,187125,Unemployed,1,0,High School
+Edward Cunningham,34,Female,Single,614,105784,Self-Employed,5,2,PhD
+Joseph Simpson,32,Female,Married,845,103043,Unemployed,3,1,High School
+Ms. Hannah Chan,23,Female,Married,332,15390,Self-Employed,3,1,Bachelor
+David Montoya,31,Female,Married,435,192827,Salaried,5,3,High School
+Carlos Watkins,32,Male,Married,334,70902,Salaried,2,1,Bachelor
+Jeffrey Mckee,60,Male,Single,391,158928,Unemployed,3,1,Master
+Joshua Hutchinson,40,Female,Married,480,35278,Unemployed,3,2,Bachelor
+Eric Thomas,39,Male,Single,417,144492,Unemployed,1,0,Master
+Ricky Evans,47,Female,Married,699,103189,Unemployed,6,0,High School
+Dana Shaw,50,Female,Single,690,16490,Unemployed,5,3,PhD
+Kenneth Smith,27,Female,Single,567,183664,Salaried,6,0,Master
+John Freeman,37,Male,Married,657,116648,Salaried,2,1,High School
+Lisa Pugh,45,Female,Married,437,172466,Self-Employed,1,0,PhD
+Janet Miles,22,Male,Married,530,171724,Salaried,3,1,Bachelor
+Joe Howe,58,Female,Single,737,164162,Unemployed,3,1,Master
+Shannon Scott,50,Male,Married,570,125711,Self-Employed,4,3,High School
+Mark Petty,44,Male,Single,894,109491,Self-Employed,2,0,High School
+Carrie Bradley,29,Male,Married,658,129684,Unemployed,1,0,Bachelor
+Jeffrey Nelson,56,Female,Married,557,85759,Salaried,6,1,PhD
+Carla Stanley,24,Female,Single,590,117195,Unemployed,6,5,Bachelor
+Joseph Salas,26,Male,Married,440,141297,Self-Employed,4,2,Master
+Carl Davis,22,Female,Single,502,66794,Unemployed,2,0,PhD
+Mark Berger,58,Female,Married,664,186568,Unemployed,2,0,PhD
+Ruben Bradford,26,Female,Married,514,117751,Unemployed,5,4,Master
+Jessica Young,49,Male,Married,301,37887,Unemployed,5,1,High School
+Tammy Hill,54,Female,Married,370,89936,Salaried,3,2,Bachelor
+Glenn Perez,33,Female,Married,828,82769,Salaried,5,0,PhD
+Christina Wilson,39,Male,Single,459,164038,Salaried,3,0,Master
+Brian Edwards,52,Male,Single,753,193282,Self-Employed,5,3,PhD
+Teresa Holmes,38,Male,Single,467,26690,Self-Employed,3,2,Bachelor
+Abigail Allen,30,Male,Married,305,83718,Self-Employed,4,3,PhD
+Lee Jensen,27,Female,Single,819,145453,Unemployed,3,0,Bachelor
+Amy Smith,47,Female,Married,546,99722,Self-Employed,2,0,Bachelor
+Andrew Forbes,36,Female,Single,399,88773,Salaried,3,2,Bachelor
+Sharon Turner,56,Female,Single,331,57513,Unemployed,6,1,High School
+Alexander Williams,21,Female,Married,529,54636,Unemployed,4,3,PhD
+Megan Jackson,46,Male,Married,537,28853,Unemployed,3,1,Master
+Rebecca English,39,Female,Single,472,165428,Self-Employed,1,0,Master
+Michelle Taylor,38,Female,Single,883,182049,Self-Employed,3,2,PhD
+Erik Ibarra,44,Male,Married,313,194111,Self-Employed,3,2,High School
+Kimberly Davis,52,Male,Single,315,27220,Unemployed,6,0,Bachelor
+Christopher Hunt,28,Male,Married,414,173487,Salaried,6,1,High School
+Robert Hopkins,44,Male,Married,714,154265,Unemployed,3,0,Bachelor
+Marilyn Price,39,Male,Married,338,28622,Unemployed,5,4,Master
+Raymond Dorsey,37,Female,Married,634,66369,Salaried,1,0,Master
+Raven Castillo,58,Male,Single,335,92437,Salaried,5,3,PhD
+Virginia Wilson,22,Male,Single,882,45220,Self-Employed,1,0,Master
+Michael Obrien,48,Male,Single,306,119641,Salaried,1,0,Master
+Wesley Dalton,42,Male,Single,811,179835,Unemployed,2,0,High School
+Daniel Newman,43,Female,Single,302,82333,Self-Employed,5,1,High School
+Hayley Gonzalez,54,Male,Single,644,23330,Unemployed,5,1,Bachelor
+Kathleen Wells,28,Female,Single,687,41034,Unemployed,1,0,Master
+David Sanchez,58,Male,Single,424,194145,Self-Employed,3,0,High School
+John Browning,40,Female,Single,889,199261,Self-Employed,1,0,High School
+Faith Cooley,39,Male,Single,324,36336,Self-Employed,2,1,Bachelor
+John Tran,38,Female,Married,367,36667,Self-Employed,4,1,High School
+Rita Nelson,45,Male,Married,818,83227,Salaried,2,1,Master
+Gabriella Brown,60,Male,Single,301,17789,Unemployed,1,0,High School
+Nicole Williams,41,Female,Married,812,77382,Unemployed,5,2,Master
+Emily Jensen,37,Male,Single,320,78909,Self-Employed,1,0,High School
+Joel Cooper,42,Female,Married,821,112545,Salaried,2,0,Bachelor
+Ronnie Wheeler,21,Female,Single,608,28616,Salaried,3,1,High School
+Andrew Cortez,59,Female,Single,530,20630,Self-Employed,2,0,Master
+Daniel Meyers,33,Male,Single,310,171953,Self-Employed,1,0,Bachelor
+Corey Weaver,51,Female,Single,860,48503,Unemployed,1,0,Master
+William Charles,41,Female,Married,763,162042,Self-Employed,4,1,Bachelor
+Patricia Brooks,55,Male,Single,824,183485,Self-Employed,3,0,PhD
+Samuel Ortiz,47,Female,Single,384,151444,Salaried,3,0,Master
+Rhonda Parsons,24,Male,Single,805,142184,Unemployed,4,0,High School
+Janet Green,37,Female,Single,692,80664,Unemployed,5,0,Master
+Melissa Cox,41,Male,Single,395,67405,Self-Employed,2,1,Master
+Lisa Thompson,24,Female,Married,721,172746,Self-Employed,1,0,PhD
+Ms. Megan Smith MD,27,Female,Married,522,85107,Salaried,4,1,High School
+Debbie Higgins,23,Male,Married,405,35381,Self-Employed,6,0,High School
+John Richardson,33,Female,Single,480,124173,Unemployed,4,0,Bachelor
+Robert White,22,Female,Married,544,99314,Salaried,3,2,PhD
+Tracy Williams,55,Male,Married,356,50793,Self-Employed,4,0,Master
+Jeffery Watkins,54,Female,Married,566,114590,Self-Employed,4,0,High School
+James Moore,41,Female,Married,553,194866,Self-Employed,3,2,PhD
+Miranda Rodriguez,31,Male,Married,494,87812,Salaried,4,1,PhD
+Tammy Hodges,49,Male,Married,372,96013,Unemployed,2,1,PhD
+Crystal Wheeler,38,Female,Single,763,79961,Salaried,2,0,PhD
+Ashley Huerta,29,Female,Married,761,105380,Salaried,1,0,High School
+Christopher Mata,30,Male,Single,555,177889,Unemployed,1,0,High School
+Michelle Reid MD,39,Female,Married,455,40330,Salaried,2,0,Bachelor
+Adam Ross,53,Male,Married,524,23461,Unemployed,2,0,High School
+Jennifer Sanchez,29,Male,Married,802,162445,Salaried,1,0,Master
+Brenda Cooley,43,Female,Single,580,27484,Self-Employed,4,3,Bachelor
+Gloria Barnett DDS,44,Male,Single,805,40955,Salaried,3,0,Master
+Jennifer Mcmillan,45,Female,Single,561,50467,Unemployed,2,1,PhD
+Ryan Pittman,34,Male,Married,523,190583,Self-Employed,5,0,Master
+Tonya Valenzuela,39,Male,Married,733,139667,Unemployed,2,1,Bachelor
+Jesse Sherman,43,Male,Single,877,99084,Self-Employed,4,0,PhD
+Haley Nelson,21,Female,Single,757,185957,Salaried,1,0,PhD
+Kathleen Cook,30,Male,Married,378,180801,Salaried,6,4,Master
+Robert Palmer,46,Female,Married,610,81090,Salaried,4,3,High School
+Jasmine Peck,49,Female,Single,358,15677,Self-Employed,4,2,Bachelor
+Darren Robinson,33,Male,Single,853,33470,Self-Employed,1,0,Bachelor
+Andrew Bradford,46,Female,Single,559,86582,Salaried,4,3,Master
+Trevor Stewart,23,Female,Married,639,141568,Salaried,4,0,Master
+Joseph Thompson,51,Female,Married,766,66699,Self-Employed,6,1,Bachelor
+Brian Fowler,44,Male,Single,726,184677,Unemployed,5,4,High School
+Matthew Bradley,22,Female,Married,779,32515,Salaried,6,2,Bachelor
+Debra Ray,42,Male,Married,313,49560,Salaried,4,3,High School
+Sara Smith,21,Female,Married,766,63390,Salaried,1,0,High School
+Carlos Smith,28,Female,Married,821,113652,Self-Employed,4,2,Bachelor
+Allison Stevens,28,Male,Single,532,58490,Salaried,3,0,Bachelor
+Rebecca Martin,57,Male,Single,816,195852,Salaried,2,0,PhD
+Bryan Richards,44,Female,Single,614,109627,Unemployed,1,0,High School
+Sandra Martinez,29,Male,Married,597,190449,Self-Employed,6,2,High School
+Stephen Mccarthy,27,Female,Married,712,26429,Unemployed,4,0,PhD
+Denise Johnson,36,Male,Single,508,44352,Unemployed,1,0,High School
+Nicholas Cooper,44,Male,Single,372,43398,Self-Employed,2,0,PhD
+Matthew Griffin,32,Female,Single,528,83618,Unemployed,2,1,High School
+Sarah Wallace,33,Male,Married,843,145337,Self-Employed,1,0,Master
+Thomas Stanton,23,Female,Married,462,99726,Self-Employed,5,0,High School
+Dr. Brandon Dyer,36,Male,Single,763,26621,Salaried,4,0,Bachelor
+Frances Walsh,31,Female,Single,309,26303,Unemployed,4,3,High School
+Christopher Webb,40,Male,Single,358,130840,Unemployed,6,4,High School
+Roberto Knox,22,Male,Single,859,160603,Unemployed,4,3,Master
+Joseph Buchanan,36,Male,Single,305,20099,Salaried,2,0,Master
+Wendy Monroe,60,Female,Single,338,142358,Unemployed,2,1,Master
+Michael Johnson,46,Male,Married,548,123794,Unemployed,2,0,Bachelor
+Steven Cunningham,55,Male,Married,860,156961,Salaried,1,0,Bachelor
+Sarah Bridges,41,Male,Single,340,172004,Salaried,2,1,PhD
+Nancy Lloyd,27,Female,Single,614,66310,Self-Employed,6,3,Master
+Patricia Owens,27,Female,Married,727,21560,Self-Employed,4,0,PhD
+Taylor Long,46,Female,Single,481,196288,Unemployed,6,2,Bachelor
+Kelsey Robinson,34,Female,Married,533,93863,Salaried,5,3,High School
+Colin Miller,45,Female,Married,765,142551,Self-Employed,6,0,High School
+Ronald Spence,40,Male,Married,414,70027,Unemployed,6,3,Master
+Steven Foster,40,Male,Married,642,111803,Unemployed,3,1,Master
+Jeffery Taylor,54,Female,Married,747,16432,Self-Employed,2,1,Bachelor
+Mary Barrett,56,Male,Single,326,95609,Unemployed,4,1,Master
+Stephanie Hernandez,25,Female,Single,525,28827,Unemployed,4,0,High School
+Stephanie Johnson,48,Female,Married,345,123209,Salaried,6,5,PhD
+Brittany Flowers,59,Male,Married,427,137887,Self-Employed,6,2,PhD
+Donald Boyle,28,Male,Married,426,126582,Self-Employed,5,3,High School
+Julie Fields,40,Female,Single,708,198263,Self-Employed,3,1,High School
+Pamela Schmidt,24,Male,Single,371,86405,Unemployed,6,5,PhD
+Kayla Downs,56,Female,Single,756,72364,Salaried,2,0,PhD
+Anne Harris,45,Female,Single,856,77978,Self-Employed,5,0,PhD
+Eric Morrison,43,Male,Married,343,185976,Salaried,6,1,Master
+Lauren Williamson,57,Female,Married,831,175170,Salaried,4,2,High School
+Jessica Jones,23,Male,Single,436,178598,Self-Employed,1,0,PhD
+Christina Rodriguez,25,Female,Single,772,143245,Self-Employed,3,2,Bachelor
+Susan Smith,42,Female,Married,464,59431,Self-Employed,6,1,Bachelor
+Isabella Reid,21,Male,Married,649,176404,Salaried,2,0,PhD
+Melanie White,37,Male,Single,503,149901,Self-Employed,1,0,High School
+Jennifer Sherman,57,Female,Married,306,101461,Salaried,2,1,High School
+John Hamilton,25,Female,Married,700,17636,Salaried,2,0,Bachelor
+Joseph Bowers,42,Female,Single,304,174048,Self-Employed,5,0,PhD
+Kaitlyn Hernandez,40,Female,Married,480,174143,Salaried,4,2,Master
+Chelsea Baker,60,Male,Married,693,15575,Self-Employed,3,0,PhD
+Morgan Williams,53,Female,Single,703,118988,Self-Employed,2,1,PhD
+Kathleen Kidd,34,Male,Single,675,171800,Self-Employed,3,0,Master
+Walter Norman,35,Female,Married,883,72740,Self-Employed,4,1,PhD
+Dylan Miles,40,Male,Married,881,46456,Salaried,2,0,Master
+Jose Shaffer,37,Male,Single,724,28741,Salaried,2,1,Master
+Brittany Evans,38,Male,Single,404,158301,Self-Employed,5,1,PhD
+Angela Cooper,55,Female,Married,859,70513,Self-Employed,3,2,Master
+Jamie Richardson,56,Male,Single,517,169571,Unemployed,5,1,High School
+Mrs. Alexa Moore,31,Male,Married,811,67007,Unemployed,5,4,PhD
+Maria Cox,22,Female,Single,463,75431,Salaried,4,1,Master
+Carolyn Smith,27,Female,Married,314,59618,Unemployed,6,5,PhD
+Kathleen Mitchell,56,Female,Single,574,72596,Unemployed,1,0,High School
+Katrina Mack MD,56,Male,Single,380,46341,Salaried,2,0,High School
+Michael Riley,24,Male,Single,730,135603,Salaried,4,2,Bachelor
+Amanda Weaver,32,Female,Single,331,184940,Unemployed,4,0,PhD
+Edward Fuller,50,Female,Single,702,23256,Self-Employed,4,3,PhD
+George West,59,Female,Married,700,195856,Self-Employed,3,1,Bachelor
+Donna Nunez,32,Male,Single,522,141544,Unemployed,5,0,Bachelor
+Brenda Stone,25,Female,Single,882,21721,Salaried,1,0,High School
+Benjamin Rodriguez,22,Female,Married,823,123935,Salaried,6,0,High School
+William Oliver,54,Male,Single,489,96232,Self-Employed,1,0,Bachelor
+Matthew Vaughn,59,Male,Single,856,139159,Salaried,1,0,Master
+Travis Gould,59,Male,Single,881,66864,Salaried,3,1,High School
+Tanner Gray,21,Female,Married,762,157881,Unemployed,2,1,Bachelor
+Richard Contreras,42,Female,Single,423,111308,Self-Employed,5,2,PhD
+Richard Valencia,56,Female,Married,674,95740,Salaried,2,1,PhD
+Nathan Scott,55,Male,Married,381,76599,Unemployed,4,1,PhD
+Debra Chavez,45,Female,Married,778,112444,Self-Employed,1,0,Master
+Jake Johnson,47,Female,Single,815,94825,Self-Employed,2,1,PhD
+Stephanie Robinson,31,Female,Married,575,189490,Salaried,3,2,PhD
+Cody Martinez,52,Male,Single,318,91391,Salaried,5,4,Master
+Carla Meadows,51,Female,Single,597,96792,Unemployed,6,4,High School
+Karen Simmons,43,Male,Married,723,93216,Salaried,3,1,Bachelor
+Kenneth Marshall,24,Female,Single,430,24895,Self-Employed,5,3,PhD
+Angela Aguilar,57,Female,Single,720,159743,Salaried,6,4,Master
+Nicole Allen,47,Female,Married,504,73573,Self-Employed,1,0,Master
+Cheryl Knight,45,Male,Single,302,174902,Unemployed,6,0,High School
+Jonathan Clark,37,Female,Married,894,191395,Unemployed,3,1,High School
+Nicole Boyd,30,Female,Married,677,90595,Salaried,5,3,PhD
+Amanda Irwin,41,Male,Married,853,72872,Self-Employed,2,0,Master
+Thomas Porter,43,Female,Single,388,120645,Salaried,5,3,High School
+Andre Walters,58,Female,Married,798,135435,Salaried,6,5,High School
+Lori Carter,52,Female,Single,437,157396,Salaried,6,2,PhD
+Joan Newman,53,Female,Married,790,165830,Self-Employed,5,0,PhD
+Michael Wright,26,Female,Married,626,134620,Unemployed,4,3,PhD
+Elizabeth Bradley,24,Male,Married,431,44707,Self-Employed,3,2,PhD
+Michael Williams,30,Male,Married,456,23758,Self-Employed,2,1,Bachelor
+David Jones,52,Female,Single,563,113180,Salaried,3,2,Bachelor
+Nicole Black,22,Male,Married,499,92171,Unemployed,4,2,Bachelor
+Amanda Case,28,Female,Single,456,135878,Self-Employed,5,1,PhD
+Michelle Dunlap,57,Male,Married,882,155659,Unemployed,4,0,High School
+Jessica Coffey,44,Female,Single,856,102702,Self-Employed,5,0,Bachelor
+Karen Roman,21,Male,Married,889,151380,Unemployed,4,2,Master
+Cory Graham III,56,Male,Married,728,198325,Self-Employed,4,1,Bachelor
+Mike Erickson,50,Female,Married,740,182367,Unemployed,6,1,Bachelor
+Christopher Lynch,25,Female,Single,793,60396,Self-Employed,6,4,Master
+Tamara Gray,46,Female,Married,751,28772,Self-Employed,2,0,High School
+Jason Bell,36,Female,Married,699,182918,Unemployed,6,1,PhD
+Christina Torres,57,Female,Single,857,179168,Unemployed,1,0,PhD
+Michael Hall DDS,26,Male,Married,568,81294,Salaried,5,4,High School
+Kerri Kelley,54,Female,Single,324,121877,Unemployed,5,0,PhD
+David Henderson,57,Female,Single,349,19477,Self-Employed,3,2,High School
+Steven Clark,53,Female,Single,394,165148,Self-Employed,1,0,PhD
+Patricia Castaneda,51,Male,Married,556,152619,Self-Employed,1,0,Master
+Mr. Kenneth Molina III,38,Female,Single,557,119561,Self-Employed,6,4,PhD
+Jasmine Hodges,56,Female,Single,759,173594,Unemployed,6,0,PhD
+Amanda Jackson,50,Male,Single,856,168926,Unemployed,3,2,High School
+Alison Kirby,41,Female,Single,608,92432,Self-Employed,5,3,PhD
+Christopher Willis,38,Female,Married,394,143466,Unemployed,2,1,Bachelor
+Nicole Murphy,38,Female,Married,845,121112,Self-Employed,2,1,High School
+Marcus Mclean,55,Female,Married,307,123483,Salaried,6,2,High School
+Mark Bell,60,Male,Married,462,124934,Salaried,3,1,Master
+Madison Clark,47,Male,Single,571,118160,Self-Employed,4,0,Bachelor
+Kevin Lutz,58,Male,Married,873,186587,Unemployed,4,2,Bachelor
+Abigail Robinson,25,Male,Single,395,123627,Unemployed,3,0,PhD
+Gregory Arnold,35,Male,Married,709,152951,Self-Employed,6,0,Bachelor
+Ashley Sanchez,58,Male,Married,540,68082,Unemployed,1,0,Bachelor
+Ronald Cole,37,Male,Married,609,73193,Salaried,5,1,Master
+Kristin Christensen,25,Female,Married,756,92966,Salaried,2,1,High School
+Kenneth Johnson,25,Male,Married,645,197520,Unemployed,6,2,High School
+Christopher Riggs,53,Male,Married,814,56895,Self-Employed,5,1,PhD
+Nicole Bullock,41,Female,Married,504,39125,Unemployed,2,1,Bachelor
+Rodney Jones,42,Female,Single,365,49795,Unemployed,1,0,High School
+Jeffrey Flores,60,Female,Married,786,42726,Salaried,4,1,High School
+Rachel Powell,40,Female,Single,401,142279,Salaried,1,0,Bachelor
+Melanie Johnston,45,Male,Married,877,169529,Salaried,5,0,Master
+Carolyn Ross,53,Male,Single,830,139674,Salaried,4,3,PhD
+Scott Saunders,23,Female,Single,679,103315,Unemployed,5,2,Master
+Darryl Bell,23,Female,Single,575,174527,Salaried,4,2,Bachelor
+Clifford Sullivan,60,Male,Married,561,70210,Salaried,1,0,PhD
+Gary Lowe,33,Male,Married,442,76118,Unemployed,4,1,PhD
+Kristopher Lewis,35,Male,Single,582,198192,Unemployed,3,1,PhD
+Thomas White,23,Male,Single,596,55074,Self-Employed,4,3,Master
+Justin Madden,43,Male,Single,646,60486,Unemployed,5,2,Bachelor
+Jonathan Jenkins,58,Male,Single,882,49794,Salaried,2,1,PhD
+Taylor Madden,59,Male,Married,671,25667,Self-Employed,3,1,Master
+Katelyn Warren DDS,28,Male,Married,400,52642,Self-Employed,3,0,Bachelor
+David Hill,31,Male,Married,621,104490,Unemployed,6,0,Bachelor
+Joseph Guerrero,40,Male,Married,701,155233,Unemployed,4,2,High School
+Maxwell Mcgrath,46,Female,Married,622,49409,Self-Employed,6,4,Master
+Nicholas Flowers,30,Male,Single,840,19931,Unemployed,2,0,PhD
+Jasmin Ballard,58,Male,Married,822,106155,Unemployed,2,0,Bachelor
+Amanda Armstrong,37,Male,Single,636,59747,Self-Employed,4,2,Master
+Rodney Perry,50,Female,Single,569,168420,Unemployed,5,4,PhD
+Craig Lynch,37,Male,Married,342,40929,Unemployed,4,3,Master
+Vanessa Nelson,30,Male,Single,644,157097,Unemployed,4,1,High School
+Rhonda Thompson,56,Male,Married,338,133331,Unemployed,2,1,PhD
+Luke Chen,50,Female,Single,610,198535,Salaried,6,3,Bachelor
+Jason Le,29,Male,Married,467,182556,Salaried,4,2,High School
+James Pearson,55,Male,Married,653,180188,Salaried,3,0,Master
+Julie Hill,21,Female,Single,363,125633,Unemployed,2,0,High School
+Adrian Hampton MD,38,Male,Single,610,178331,Unemployed,3,1,Master
+Michael Harris,34,Male,Single,818,161029,Self-Employed,2,0,Bachelor
+Mr. David White,21,Female,Single,564,51509,Unemployed,3,1,Master
+Jennifer Gay,22,Male,Married,580,82990,Self-Employed,1,0,PhD
+Amy Combs DVM,48,Male,Single,612,57909,Self-Employed,3,1,Master
+Kari Munoz,35,Male,Single,313,32909,Self-Employed,3,2,High School
+Danielle Valenzuela,52,Female,Single,773,26852,Self-Employed,2,0,Master
+Jennifer Irwin,55,Male,Single,341,77332,Salaried,6,0,PhD
+Todd Montoya,48,Male,Married,373,98227,Salaried,4,2,PhD
+Kathryn Hutchinson,55,Male,Married,582,99045,Self-Employed,3,0,High School
+Karen Harris,44,Male,Married,638,175139,Unemployed,6,0,PhD
+Cory Murphy,49,Male,Single,819,87305,Unemployed,5,1,High School
+Gerald Mason,21,Male,Single,625,175623,Salaried,1,0,Bachelor
+Rachel Smith,56,Female,Single,893,149042,Self-Employed,5,0,Bachelor
+Derek Pham,45,Female,Married,828,44159,Self-Employed,5,1,High School
+Robert Young,30,Female,Married,362,111827,Salaried,3,2,Master
+Ashley Calderon,34,Female,Married,496,90240,Self-Employed,3,2,PhD
+Doris Waters,57,Male,Married,505,164430,Unemployed,1,0,Bachelor
+Daniel Stevens,56,Male,Single,657,26843,Salaried,6,4,PhD
+Bobby Riggs,53,Female,Single,395,36179,Salaried,4,1,Master
+Brian Whitaker,50,Male,Single,879,121396,Self-Employed,6,1,PhD
+Karen Brown,55,Female,Married,771,157706,Unemployed,5,4,PhD
+Melissa Young,52,Male,Married,558,163655,Salaried,6,5,Master
+Jacob Stephens,53,Female,Married,782,36511,Unemployed,3,2,High School
+Thomas Cordova,31,Male,Married,590,38354,Self-Employed,1,0,PhD
+Debra King,46,Female,Married,536,150253,Self-Employed,4,3,PhD
+Jennifer Jones,53,Female,Single,577,55325,Unemployed,4,0,Master
+Daniel Henderson,29,Female,Married,471,30096,Self-Employed,5,2,High School
+Heather Burke,25,Female,Single,775,118577,Unemployed,1,0,Master
+Anthony Oneill,42,Female,Married,820,81085,Unemployed,3,2,Master
+Jesse Sanchez,24,Female,Single,831,181217,Unemployed,1,0,PhD
+Brandon Vargas,30,Female,Single,538,56242,Self-Employed,6,4,PhD
+Melissa Jackson,24,Female,Married,787,87367,Unemployed,1,0,Bachelor
+Steven Curry,59,Female,Married,729,179952,Salaried,5,3,PhD
+Scott Day,29,Male,Single,884,99909,Self-Employed,2,1,PhD
+Patrick Smith,41,Male,Single,828,167716,Self-Employed,6,1,Master
+Alan Martin,25,Female,Single,377,164141,Unemployed,1,0,PhD
+Richard Walsh,58,Female,Married,781,28245,Salaried,5,1,PhD
+Zachary Moody,37,Female,Single,764,58157,Salaried,3,1,Master
+Matthew Cook,50,Male,Single,882,196713,Salaried,4,0,Bachelor
+Craig Johnson,33,Male,Single,755,181402,Salaried,4,0,Bachelor
+Carl Yu,59,Female,Married,501,97867,Unemployed,4,0,Bachelor
+Erik Medina,35,Female,Single,511,86663,Unemployed,3,0,Master
+Keith Edwards,46,Male,Single,733,22904,Unemployed,3,2,Bachelor
+Todd Powell,41,Female,Single,657,94549,Salaried,3,0,High School
+Javier Diaz,51,Male,Single,315,87456,Self-Employed,5,4,Master
+Marco French,31,Female,Single,583,86090,Unemployed,5,4,Bachelor
+Mary Roberson,21,Male,Single,758,94339,Self-Employed,3,2,Bachelor
+Donna Khan,27,Male,Married,697,26620,Unemployed,4,0,PhD
+Chad Bishop,39,Female,Single,358,172445,Self-Employed,3,1,High School
+Joseph Rice,57,Female,Single,666,92984,Unemployed,2,0,High School
+Eric Brown,35,Female,Married,339,100635,Unemployed,4,2,PhD
+Diana Johnston,57,Male,Single,554,22598,Self-Employed,1,0,High School
+Jonathan Carlson,39,Male,Married,491,35415,Unemployed,3,0,Bachelor
+Gregory Becker,55,Male,Married,314,119890,Salaried,4,3,PhD
+Scott Giles,55,Female,Married,813,114893,Salaried,1,0,High School
+Lisa Bonilla,31,Male,Single,411,104420,Unemployed,5,2,Bachelor
+Jamie Cunningham,25,Male,Married,347,130389,Unemployed,2,1,High School
+William Smith,27,Female,Single,875,22272,Salaried,2,0,Bachelor
+Kevin Henderson,24,Female,Married,564,38511,Unemployed,1,0,Bachelor
+Joshua Leonard,59,Male,Single,545,80687,Salaried,5,2,Master
+Michael Smith,29,Male,Single,808,52892,Salaried,1,0,Master
+Amber Scott,39,Male,Single,459,198752,Self-Employed,5,3,Bachelor
+Maria James,23,Female,Single,609,29766,Salaried,4,0,PhD
+Mrs. Megan Jackson DDS,34,Female,Married,659,108557,Unemployed,2,1,Bachelor
+Joshua Carter,41,Male,Single,441,139484,Unemployed,5,1,Master
+Melissa Willis,35,Male,Married,518,94901,Salaried,6,4,PhD
+Richard Mitchell,25,Female,Single,370,120791,Salaried,2,1,High School
+Kelly Lewis,47,Female,Single,866,63492,Self-Employed,1,0,Bachelor
+Michael Erickson,57,Female,Single,304,73055,Unemployed,3,0,High School
+Lisa Brown,48,Female,Single,755,144012,Unemployed,1,0,High School
+Luke Martin,57,Female,Married,410,84055,Unemployed,5,2,Master
+Michelle Price,24,Male,Single,662,16847,Self-Employed,5,0,High School
+James Ortiz,37,Male,Single,423,40391,Salaried,5,0,Bachelor
+Michael Hall,48,Male,Single,410,93887,Salaried,6,4,Master
+Kristi Barrera,27,Female,Single,345,197499,Self-Employed,2,1,High School
+Scott Webster,28,Male,Married,783,107539,Self-Employed,1,0,Master
+Keith Carter,22,Male,Married,599,132214,Unemployed,1,0,Master
+Keith Garcia,23,Female,Married,725,15515,Unemployed,3,0,PhD
+Brian Burns,36,Male,Married,334,186920,Unemployed,4,0,Bachelor
+Russell Cox,30,Male,Single,454,20333,Salaried,4,0,Bachelor
+Melissa Spencer,26,Male,Married,858,169926,Salaried,1,0,Master
+Daniel Romero,58,Male,Single,400,39147,Self-Employed,1,0,Master
+Megan Moreno,31,Female,Single,537,82635,Salaried,4,1,Bachelor
+Christopher Carter,52,Male,Single,623,83397,Salaried,3,0,Bachelor
+Megan Lane,39,Male,Single,838,71097,Self-Employed,3,0,High School
+Lindsey Conley,26,Female,Single,459,185620,Salaried,5,2,Master
+Jeffery Brown,59,Female,Married,652,96288,Self-Employed,3,2,Bachelor
+Eric Branch,31,Male,Single,491,138028,Unemployed,4,3,High School
+Juan Koch,49,Male,Single,398,104215,Unemployed,2,0,Master
+Leah Yoder,21,Male,Single,497,196941,Self-Employed,5,3,High School
+Linda Bailey,52,Male,Married,491,168261,Self-Employed,1,0,High School
+Joy Charles,57,Male,Married,772,59375,Self-Employed,1,0,Bachelor
+Patrick Perez,47,Female,Married,636,103342,Unemployed,4,3,Bachelor
+Janet Morales,47,Female,Single,821,25892,Salaried,6,5,High School
+Kimberly Collins,28,Female,Married,498,167155,Salaried,1,0,High School
+Michelle Nunez,43,Male,Married,667,178388,Salaried,4,3,Bachelor
+Andrea Benson,55,Female,Single,726,80932,Self-Employed,1,0,High School
+Jerry Santos,39,Female,Single,688,22860,Self-Employed,4,1,Master
+Tony Harris,35,Male,Married,739,162365,Self-Employed,5,3,PhD
+Heather Peck,22,Male,Single,724,176805,Self-Employed,2,1,High School
+Gregory Hernandez,24,Male,Single,872,84213,Salaried,1,0,PhD
+Amanda Sampson,38,Female,Married,517,75275,Self-Employed,2,1,Master
+Vickie Brown,38,Male,Single,415,120022,Salaried,2,0,High School
+William Medina,28,Female,Single,611,76828,Salaried,1,0,High School
+Amanda Davis,57,Female,Married,713,124197,Unemployed,3,1,PhD
+David Ward,33,Male,Married,319,60114,Unemployed,4,0,Bachelor
+Sydney Mcknight,26,Female,Single,837,124115,Unemployed,3,2,PhD
+Jessica Richards,51,Female,Married,309,105371,Self-Employed,6,2,Master
+Cory Scott,30,Male,Single,652,33648,Salaried,2,1,PhD
+Vincent Horton,30,Female,Single,302,88421,Salaried,2,0,High School
+Mr. James Meyers MD,60,Female,Single,794,123902,Self-Employed,6,3,Bachelor
+Mrs. Ashley Anderson,33,Female,Married,653,106803,Salaried,1,0,PhD
+David Wilson,34,Male,Married,537,109643,Unemployed,2,0,Master
+Deborah Hayes MD,22,Male,Single,368,82186,Self-Employed,3,0,Master
+Emily Bryant,33,Female,Married,604,64554,Self-Employed,6,0,High School
+Sarah Oneill,38,Male,Single,446,172234,Salaried,2,0,Bachelor
+Roger Delgado,56,Male,Single,387,58458,Self-Employed,3,0,High School
+Mr. Shane Khan,30,Male,Single,401,70399,Salaried,3,1,Master
+Charles Hicks,51,Female,Single,564,125001,Self-Employed,4,1,Bachelor
+Madison Trujillo,55,Female,Single,736,108396,Salaried,5,1,High School
+Joseph Johnson PhD,49,Male,Single,655,96102,Salaried,6,4,Bachelor
+Kyle Jones,26,Male,Single,511,21177,Unemployed,5,3,Bachelor
+Elizabeth Nash,52,Female,Single,539,135823,Unemployed,5,0,PhD
+Gregory Fields,60,Female,Single,536,114586,Salaried,5,4,PhD
+Stephanie Atkinson,48,Male,Married,897,116787,Self-Employed,6,0,High School
+Patricia Walker,38,Male,Married,452,173945,Salaried,2,1,High School
+Cory Campos,33,Female,Married,464,34803,Unemployed,5,3,Bachelor
+Andrew Robinson,31,Female,Married,809,122773,Unemployed,6,4,High School
+Michael Zimmerman,39,Female,Single,762,160083,Unemployed,1,0,Master
+Zachary Frazier,21,Male,Single,615,66076,Unemployed,1,0,Master
+Brandy White MD,52,Female,Married,534,172577,Unemployed,1,0,PhD
+Justin Reynolds,24,Female,Married,821,174497,Unemployed,6,1,Bachelor
+Christopher Bradley,22,Female,Single,540,90238,Self-Employed,3,1,High School
+Sarah Erickson,21,Female,Married,895,145357,Self-Employed,5,1,PhD
+Joel Vazquez,37,Female,Married,646,109670,Unemployed,3,2,Bachelor
+Adam Cole,39,Female,Married,362,167031,Unemployed,4,0,High School
+John Kim Jr.,51,Female,Married,522,156471,Unemployed,5,3,Bachelor
+Rachel Spencer,52,Male,Married,360,130035,Unemployed,6,1,High School
+Tina Gonzalez,45,Female,Married,414,144462,Self-Employed,3,0,Bachelor
+Jasmine Allen,22,Male,Single,461,23176,Self-Employed,1,0,Bachelor
+Jerry May,23,Male,Married,800,94516,Unemployed,6,5,Master
+James Torres,33,Male,Single,796,120606,Self-Employed,6,2,PhD
+Rachel Keith,32,Male,Single,875,42635,Salaried,1,0,High School
+Virginia Harper,56,Male,Single,381,80541,Unemployed,3,2,High School
+Lindsey Grimes,48,Male,Married,573,53699,Salaried,6,5,Master
+Ronald Odom,31,Male,Married,600,83672,Salaried,2,1,High School
+Angela Gonzalez,54,Female,Married,895,64771,Unemployed,5,3,Master
+Kimberly Prince,39,Male,Married,571,108364,Salaried,5,0,Master
+Kayla Everett,22,Female,Married,382,103875,Salaried,3,1,Master
+Michael Page,42,Female,Single,722,50990,Unemployed,6,5,High School
+Melanie King,39,Male,Single,593,172379,Self-Employed,3,1,Master
+Debbie Krause,54,Male,Married,376,39333,Self-Employed,5,3,PhD
+Daniel Torres,57,Female,Married,671,63111,Self-Employed,4,3,PhD
+Sandra Marks MD,37,Male,Married,563,119684,Unemployed,3,0,Master
+Erica Barker,50,Female,Married,847,131600,Salaried,4,0,PhD
+Craig Contreras,30,Male,Married,451,178999,Salaried,3,2,Bachelor
+Michael Fuller Jr.,54,Female,Married,414,185102,Salaried,4,3,High School
+Toni Wood,22,Male,Single,489,173994,Salaried,5,0,High School
+Natasha Harris,47,Male,Single,813,196701,Unemployed,1,0,Master
+Kelly Fuentes,30,Female,Single,581,120481,Self-Employed,2,0,Master
+Harold Shea,33,Female,Married,733,198244,Salaried,2,1,Master
+Mrs. Miranda Roberts,41,Female,Single,669,30996,Salaried,2,0,High School
+Cheyenne Gomez,36,Female,Married,558,59413,Salaried,2,0,Master
+Jay Hale,55,Male,Single,517,136085,Unemployed,5,0,PhD
+Gloria Morales,58,Female,Married,510,91222,Salaried,4,3,PhD
+Colleen Morales,51,Male,Single,850,118200,Unemployed,5,2,High School
+Timothy Cook,45,Female,Single,615,61860,Unemployed,2,1,Master
+Shelby Reese,35,Female,Married,311,147572,Self-Employed,1,0,Bachelor
+Rachel Perez,47,Female,Married,443,30479,Self-Employed,2,1,PhD
+Jason Perez,33,Male,Single,412,106899,Unemployed,3,0,PhD
+Kara Johnson,21,Male,Single,725,162165,Self-Employed,1,0,High School
+Teresa Meadows,35,Female,Single,307,54226,Self-Employed,5,1,PhD
+Michele Meyer,27,Female,Single,824,102279,Self-Employed,4,3,PhD
+Michael Wood,42,Male,Married,526,16874,Salaried,5,2,PhD
+Michelle Franco,57,Female,Single,737,51013,Self-Employed,4,2,Bachelor
+Bruce Owens,52,Female,Single,527,158043,Unemployed,6,2,Master
+Elizabeth Walker,30,Female,Single,788,49049,Salaried,1,0,PhD
+Elizabeth Campbell,38,Male,Single,360,75836,Unemployed,5,2,High School
+Kristin Porter,42,Male,Married,842,42588,Unemployed,3,0,Master
+Cesar Hill,23,Male,Single,333,134420,Salaried,5,3,PhD
+Alexandra Lynch,46,Female,Married,344,85747,Unemployed,1,0,PhD
+Tamara Green,21,Male,Single,435,30984,Unemployed,4,3,PhD
+Kristen Rojas,42,Male,Married,352,34741,Self-Employed,3,0,PhD
+Dr. Thomas Stewart,47,Male,Married,363,197061,Self-Employed,6,3,PhD
+Randy Anderson,57,Female,Married,688,59683,Salaried,2,1,PhD
+Catherine Dougherty,58,Female,Single,351,173797,Unemployed,5,0,High School
+Caitlin Smith,48,Male,Single,845,16773,Unemployed,6,2,Master
+Wayne Compton,32,Female,Single,470,88264,Salaried,3,0,Bachelor
+Daniel Long,59,Female,Single,710,178315,Self-Employed,1,0,High School
+Nicole Schneider,34,Female,Single,310,45988,Unemployed,5,2,PhD
+Zachary Robertson,60,Female,Married,864,145425,Salaried,4,0,Master
+Dominique Bell,21,Male,Single,385,96103,Self-Employed,1,0,High School
+Jeffrey Bates,53,Female,Married,506,91610,Unemployed,3,0,Master
+Amy Scott,40,Male,Single,429,85198,Salaried,4,1,Bachelor
+John Lopez,56,Female,Married,680,40416,Unemployed,5,3,PhD
+Bradley Moore,48,Male,Single,336,17452,Self-Employed,2,1,PhD
+Stephanie Jones,22,Male,Single,312,54100,Unemployed,5,3,Bachelor
+Alicia Miller,44,Female,Single,833,26168,Salaried,6,0,Master
+Kara Hill,58,Female,Single,612,60999,Self-Employed,3,0,Bachelor
+Brenda Rosales,57,Female,Married,396,173132,Salaried,1,0,High School
+Lindsay Wilson,29,Female,Single,768,85127,Unemployed,2,0,Master
+Michael Branch,37,Female,Married,843,170302,Unemployed,2,0,PhD
+Brent Roberts,51,Female,Single,529,109038,Salaried,4,1,Bachelor
+Shari Cochran,40,Male,Single,533,175779,Unemployed,1,0,PhD
+Richard Obrien,35,Male,Married,829,103965,Unemployed,5,1,High School
+Amanda Moore,32,Male,Single,699,162264,Salaried,1,0,Bachelor
+Kevin Bass,40,Male,Married,381,182400,Self-Employed,5,2,Master
+Melissa Scott,53,Male,Married,329,131104,Self-Employed,1,0,PhD
+Kenneth Fisher,37,Female,Married,807,106705,Salaried,2,1,PhD
+Michele Shepherd,43,Female,Married,423,64631,Self-Employed,4,2,Bachelor
+Jessica Flowers,23,Female,Single,366,188834,Unemployed,1,0,PhD
+Wayne Fernandez,32,Female,Married,767,172520,Self-Employed,2,1,PhD
+Steve Jimenez,50,Male,Single,588,18619,Salaried,1,0,High School
+Mark Anthony,32,Male,Single,887,50831,Salaried,2,0,High School
+Bradley Collins,45,Female,Single,824,199114,Unemployed,4,1,High School
+Ms. Amy Mckee MD,27,Male,Married,820,101586,Self-Employed,2,1,Master
+Jerry Phillips,52,Male,Married,685,105101,Self-Employed,5,3,High School
+Katie Johnson,43,Female,Single,702,98404,Salaried,6,5,Bachelor
+Debra Taylor,48,Male,Single,350,155122,Salaried,4,1,PhD
+Tiffany Reyes,21,Female,Single,707,29654,Salaried,5,2,High School
+Emily Brooks,29,Female,Single,432,125045,Self-Employed,2,0,Master
+Daniel Andrews,41,Female,Single,779,167194,Salaried,1,0,High School
+Jeffrey Williams,49,Female,Single,502,50539,Salaried,1,0,PhD
+Jennifer Payne,39,Female,Married,569,34343,Unemployed,3,2,Master
+Megan Lewis,33,Female,Single,879,83814,Unemployed,5,1,PhD
+Karl Lopez,26,Male,Married,867,48076,Salaried,6,1,PhD
+Susan Mathis,32,Female,Single,471,160502,Salaried,4,0,Master
+James Rice,42,Male,Single,875,48523,Unemployed,2,0,Master
+Michael Baker,32,Female,Married,526,87536,Salaried,3,0,Bachelor
+Stephen Rodriguez,22,Female,Single,317,72350,Unemployed,1,0,Master
+Megan Baldwin,56,Male,Single,769,77894,Unemployed,4,0,Bachelor
+Mike Collins,49,Male,Married,329,52387,Salaried,3,1,High School
+Rachael Small,34,Male,Married,616,178912,Salaried,6,1,Bachelor
+Jessica Briggs,46,Female,Single,797,168392,Self-Employed,6,4,High School
+Dr. Patricia Taylor DVM,49,Female,Single,567,94784,Salaried,5,4,PhD
+Christina Alexander,27,Female,Married,641,92295,Salaried,1,0,PhD
+Jessica Campbell,46,Male,Single,568,97341,Self-Employed,3,1,Master
+Anthony Edwards,30,Female,Single,757,161945,Salaried,3,2,Master
+Timothy Williams,52,Female,Single,692,26955,Unemployed,4,3,High School
+Jessica Flores,25,Female,Married,519,163938,Self-Employed,6,1,High School
+Donald Watts,48,Female,Single,750,75651,Unemployed,1,0,Master
+Stephanie Smith,38,Male,Married,373,151209,Salaried,1,0,PhD
+Rebecca Fisher,51,Female,Single,800,181472,Unemployed,4,3,High School
+Crystal Obrien,28,Male,Single,633,153836,Salaried,2,0,Bachelor
+John Wilkerson,26,Female,Married,368,94785,Salaried,5,1,High School
+Jessica Wilson,23,Male,Married,685,51202,Salaried,6,5,PhD
+Meagan Simpson,40,Male,Married,719,86194,Self-Employed,4,0,PhD
+Blake Hopkins,36,Female,Married,328,159094,Unemployed,3,1,Bachelor
+Dawn Ross,38,Female,Single,623,144786,Unemployed,1,0,Bachelor
+George Landry,33,Female,Single,353,45412,Self-Employed,2,0,PhD
+Holly Mitchell,44,Male,Married,658,195093,Salaried,2,0,Master
+Jonathan Montgomery,37,Male,Single,636,165140,Unemployed,1,0,High School
+Shannon Valenzuela,25,Female,Single,407,51870,Self-Employed,5,0,Bachelor
+Kristy Jarvis,48,Female,Married,727,192380,Self-Employed,3,1,Bachelor
+Terry Wilson,51,Female,Married,406,140206,Unemployed,4,0,PhD
+Jessica Matthews,54,Male,Single,362,39981,Self-Employed,6,0,High School
+Bradley Ferrell,49,Female,Single,342,134012,Self-Employed,2,0,PhD
+Ariel Lang,29,Male,Married,452,175487,Salaried,1,0,Bachelor
+Travis Payne,49,Male,Single,820,116754,Salaried,2,1,PhD
+Angela Velazquez,48,Male,Married,386,117622,Unemployed,1,0,Bachelor
+Dawn Morris,32,Male,Married,854,48595,Salaried,6,0,PhD
+Kimberly Hansen,53,Female,Single,697,178460,Unemployed,3,1,PhD
+Chelsea Carr,41,Female,Single,674,169339,Unemployed,4,1,PhD
+Kevin Shepard,49,Male,Married,363,88536,Unemployed,2,0,High School
+Joel Wilson,37,Male,Married,835,117949,Salaried,2,1,PhD
+Matthew Bryant,36,Male,Single,431,119576,Salaried,4,2,PhD
+Robert Green,32,Male,Single,405,140619,Unemployed,6,4,Bachelor
+Chad Weiss,57,Male,Married,479,53389,Unemployed,4,2,High School
+Elizabeth Chambers,37,Female,Single,637,54841,Self-Employed,6,2,High School
+Anthony Hill,57,Female,Single,470,184898,Salaried,3,1,PhD
+Alex Ferguson,25,Male,Single,780,128225,Unemployed,2,1,PhD
+Sandra Miller,24,Female,Single,353,58866,Unemployed,1,0,Bachelor
+Amanda Cooper,53,Male,Single,476,142393,Salaried,5,4,High School
+Jeffrey Jones,49,Female,Married,626,183506,Salaried,6,3,Bachelor
+Caleb Livingston,42,Male,Single,896,124079,Unemployed,4,2,PhD
+Michael Anderson,51,Male,Married,612,175240,Salaried,1,0,Master
+Christopher Sims III,27,Female,Single,441,133416,Salaried,3,2,Master
+Tracy Miller,26,Male,Single,873,119797,Unemployed,3,1,PhD
+Timothy Miranda,31,Male,Single,481,127687,Unemployed,3,1,High School
+Kent Mayer,44,Male,Single,817,63597,Self-Employed,3,2,Bachelor
+Jeffery Weeks,39,Female,Single,305,180199,Unemployed,2,0,High School
+Michael Hunter,40,Female,Married,825,178828,Salaried,5,1,Bachelor
+John Austin,29,Female,Single,355,128213,Unemployed,1,0,Bachelor
+Erin Brock,55,Female,Married,602,34081,Salaried,6,4,Master
+Mary Christensen,44,Female,Single,667,178404,Salaried,2,1,Bachelor
+Mr. Joseph Smith DDS,38,Female,Married,364,62187,Self-Employed,6,1,Master
+Donald Trujillo,60,Female,Single,657,181265,Unemployed,4,1,Bachelor
+Mary Garner,54,Female,Single,627,192545,Unemployed,2,0,PhD
+Alexis Jackson,23,Male,Single,803,38942,Self-Employed,1,0,PhD
+Sarah Bell,57,Female,Single,786,37277,Unemployed,5,0,High School
+Richard Patterson,24,Male,Married,345,23100,Self-Employed,2,1,Master
+Albert Flores,36,Male,Married,803,85656,Self-Employed,5,3,High School
+Barbara Rowe,23,Male,Single,864,151013,Salaried,6,3,Master
+Timothy Pollard,50,Male,Single,451,43542,Self-Employed,4,1,Master
+Phyllis Ballard,34,Male,Married,869,148596,Salaried,4,2,PhD
+Terry Ortega,35,Male,Married,507,117793,Unemployed,3,1,Bachelor
+Jason Allison,23,Female,Single,894,86693,Salaried,1,0,High School
+Amber Paul,37,Male,Married,410,44984,Self-Employed,5,3,High School
+Kevin Kelly,38,Male,Single,615,91810,Salaried,5,0,PhD
+Adam Myers,57,Male,Married,420,173667,Unemployed,4,0,Bachelor
+Michael Freeman,28,Male,Single,394,55259,Self-Employed,1,0,Bachelor
+Tina Bishop,54,Male,Married,665,97832,Unemployed,6,0,High School
+Richard Greene,52,Male,Married,756,168853,Unemployed,6,5,Bachelor
+Natasha Greene,23,Female,Married,613,38254,Unemployed,1,0,PhD
+Kristin Wheeler,37,Male,Married,518,125166,Salaried,2,1,PhD
+Victoria Huang,24,Male,Married,595,82854,Unemployed,5,2,High School
+Jordan Cochran,43,Female,Single,440,154968,Salaried,5,0,Master
+Zachary Scott,26,Female,Married,818,85664,Self-Employed,1,0,Bachelor
+Tonya Thomas,25,Male,Single,411,144870,Unemployed,2,1,High School
+Jesse West,60,Male,Married,633,158127,Self-Employed,2,1,Bachelor
+Kevin Richardson,42,Male,Single,521,95580,Salaried,4,2,Master
+Dean Higgins,25,Female,Married,454,97691,Salaried,1,0,Master
+Brittany Winters,59,Male,Single,338,195557,Unemployed,1,0,PhD
+Erin White,39,Female,Married,330,132719,Salaried,2,0,PhD
+Ernest Johnson,51,Female,Married,480,104768,Salaried,3,1,Master
+Charles Powell,28,Male,Single,665,161388,Unemployed,5,0,PhD
+Mark Jarvis,34,Female,Single,861,55248,Salaried,2,1,PhD
+John Morse,39,Female,Single,519,183742,Self-Employed,3,1,Master
+Lucas Cline,32,Male,Single,416,131490,Unemployed,4,0,PhD
+Tabitha Collins,23,Female,Single,403,107537,Self-Employed,5,1,Master
+Mark Smith,48,Female,Single,811,68439,Self-Employed,5,2,Bachelor
+Stephanie Garcia,23,Male,Married,348,150721,Self-Employed,1,0,High School
+Julie Duke,34,Female,Single,844,42928,Salaried,1,0,High School
+Nicholas Schmidt,41,Female,Married,694,110547,Self-Employed,1,0,Master
+Jacob Lindsey,28,Female,Married,727,30956,Self-Employed,1,0,Master
+Nathan Vega,58,Female,Single,780,137991,Unemployed,1,0,High School
+Derrick Vaughan,29,Male,Single,772,198420,Salaried,5,0,PhD
+Brett Burgess,34,Male,Married,796,110438,Unemployed,2,0,Bachelor
+Natalie Banks,39,Male,Single,511,68920,Salaried,5,3,High School
+Brandi Burgess,51,Female,Single,758,28924,Self-Employed,3,2,PhD
+Timothy Jacobs,34,Male,Single,743,167996,Unemployed,2,0,PhD
+Tracy Hall,40,Male,Single,679,126642,Unemployed,2,1,Master
+Paul Randall,54,Female,Single,702,30662,Unemployed,2,1,High School
+Jeffrey King,37,Female,Married,617,22692,Unemployed,5,1,High School
+Daniel Newman,35,Male,Single,619,179846,Self-Employed,3,0,Bachelor
+Kara Singleton,38,Female,Married,345,139552,Self-Employed,2,0,PhD
+Kathryn Russell,33,Female,Single,570,52204,Unemployed,5,1,Bachelor
+Phillip George,49,Female,Married,508,121480,Unemployed,5,2,Master
+Keith Richard,51,Male,Single,671,27569,Salaried,1,0,High School
+Sarah Foster,52,Female,Married,640,184512,Self-Employed,6,2,PhD
+Julie Cook,48,Male,Single,433,49933,Self-Employed,4,2,PhD
+Nathaniel Armstrong,34,Male,Married,600,150893,Salaried,1,0,Bachelor
+Bobby Boyer,30,Female,Married,633,16283,Unemployed,4,2,Master
+Lindsay Smith,29,Female,Single,784,66899,Salaried,5,0,High School
+John Palmer,28,Female,Single,759,99251,Salaried,1,0,Bachelor
+Jessica Shaffer,41,Female,Single,355,51280,Unemployed,5,1,Master
+Tamara Perez,38,Female,Single,391,95104,Self-Employed,5,1,High School
+Megan Obrien MD,57,Male,Single,319,28175,Unemployed,6,5,High School
+Shelley Stewart,36,Male,Single,558,117931,Unemployed,6,4,Bachelor
+Jared Baker,36,Male,Single,876,118595,Salaried,1,0,High School
+Troy Soto,39,Male,Single,387,77523,Self-Employed,4,3,PhD
+Kelsey Griffith,33,Female,Married,455,141796,Self-Employed,3,1,Master
+Donald Mueller,32,Female,Married,453,91332,Salaried,2,0,Bachelor
+Willie Fox,59,Male,Married,844,92406,Salaried,6,5,Master
+Alyssa Harris,40,Female,Single,408,48686,Salaried,3,0,Master
+Joseph Young,44,Female,Single,537,137535,Unemployed,6,3,Bachelor
+Billy Mason,21,Male,Single,629,189635,Self-Employed,4,0,Master
+Tracy Williams,48,Female,Married,529,62504,Salaried,3,2,PhD
+Miranda Glover,41,Male,Married,685,153283,Unemployed,3,1,PhD
+Judy Rice,28,Male,Married,616,189249,Salaried,6,3,Bachelor
+Carol Gomez,37,Female,Married,777,63573,Self-Employed,3,0,Bachelor
+Carrie Sanders,24,Male,Single,849,76297,Unemployed,5,0,Bachelor
+Casey Steele,24,Female,Single,452,142083,Salaried,2,0,PhD
+Henry Underwood,60,Male,Married,540,63009,Salaried,5,3,High School
+Timothy Hodge,56,Male,Married,734,121800,Unemployed,4,3,Master
+Joanne Gill,60,Female,Married,833,54517,Self-Employed,4,1,Bachelor
+Reginald Hughes,21,Female,Married,862,48472,Salaried,3,2,High School
+Sara Nelson,42,Female,Single,788,75334,Salaried,5,1,PhD
+Dustin Kim,44,Female,Married,516,26589,Unemployed,4,0,Master
+Katie Wade,46,Female,Single,493,39761,Salaried,2,1,PhD
+Alexander Hernandez,33,Male,Single,847,64619,Unemployed,2,0,Bachelor
+Kim Allen,44,Female,Single,610,105773,Self-Employed,2,0,PhD
+Daniel Thompson,54,Male,Married,564,142858,Self-Employed,2,1,Bachelor
+Crystal Shaw,60,Female,Single,528,164955,Unemployed,3,1,High School
+Matthew Smith,30,Male,Single,444,85980,Self-Employed,4,0,PhD
+Laurie Miller,50,Female,Married,565,145345,Self-Employed,4,1,PhD
+Karen Woods,36,Female,Single,595,134675,Salaried,5,4,Master
+Cassidy Roberts,23,Female,Married,404,83046,Unemployed,2,0,Bachelor
+Rodney Mosley,31,Female,Single,408,96710,Salaried,2,0,PhD
+Michael Jordan,55,Male,Married,388,85197,Salaried,6,5,Master
+Michael Phelps,60,Male,Married,434,17541,Unemployed,3,1,High School
+Martin Nunez,35,Male,Married,431,134996,Unemployed,6,1,Bachelor
+Aaron Bell,49,Male,Married,593,116816,Unemployed,1,0,PhD
+Timothy Hudson,50,Male,Married,371,21239,Unemployed,2,0,Bachelor
+Melanie Martinez,46,Male,Married,409,165748,Salaried,3,2,PhD
+Ian Weber,42,Male,Married,574,195010,Unemployed,1,0,High School
+George Tucker,30,Female,Married,595,174257,Unemployed,4,2,PhD
+Jennifer Mason,37,Female,Single,545,63758,Salaried,6,4,Bachelor
+David Smith,26,Female,Single,469,165460,Salaried,2,0,Master
+Amy Gomez,50,Male,Married,677,193441,Salaried,6,4,High School
+Ryan Ashley,25,Female,Married,494,103500,Salaried,4,2,PhD
+Ronald Sanchez,35,Female,Married,352,28665,Self-Employed,6,4,Bachelor
+Madeline Davis,58,Female,Married,609,156181,Unemployed,5,0,Master
+Tanya Price,48,Female,Single,383,152062,Self-Employed,5,4,PhD
+Jackie Reyes,37,Female,Single,611,187846,Self-Employed,6,1,High School
+Jason Brown,33,Male,Single,785,47298,Salaried,5,1,PhD
+April White,31,Female,Married,836,176249,Unemployed,4,3,Master
+Christopher Acevedo,60,Male,Single,775,28932,Unemployed,3,1,Master
+Morgan Chavez,40,Female,Married,406,161003,Salaried,2,1,Master
+Robert Thomas,23,Male,Single,547,60436,Unemployed,1,0,Master
+Charles Mcdaniel,53,Male,Married,315,117029,Unemployed,6,4,Master
+Angela Taylor MD,40,Female,Single,376,21455,Salaried,2,1,High School
+Amanda Davis,57,Male,Married,447,159252,Self-Employed,5,0,High School
+Leslie Weiss,49,Male,Married,795,170942,Salaried,1,0,Bachelor
+Jim Green,45,Male,Married,877,36427,Self-Employed,3,0,PhD
+Alexis Smith,60,Male,Married,486,91362,Unemployed,4,1,Master
+Charles Perez DDS,30,Female,Married,639,173020,Unemployed,2,0,Bachelor
+Kayla Gutierrez,35,Male,Married,536,137809,Salaried,2,1,High School
+Debra Martinez,57,Female,Single,898,33518,Salaried,6,0,Bachelor
+Brandon Lawrence,49,Male,Single,311,111968,Salaried,2,1,Master
+James Brewer,56,Male,Married,305,49865,Salaried,3,1,Master
+Erin Kennedy,54,Female,Single,890,197267,Salaried,2,1,PhD
+Jeffrey James,30,Male,Married,403,115635,Salaried,4,3,High School
+Jeffrey Parrish,56,Male,Married,614,24899,Self-Employed,2,0,PhD
+Carla Williams,40,Female,Single,464,119410,Self-Employed,2,1,Master
+Laura Christensen,33,Male,Single,486,96592,Self-Employed,5,2,Master
+Dr. Derek Dunn,31,Male,Single,361,65536,Unemployed,5,4,PhD
+Tanya Colon,26,Male,Married,520,119217,Unemployed,3,1,PhD
+Susan Ramirez,51,Female,Single,836,70518,Self-Employed,2,1,High School
+Lacey Porter,44,Female,Married,824,45331,Salaried,1,0,High School
+Terry Summers,53,Female,Single,327,140960,Self-Employed,2,1,Bachelor
+Suzanne White,35,Male,Single,406,57473,Unemployed,5,3,Master
+Shannon Watson,35,Male,Married,331,173171,Unemployed,4,3,Bachelor
+Scott Herrera,27,Female,Single,591,34132,Unemployed,3,2,Bachelor
+Kevin Simmons,30,Male,Single,436,155334,Salaried,6,1,Master
+Shawn Rice,22,Male,Married,654,19437,Salaried,6,0,High School
+Anthony Ball,32,Female,Married,634,92946,Unemployed,4,0,Master
+Jessica Martinez,33,Female,Married,592,68571,Self-Employed,1,0,Bachelor
+Zachary Collins,21,Female,Married,836,140363,Unemployed,5,0,PhD
+Susan Jones,22,Male,Single,733,192015,Self-Employed,5,3,PhD
+Heather Wilson,43,Female,Single,393,72463,Unemployed,6,2,High School
+Robert Page,45,Female,Married,807,169784,Self-Employed,5,1,Bachelor
+Christopher Smith,60,Female,Single,496,129257,Unemployed,4,2,High School
+Travis Meza,47,Male,Single,303,162931,Salaried,2,1,Master
+Ryan Mccoy,25,Male,Married,386,37211,Self-Employed,5,0,Master
+Stacey Chavez MD,56,Female,Single,482,42437,Unemployed,5,2,High School
+Amy Ho,59,Female,Married,696,110250,Self-Employed,3,2,Bachelor
+Haley Jackson,27,Male,Single,570,44061,Self-Employed,2,1,PhD
+Kevin Gonzalez,35,Male,Single,795,55420,Self-Employed,1,0,High School
+Michael Turner,48,Male,Single,395,142023,Self-Employed,4,1,PhD
+Stephen Conner,36,Female,Married,716,145572,Self-Employed,6,5,High School
+Michael Brooks,41,Male,Married,327,194212,Salaried,3,1,Master
+Roberta Foster,45,Female,Single,625,117798,Salaried,2,1,Bachelor
+Kathryn Nguyen,52,Female,Single,751,20546,Salaried,3,1,PhD
+Yolanda Woods,41,Male,Single,574,43828,Salaried,5,1,High School
+Daniel Rhodes,33,Male,Married,388,27036,Salaried,6,5,PhD
+Dawn Glover,35,Male,Married,759,91678,Self-Employed,6,0,Bachelor
+Luis Austin Jr.,24,Female,Married,886,133947,Self-Employed,2,0,High School
+Richard Perez,33,Male,Married,454,94116,Salaried,5,0,High School
+Jennifer Duffy,22,Female,Single,425,154043,Salaried,3,0,High School
+John Harrison,46,Female,Married,648,181838,Unemployed,2,1,PhD
+Steven Brown,29,Female,Married,706,92484,Unemployed,2,1,High School
+Janet Rogers,55,Female,Single,843,86332,Self-Employed,5,2,High School
+Isaac Zimmerman,54,Female,Married,678,112778,Self-Employed,2,1,High School
+Michelle Carlson,38,Female,Married,735,78553,Unemployed,1,0,Master
+Stephen Mcgrath,28,Female,Single,321,64353,Salaried,2,1,Bachelor
+Robert Rivera,53,Female,Married,392,165691,Self-Employed,3,2,High School
+Anthony Butler,41,Female,Married,658,48875,Self-Employed,6,3,High School
+Pamela Delacruz MD,49,Male,Single,858,187848,Self-Employed,2,1,High School
+Brett Williams,49,Female,Married,478,43010,Salaried,3,0,High School
+Sabrina Ross,56,Female,Married,840,144320,Salaried,5,0,Bachelor
+Sara Roberts,39,Male,Married,682,172282,Salaried,6,0,Master
+Lauren Brown,24,Male,Married,471,24589,Salaried,4,1,Master
+Mackenzie Peterson,42,Male,Single,657,25683,Unemployed,1,0,High School
+Bryce Smith,29,Female,Single,796,63583,Self-Employed,1,0,Bachelor
+Melissa Alvarez,36,Male,Married,451,87905,Salaried,1,0,High School
+Valerie Chavez,29,Male,Married,693,141808,Salaried,1,0,Bachelor
+Stephen Vega,52,Male,Single,416,84667,Self-Employed,6,2,High School
+Ralph Chapman,23,Male,Married,571,181581,Self-Employed,1,0,Master
+Robert Lee,58,Female,Married,451,160979,Salaried,4,0,High School
+Jenny Perez,40,Female,Single,502,31056,Self-Employed,3,2,PhD
+Maria Gilbert,38,Female,Married,566,75637,Salaried,1,0,Master
+Carolyn York,35,Male,Married,840,173176,Salaried,6,5,PhD
+Arthur Harris,51,Female,Married,748,158382,Unemployed,1,0,Bachelor
+Patty Weber,23,Male,Single,756,115451,Unemployed,1,0,Bachelor
+Christopher Roach,48,Female,Married,813,132240,Unemployed,4,0,Bachelor
+Tina May,43,Female,Married,371,94342,Unemployed,5,2,Bachelor
+Brian Perez,55,Female,Single,347,116233,Unemployed,4,1,Bachelor
+Lindsay Smith,36,Male,Single,395,106923,Self-Employed,6,2,Bachelor
+Kimberly Griffin,42,Male,Married,838,157998,Salaried,3,1,PhD
+Anthony Ramos,60,Male,Single,411,172384,Unemployed,6,1,Bachelor
+Shawn Warren,26,Female,Single,715,124488,Unemployed,3,2,Bachelor
+James Taylor,23,Female,Married,669,151573,Salaried,6,1,High School
+Amy Cole,33,Male,Single,730,30042,Unemployed,2,0,Master
+Kimberly Peterson,40,Female,Single,667,166980,Unemployed,1,0,PhD
+William Shea,57,Male,Single,543,84351,Salaried,5,4,Master
+Katie Hester,27,Male,Single,516,131430,Salaried,3,1,High School
+Brian Dean,44,Female,Single,529,98447,Unemployed,5,0,Master
+Jason White,52,Female,Single,564,142054,Unemployed,4,3,Master
+Larry White,37,Male,Single,811,170562,Unemployed,6,1,Master
+Jose Galloway,32,Male,Single,837,88936,Unemployed,3,1,Master
+Shane Carr,23,Male,Married,576,21242,Unemployed,1,0,High School
+Carlos Davis,38,Male,Single,540,128740,Salaried,1,0,Bachelor
+James Chambers,23,Male,Single,549,116918,Unemployed,3,2,PhD
+Gabriel Weaver,24,Male,Single,859,35882,Unemployed,4,3,Bachelor
+Kimberly Butler,40,Male,Married,414,84803,Salaried,4,1,PhD
+David Wright,33,Male,Married,531,185562,Self-Employed,4,0,High School
+Todd Zuniga,44,Male,Single,546,173402,Salaried,5,3,Master
+Jacob Barr,56,Male,Married,631,71733,Salaried,4,3,PhD
+Samantha Williams,37,Male,Married,433,195922,Salaried,5,4,Bachelor
+Spencer Reynolds,26,Female,Single,888,124291,Salaried,4,3,Bachelor
+Robert Nguyen,34,Male,Married,312,105005,Salaried,2,0,Master
+Eric Howard,55,Female,Single,447,175558,Salaried,5,4,PhD
+Rebecca Anthony,35,Female,Single,626,153098,Self-Employed,4,3,Master
+Nicholas Fowler,55,Male,Single,553,118370,Unemployed,5,2,PhD
+Samuel Sanders,26,Female,Married,735,142949,Salaried,3,1,High School
+Carla Johnson,37,Male,Single,798,192885,Unemployed,2,1,Master
+Betty Jones,55,Male,Married,727,36827,Unemployed,2,1,High School
+Matthew Perez,45,Male,Single,412,148169,Self-Employed,1,0,High School
+Megan Barber,21,Female,Married,795,86555,Salaried,2,0,PhD
+Catherine Padilla,46,Male,Single,510,49434,Self-Employed,1,0,Master
+Mark Shaw,40,Male,Married,363,77331,Unemployed,5,4,Bachelor
+Michael Gutierrez,51,Male,Married,638,163716,Salaried,3,0,PhD
+David Bentley,47,Female,Married,833,65510,Salaried,4,2,Bachelor
+Anthony Martin,60,Female,Single,840,35236,Salaried,1,0,PhD
+Chase Webster,57,Female,Married,710,52692,Unemployed,1,0,Master
+Brandon Greer,44,Female,Married,579,136490,Self-Employed,2,0,Bachelor
+Angela Bates,46,Male,Married,776,46119,Self-Employed,5,1,Bachelor
+Carolyn Bridges,54,Male,Married,715,75076,Unemployed,6,5,Master
+Randy Jones,35,Male,Single,458,135094,Unemployed,6,0,High School
+Amanda Short,21,Male,Married,447,149985,Salaried,2,0,Master
+Melissa Li,35,Female,Married,818,45220,Salaried,6,3,PhD
+Audrey Fuentes,60,Female,Married,622,108275,Salaried,3,2,Master
+Dana Neal,26,Female,Single,426,32167,Unemployed,2,0,Bachelor
+Christine Lee,39,Female,Married,843,153654,Salaried,2,0,Bachelor
+Antonio Mccormick,48,Male,Single,362,91932,Unemployed,3,1,PhD
+Eric Gould,55,Male,Married,312,91116,Self-Employed,3,1,High School
+Robert Rodriguez,55,Female,Single,841,18521,Self-Employed,5,3,PhD
+Melissa Conner,57,Female,Married,441,133621,Self-Employed,1,0,Master
+Bryan Smith,41,Male,Married,673,55323,Self-Employed,4,2,Bachelor
+Leslie Harris,46,Male,Single,702,40969,Unemployed,5,3,High School
+Cheryl Hicks,44,Female,Single,363,162644,Salaried,3,2,PhD
+Laurie Richardson,41,Female,Married,770,50903,Unemployed,3,0,High School
+Mariah Garrett,28,Male,Married,629,30192,Self-Employed,5,2,Master
+Catherine Cuevas,41,Male,Single,442,165847,Salaried,3,1,Master
+Suzanne Lam,47,Female,Married,721,121162,Self-Employed,4,2,PhD
+Jeremy Smith,56,Female,Married,690,167221,Salaried,4,3,High School
+Amy Burke,25,Female,Single,602,66535,Salaried,3,2,Master
+Spencer Riley,22,Male,Married,569,117368,Unemployed,4,1,Master
+Brendan Peterson,29,Female,Married,540,137712,Unemployed,6,4,High School
+John Beck,45,Female,Single,583,159111,Salaried,2,0,Bachelor
+Elizabeth Holloway,30,Male,Single,370,37882,Self-Employed,5,3,Master
+Curtis Johnson,38,Female,Single,710,42496,Self-Employed,4,0,High School
+Chelsea Lyons,47,Female,Married,745,88775,Salaried,2,0,Bachelor
+Sarah Freeman,37,Female,Single,489,55613,Self-Employed,5,0,PhD
+Amanda Richards,34,Male,Married,470,31133,Unemployed,5,1,High School
+Darryl Boyd,26,Male,Married,900,146635,Salaried,3,0,Bachelor
+Karen Williams,33,Male,Married,309,21235,Unemployed,6,5,Bachelor
+Philip Ross,60,Male,Single,886,110728,Self-Employed,1,0,High School
+John Ramos,25,Male,Married,873,104080,Salaried,6,0,High School
+Luke Huerta,59,Female,Single,724,69287,Salaried,3,0,Bachelor
+Dylan Hansen,33,Female,Single,837,21011,Salaried,1,0,Bachelor
+Tara Carlson,60,Female,Single,722,44435,Unemployed,2,0,Bachelor
+Billy Hampton,56,Male,Married,581,62124,Self-Employed,6,0,High School
+William Russell,34,Male,Married,511,117650,Salaried,4,0,Bachelor
+Joshua Morales,40,Male,Single,898,184334,Self-Employed,2,0,High School
+Lonnie Adams,24,Male,Single,312,157450,Salaried,1,0,PhD
+Michael Perry,40,Male,Married,341,32631,Self-Employed,4,1,High School
+Jordan Anderson,26,Female,Single,452,110011,Salaried,5,2,High School
+Michele Mcgee,60,Female,Married,741,151017,Salaried,5,2,Bachelor
+Steven Erickson,22,Male,Single,770,129080,Self-Employed,3,1,High School
+Miguel Duke,45,Male,Married,881,87853,Self-Employed,3,1,Bachelor
+Cameron Perry,46,Male,Married,667,122709,Salaried,1,0,Bachelor
+Dennis Graham,37,Male,Single,786,160252,Salaried,4,0,High School
+Jonathan Ellis,22,Male,Married,894,155700,Salaried,1,0,High School
+Michelle Kim,59,Female,Single,660,129052,Self-Employed,3,1,High School
+Michelle Huff,33,Male,Single,849,111515,Unemployed,1,0,PhD
+Taylor Smith,51,Female,Married,642,93618,Self-Employed,2,0,PhD
+Brandy Collins,42,Female,Single,821,60233,Salaried,4,0,High School
+Amy Lee,45,Male,Married,596,189922,Salaried,5,2,Bachelor
+Jacqueline Cole,22,Female,Single,667,137093,Unemployed,1,0,Master
+Jonathan Wood,51,Female,Single,862,67380,Salaried,3,2,Bachelor
+Marissa Thornton,47,Female,Single,313,184491,Salaried,2,0,PhD
+Frank Taylor,25,Male,Married,559,79238,Unemployed,2,0,PhD
+Michele Jones,22,Male,Single,641,166336,Unemployed,3,0,High School
+Logan Martinez,54,Female,Married,493,74970,Unemployed,2,1,PhD
+Jeff Porter,47,Female,Single,807,77946,Unemployed,5,0,PhD
+Juan Benjamin,32,Female,Married,679,150168,Self-Employed,1,0,High School
+Caroline Scott,52,Male,Single,886,125165,Unemployed,4,0,Bachelor
+Cynthia Riggs,36,Female,Single,592,43509,Unemployed,5,2,Master
+Denise Brown,45,Male,Single,623,89129,Self-Employed,1,0,Bachelor
+Loretta Davis,56,Female,Single,851,92576,Salaried,1,0,Master
+Mariah Alexander,24,Male,Single,369,19917,Salaried,1,0,High School
+Kimberly Velazquez,47,Male,Single,596,181506,Salaried,5,2,Bachelor
+Virginia Anderson,22,Female,Single,871,138322,Salaried,4,1,PhD
+Ms. Alexis Gallagher,31,Female,Married,833,70722,Unemployed,5,4,PhD
+Daniel Petersen,27,Male,Single,396,121779,Self-Employed,2,0,PhD
+Christopher Lowe,27,Male,Single,325,117554,Salaried,3,1,Bachelor
+Phyllis Vazquez,36,Female,Married,315,103107,Unemployed,3,2,High School
+Peter White,36,Female,Married,880,167409,Salaried,4,3,Bachelor
+Garrett Wilson,28,Male,Married,765,84051,Unemployed,2,1,Master
+James Perkins,28,Male,Married,539,70063,Self-Employed,3,1,Bachelor
+Adam Holmes,58,Female,Married,433,120359,Self-Employed,6,2,PhD
+Justin Smith,42,Male,Single,462,132892,Salaried,5,3,Master
+Mackenzie Howard,47,Male,Married,363,197023,Self-Employed,4,3,Master
+Nicholas Pope,35,Male,Married,396,85951,Unemployed,4,0,PhD
+Eric Dudley,33,Female,Single,372,129340,Self-Employed,2,0,PhD
+Patricia Chan,44,Male,Married,480,25366,Self-Employed,4,0,Bachelor
+Mary Lee,60,Male,Married,577,182707,Unemployed,6,3,Bachelor
+Ryan Riddle,55,Male,Married,351,83254,Self-Employed,3,0,Master
+Michael Taylor,51,Female,Married,667,20968,Unemployed,1,0,High School
+Amanda Moore,25,Male,Single,403,38572,Unemployed,2,1,High School
+David Smith,56,Female,Married,702,131240,Self-Employed,1,0,Bachelor
+Alexandra Valdez,45,Male,Single,638,159368,Self-Employed,3,1,Master
+Kathleen Jones,49,Male,Single,546,187839,Self-Employed,4,0,PhD
+Danny Goodwin,58,Female,Married,303,178995,Salaried,6,1,High School
+Tracy Rogers,21,Female,Single,790,84752,Unemployed,6,1,High School
+Michael Johnson,55,Male,Married,800,26102,Unemployed,2,1,Bachelor
+Raymond Wilson,51,Male,Single,533,190526,Unemployed,2,1,PhD
+Amanda Spears,33,Female,Married,467,168704,Salaried,1,0,High School
+Dawn Harper,26,Male,Married,833,48765,Salaried,3,0,Master
+Carol Silva,39,Female,Married,844,83757,Salaried,1,0,PhD
+Roy Robbins,49,Male,Married,645,66722,Unemployed,2,0,PhD
+Justin Smith,38,Female,Married,373,71335,Unemployed,1,0,Master
+Chloe Romero,21,Male,Married,337,28876,Self-Employed,3,2,PhD
+Kaitlyn Jackson,51,Female,Single,530,146032,Unemployed,2,0,High School
+Alexis Dodson,23,Female,Single,578,185910,Self-Employed,2,1,Bachelor
+Tyler Hughes,39,Female,Married,739,40904,Salaried,4,2,Bachelor
+Meagan Livingston DDS,56,Male,Single,727,111167,Unemployed,1,0,Master
+Rachel Howard,53,Male,Single,350,128304,Unemployed,2,1,High School
+Theresa Benjamin,46,Male,Married,848,192509,Salaried,5,3,Bachelor
+Patricia Smith DVM,43,Female,Married,479,196481,Unemployed,5,1,High School
+Elaine Arnold,46,Male,Single,370,115378,Unemployed,4,1,Master
+Antonio Ortega,38,Female,Single,516,89572,Unemployed,4,0,PhD
+Mr. Julian Griffin,48,Female,Single,864,164309,Unemployed,4,3,PhD
+Kristy Andrade,21,Female,Single,700,193951,Unemployed,5,4,Bachelor
+Mary Nunez,55,Male,Married,312,136619,Self-Employed,4,1,High School
+Erika Cox,59,Female,Single,341,170942,Unemployed,4,1,High School
+Brianna Wilson,50,Female,Married,879,109589,Salaried,1,0,PhD
+Colleen Lee,30,Male,Single,632,165755,Salaried,6,3,High School
+Alisha Warren,39,Male,Single,430,126071,Self-Employed,3,1,High School
+Kimberly Price,36,Female,Married,749,27503,Unemployed,6,5,Bachelor
+Brandon Murphy,56,Female,Single,678,94474,Self-Employed,5,4,Bachelor
+Carol Stewart,50,Female,Married,301,46726,Unemployed,2,1,PhD
+Jessica Rhodes,29,Male,Married,527,65621,Self-Employed,3,1,High School
+Matthew Garcia,51,Male,Married,840,126160,Self-Employed,6,2,Master
+Kathleen Chapman,52,Male,Single,504,100307,Self-Employed,3,1,PhD
+Michael Richards,51,Female,Single,395,85854,Unemployed,1,0,PhD
+Jamie Mueller,39,Female,Single,540,36269,Self-Employed,3,1,High School
+Nicole Anderson,41,Female,Single,800,126439,Unemployed,6,0,High School
+David Lewis,41,Male,Single,634,148685,Salaried,4,3,High School
+Ian Harper,55,Male,Single,548,177467,Salaried,5,1,Master
+Bryan Hunter,28,Female,Single,824,133396,Self-Employed,2,0,PhD
+Casey Anderson,49,Female,Married,591,67812,Self-Employed,5,3,High School
+Shawn Hunter,56,Female,Single,878,189811,Salaried,5,3,Bachelor
+Scott Collier,22,Male,Married,799,156356,Salaried,4,3,High School
+Sean Pruitt,34,Male,Married,588,167372,Salaried,5,2,High School
+Jonathan Chavez,46,Male,Single,813,81727,Unemployed,5,3,High School
+Laura Garcia,37,Female,Single,351,40819,Unemployed,6,5,Master
+Tracy Jordan,51,Female,Married,575,139295,Self-Employed,5,4,Bachelor
+Anna Miller,48,Female,Married,758,130628,Salaried,4,0,High School
+Gregory Ho,43,Male,Single,558,167985,Self-Employed,2,0,PhD
+Deanna Kelley,59,Female,Single,624,98527,Unemployed,2,1,Bachelor
+Joshua Woods,49,Male,Married,750,186443,Salaried,2,1,Bachelor
+David Anderson,43,Female,Married,667,66766,Unemployed,1,0,PhD
+Lisa Thomas,43,Female,Single,806,39881,Self-Employed,2,1,Bachelor
+Jimmy York,36,Female,Married,435,122067,Unemployed,6,0,Master
+Brady Gomez,26,Female,Married,441,74726,Self-Employed,5,2,PhD
+Mrs. Sandra Cooke,51,Female,Married,348,63971,Unemployed,2,0,High School
+Marco Hansen,32,Female,Married,347,124760,Self-Employed,2,1,Master
+Mark Rodriguez,30,Male,Single,399,186796,Self-Employed,4,0,Bachelor
+Walter Campbell,53,Female,Single,635,42493,Salaried,4,3,High School
+Kara Morales,49,Female,Single,686,95667,Salaried,3,2,PhD
+Caitlin Gonzalez,52,Female,Single,694,67211,Unemployed,2,1,PhD
+Rebecca Ramos,41,Female,Married,779,107348,Self-Employed,2,1,Master
+Jeffrey Meyers,30,Female,Married,568,90221,Self-Employed,1,0,PhD
+Barry Harper,45,Male,Married,627,136431,Unemployed,3,0,PhD
+Nathan Olsen,56,Female,Married,581,126050,Self-Employed,5,0,Bachelor
+Robert Perez,54,Female,Single,348,61224,Self-Employed,1,0,High School
+Kelly Young,24,Female,Single,395,123299,Self-Employed,1,0,High School
+Luke King,46,Male,Single,782,138043,Self-Employed,1,0,Master
+Mark Stephenson,32,Female,Married,346,196269,Self-Employed,3,1,Master
+Anthony Harris,42,Female,Married,765,28888,Salaried,4,2,Master
+Kevin Madden,53,Male,Single,800,52132,Unemployed,3,0,High School
+Ronald Hall,46,Male,Single,671,68900,Salaried,4,1,High School
+Michael Osborne,36,Female,Married,342,28232,Salaried,1,0,Master
+Jaclyn Welch,30,Male,Married,321,126250,Self-Employed,6,2,Master
+Charles Smith,22,Female,Single,438,56125,Self-Employed,3,1,Master
+Thomas Franklin,48,Male,Single,360,145874,Salaried,5,2,PhD
+Ryan Townsend,60,Female,Single,842,37470,Unemployed,6,2,PhD
+Edwin Travis,30,Female,Single,650,17012,Unemployed,1,0,High School
+Daniel Powers,53,Male,Single,751,143574,Unemployed,1,0,High School
+Debbie Chan,33,Male,Single,321,199623,Unemployed,2,0,High School
+Peggy Robertson,52,Female,Single,891,43054,Unemployed,4,2,Master
+Elizabeth Wilson,59,Male,Married,811,81706,Self-Employed,2,0,PhD
+Courtney Forbes,52,Male,Single,498,49999,Unemployed,5,4,High School
+Maria Lang,44,Male,Married,500,27566,Self-Employed,1,0,High School
+Aaron Stewart,52,Male,Married,642,139024,Self-Employed,3,0,Master
+Christine Payne,22,Male,Single,642,121944,Self-Employed,6,1,High School
+Patrick Santiago,35,Female,Married,587,83273,Self-Employed,2,0,High School
+Heidi Howard,48,Male,Married,774,187163,Self-Employed,5,3,PhD
+Allison Peters,30,Male,Single,579,66970,Salaried,4,2,Bachelor
+Barbara White,49,Male,Married,691,155479,Unemployed,1,0,PhD
+Christopher Reynolds,31,Female,Single,895,41480,Self-Employed,2,1,Bachelor
+Andrea Romero,43,Female,Married,592,150938,Unemployed,4,2,Bachelor
+Katie Romero,42,Female,Single,367,81174,Unemployed,1,0,Bachelor
+Michelle Savage,41,Female,Married,585,45533,Salaried,3,1,PhD
+Kenneth Boyd,44,Female,Married,319,140252,Self-Employed,6,1,High School
+Tracy Lutz,39,Female,Single,328,143346,Self-Employed,3,0,Bachelor
+Teresa Clark,32,Female,Married,525,139167,Self-Employed,1,0,Master
+Brandon Kramer,25,Male,Married,641,52134,Self-Employed,4,3,Master
+Leonard James,27,Male,Married,856,86342,Unemployed,6,2,High School
+Mathew Freeman,25,Male,Married,620,125671,Unemployed,3,2,PhD
+Michael Lee,39,Female,Married,494,71428,Salaried,4,2,PhD
+Kenneth Burke PhD,55,Male,Single,809,182220,Self-Employed,5,0,PhD
+Zachary Vazquez,43,Male,Single,572,92892,Self-Employed,1,0,Master
+Jeffrey Powell,28,Female,Single,558,151552,Unemployed,4,0,PhD
+Stacey Morris,37,Male,Single,700,130136,Unemployed,6,0,Bachelor
+Mrs. Sheena Jones,33,Male,Single,830,91905,Self-Employed,5,4,Master
+Sharon Rivera,49,Female,Married,574,28934,Unemployed,3,2,High School
+Maria Wright,42,Male,Married,886,152665,Unemployed,1,0,High School
+Mark Thompson,24,Male,Single,379,171423,Salaried,3,0,PhD
+Victoria Martinez,48,Female,Married,592,71472,Unemployed,5,3,High School
+Kimberly Quinn PhD,57,Female,Married,411,185822,Unemployed,3,2,High School
+Brittney Baxter,41,Female,Married,580,18850,Unemployed,6,1,High School
+Mr. Ryan Parks Jr.,50,Female,Single,722,114111,Unemployed,6,4,PhD
+Catherine Weber,57,Male,Single,639,40363,Self-Employed,5,3,High School
+Lisa Simmons,23,Male,Married,775,97722,Salaried,4,3,PhD
+Daniel Larson,60,Male,Married,451,123607,Unemployed,5,3,High School
+Kim Davis,51,Female,Single,300,130559,Self-Employed,5,3,Bachelor
+Barbara Roberts,30,Male,Single,394,137381,Self-Employed,2,1,High School
+Barbara Haynes,59,Female,Single,513,175037,Salaried,2,1,Master
+Brian Davis,52,Male,Single,702,188539,Unemployed,6,1,Master
+Elizabeth David,42,Male,Married,405,94791,Self-Employed,5,0,Master
+Chelsea Fuller,36,Female,Single,424,21589,Salaried,5,4,High School
+Reginald Rios,41,Male,Single,738,94775,Salaried,4,2,Master
+Edgar Johnson,44,Female,Married,471,168379,Self-Employed,6,2,Bachelor
+Connie Rowland,24,Male,Single,873,86656,Self-Employed,3,2,High School
+Stephen Baird,37,Male,Single,864,27568,Salaried,6,1,PhD
+Catherine Garcia,36,Male,Married,651,63741,Self-Employed,6,4,Master
+Daniel Martin,51,Male,Single,507,60713,Unemployed,3,2,High School
+Jennifer Rogers,51,Female,Married,383,16328,Self-Employed,5,3,High School
+Andrew Ryan,28,Female,Single,889,181959,Unemployed,6,2,Bachelor
+Scott Molina,36,Male,Married,806,143272,Salaried,5,1,PhD
+Tina Mcpherson MD,24,Female,Married,480,15645,Salaried,5,0,Master
+Cassandra Gibson,40,Female,Single,842,67619,Unemployed,6,1,Master
+Nicole Bell,40,Female,Single,628,137951,Salaried,5,4,High School
+Colton Day,23,Male,Single,661,35249,Self-Employed,1,0,PhD
+Keith Weber,30,Female,Single,606,73890,Self-Employed,3,1,High School
+Katherine Bowman,44,Male,Married,894,19847,Salaried,4,0,Master
+James Morgan,36,Female,Single,791,148907,Self-Employed,3,2,Master
+Wesley Cross,48,Male,Single,821,65891,Self-Employed,6,3,Bachelor
+Jeffrey Cook,47,Female,Single,612,189428,Self-Employed,3,1,Bachelor
+Lori Stuart,26,Male,Married,323,148992,Unemployed,6,1,Master
+Tony Gibson,52,Female,Married,395,182260,Salaried,3,0,Bachelor
+Brandon Smith MD,22,Male,Married,484,57579,Salaried,2,0,High School
+William Gaines,30,Female,Single,513,173879,Unemployed,5,2,Bachelor
+Alejandro Ramos,33,Female,Married,748,142606,Self-Employed,2,0,PhD
+Amy Jones,31,Female,Married,433,146362,Salaried,6,5,High School
+Michelle Jackson,46,Male,Married,560,65280,Unemployed,5,2,Master
+Timothy Hernandez,56,Male,Married,303,170380,Unemployed,3,2,Bachelor
+Miranda Foster,38,Female,Single,648,55319,Self-Employed,3,0,Master
+Brooke Nichols,32,Female,Married,520,138911,Unemployed,4,2,Master
+Dawn Vang,40,Male,Married,426,42571,Self-Employed,4,0,Master
+Danielle Hoffman,51,Male,Single,523,185003,Salaried,4,0,High School
+Samantha Medina,40,Male,Married,336,31684,Salaried,5,3,Bachelor
+Aaron Ferguson,30,Female,Single,885,89554,Salaried,5,4,Bachelor
+Michelle Perry,54,Female,Single,642,152758,Unemployed,3,0,PhD
+Kristin Collins,45,Female,Married,825,46788,Salaried,3,1,PhD
+Daniel Shepherd,58,Female,Married,825,158714,Unemployed,4,1,Bachelor
+Kyle Johnson,56,Male,Married,445,193961,Salaried,5,3,Bachelor
+Teresa Diaz,43,Female,Married,497,35006,Salaried,5,4,PhD
+Lee Banks,38,Female,Single,449,23855,Self-Employed,6,4,Master
+Elizabeth King,59,Male,Single,762,59605,Self-Employed,4,1,Master
+Frederick Stone,41,Female,Single,629,127098,Self-Employed,5,0,High School
+Debbie Vargas,28,Female,Single,563,97474,Self-Employed,1,0,Bachelor
+Theresa Williams,40,Male,Single,523,195939,Self-Employed,4,1,Master
+Tyler Bell,50,Female,Married,539,133469,Self-Employed,6,1,Master
+Melinda Cook,42,Female,Single,374,128032,Self-Employed,3,0,Master
+Charles King,47,Female,Single,675,72856,Salaried,5,3,Bachelor
+Megan Gonzalez,51,Female,Married,789,69577,Unemployed,6,5,Master
+Paula Martin,26,Female,Married,793,106407,Unemployed,5,1,High School
+Rebecca Stewart,59,Female,Single,504,29829,Salaried,1,0,PhD
+Donna Case,40,Male,Married,465,112859,Unemployed,3,0,Bachelor
+Pedro Dalton,53,Male,Single,739,80407,Self-Employed,2,1,Master
+Jennifer Hall,43,Male,Single,825,96244,Unemployed,4,3,Bachelor
+Emily Boyle DVM,31,Female,Married,834,32872,Unemployed,1,0,Master
+Dustin Davis,33,Female,Single,453,183054,Salaried,5,1,Bachelor
+Ashley Smith,55,Female,Married,462,141195,Self-Employed,6,3,PhD
+Robert Bush,39,Female,Single,564,178238,Unemployed,1,0,Bachelor
+Nancy Wilson,47,Female,Married,610,162777,Unemployed,3,1,Bachelor
+Michael Stephens,28,Male,Married,560,85644,Self-Employed,2,0,Master
+Pamela Murphy,37,Male,Single,753,18147,Unemployed,6,4,Bachelor
+Danielle West,38,Female,Married,787,113085,Self-Employed,3,0,Master
+Lisa Park,34,Male,Single,356,57694,Unemployed,1,0,PhD
+Melissa Gentry,21,Female,Single,499,70083,Unemployed,4,1,Bachelor
+Kristen Nguyen,28,Female,Married,667,191064,Unemployed,5,4,High School
+Kristy Church,36,Male,Married,452,81193,Unemployed,6,2,PhD
+John Pearson,53,Female,Single,776,133256,Unemployed,3,2,High School
+Anthony Garcia,48,Female,Married,370,110072,Self-Employed,4,2,PhD
+Brandon Williams,57,Female,Single,858,26645,Salaried,6,1,Bachelor
+Debra Wilcox,35,Male,Single,304,135938,Self-Employed,3,2,Master
+Richard Lamb,57,Female,Single,863,58519,Unemployed,1,0,High School
+Eric Marsh,59,Female,Single,827,28235,Salaried,1,0,High School
+Chad Cordova,33,Male,Single,572,101252,Unemployed,2,0,PhD
+Gerald Phillips,39,Male,Married,689,55446,Unemployed,4,0,PhD
+Andrew Garcia DDS,55,Female,Single,362,126167,Salaried,2,1,High School
+Shane George,56,Male,Single,890,162864,Salaried,5,2,High School
+Cheryl Tate,22,Female,Married,466,129938,Salaried,6,3,High School
+Anna Lee,31,Male,Married,846,136241,Self-Employed,1,0,Master
+Stephanie Orr,27,Male,Single,710,87731,Self-Employed,4,2,High School
+William Rodriguez,25,Female,Married,753,17263,Unemployed,6,5,PhD
+Andrew Morgan,33,Male,Married,829,193404,Unemployed,2,1,Master
+Anthony Watkins,32,Female,Married,722,178243,Unemployed,4,0,Master
+Alicia Mathis,52,Female,Single,556,96389,Salaried,5,0,Bachelor
+John Garza,50,Male,Single,673,149418,Salaried,1,0,High School
+Maria Castro,37,Male,Single,780,192381,Unemployed,3,2,PhD
+Tracy Anderson,26,Male,Married,399,144922,Self-Employed,6,5,High School
+Karen Campos,54,Female,Single,781,184170,Self-Employed,1,0,PhD
+Wendy Bennett,23,Female,Single,781,190925,Salaried,2,1,Bachelor
+Alex Yang,31,Female,Single,593,154560,Self-Employed,2,0,PhD
+Karen Taylor,29,Male,Married,646,147417,Salaried,5,4,Master
+Michael Chavez,57,Female,Single,437,102078,Self-Employed,4,1,Master
+Stephanie Colon,38,Female,Single,863,141810,Salaried,4,2,High School
+Leslie Marshall,30,Female,Single,588,92510,Self-Employed,5,2,Master
+Francisco Hall,52,Female,Single,517,86958,Self-Employed,5,1,Master
+Julie Robertson,32,Female,Married,408,27686,Unemployed,6,2,PhD
+Emily Perez,24,Male,Single,529,138021,Salaried,2,1,Bachelor
+Ann Callahan,57,Male,Married,692,18055,Self-Employed,5,3,Bachelor
+Breanna Casey,56,Female,Married,417,38353,Unemployed,6,2,High School
+Lindsay Hines,29,Female,Married,522,106288,Self-Employed,4,0,Master
+Ashley Phelps,49,Female,Married,506,40128,Self-Employed,1,0,High School
+Jonathan Dawson,27,Male,Single,462,163894,Salaried,3,0,High School
+David Tran,38,Male,Married,449,41039,Salaried,4,2,PhD
+Daniel Bailey,30,Female,Married,575,192069,Unemployed,3,1,High School
+Nicole Allen,28,Female,Married,500,43836,Self-Employed,5,4,PhD
+Cynthia Price,33,Female,Married,468,91822,Salaried,4,1,High School
+Patrick Day,27,Male,Single,702,194008,Unemployed,1,0,Bachelor
+Matthew Perez,29,Female,Single,847,33136,Self-Employed,1,0,Master
+Karla Edwards,38,Female,Married,402,69138,Salaried,3,2,High School
+Leonard Nielsen DVM,36,Female,Single,769,22441,Self-Employed,2,1,High School
+Robert Pope,25,Female,Single,812,111408,Salaried,3,2,PhD
+Christopher Hays,55,Female,Married,449,169562,Unemployed,1,0,High School
+Katelyn Peterson,53,Male,Single,614,124073,Unemployed,5,1,PhD
+Jonathan Hines,36,Female,Married,582,78758,Salaried,1,0,PhD
+Daniel Gonzalez,44,Male,Married,619,24652,Self-Employed,2,1,High School
+Shawn Sims,57,Male,Married,327,38482,Self-Employed,3,1,PhD
+Stephanie Steele,46,Male,Married,579,143696,Salaried,1,0,High School
+Maureen Watkins,26,Female,Married,898,161317,Unemployed,2,1,Bachelor
+Melissa Gardner,24,Female,Single,504,142491,Salaried,4,2,Bachelor
+Debra House,43,Male,Married,665,152132,Salaried,1,0,Master
+Amy Hatfield,55,Female,Married,638,98229,Self-Employed,1,0,Master
+Tyler Werner,53,Female,Married,884,153700,Unemployed,3,1,PhD
+Nicole Barker,25,Male,Single,388,61915,Self-Employed,5,2,PhD
+Emily Mcmahon,28,Male,Single,393,190384,Salaried,6,1,Bachelor
+Maria Thomas,27,Male,Married,843,148474,Self-Employed,3,1,Master
+Joan Gonzales,45,Female,Married,755,23556,Unemployed,1,0,High School
+Emily Ball,48,Female,Single,467,192296,Unemployed,1,0,High School
+Kristina Walters,30,Female,Married,590,46807,Salaried,5,1,PhD
+Deborah Kirby,36,Male,Married,586,109151,Unemployed,1,0,Master
+Teresa Phillips,48,Female,Single,433,74663,Salaried,3,1,Master
+Brianna Thornton,47,Male,Married,541,35320,Salaried,5,3,PhD
+Michelle Martinez,34,Female,Married,569,73749,Unemployed,6,2,Bachelor
+Ashlee Santos,38,Female,Married,617,145062,Salaried,5,0,Bachelor
+Rebecca Gardner,43,Male,Married,507,97866,Salaried,1,0,High School
+Richard Herrera,21,Male,Married,874,55251,Self-Employed,3,0,PhD
+Joshua Orozco,59,Male,Single,597,182776,Unemployed,6,4,High School
+Candice Watts,45,Male,Single,304,173777,Self-Employed,1,0,High School
+Becky Harrison,55,Male,Married,557,123819,Salaried,6,0,PhD
+Jeremy Lee,22,Female,Married,707,100805,Self-Employed,3,1,Bachelor
+Jane Arroyo,30,Male,Single,592,65561,Unemployed,4,0,Master
+Christopher Stephenson,43,Female,Married,685,133751,Unemployed,6,2,Master
+Darlene Hubbard,37,Female,Single,647,158396,Salaried,5,4,Master
+Anthony Hopkins,40,Female,Single,616,101152,Salaried,6,1,Bachelor
+Raymond Munoz,26,Female,Single,469,51055,Salaried,5,3,PhD
+Heather Morales,24,Male,Single,519,175505,Self-Employed,5,0,Master
+Nicole Bailey,49,Female,Single,314,103116,Salaried,4,1,PhD
+Kyle Wilkinson,57,Female,Married,398,95418,Unemployed,6,5,PhD
+Jennifer Ramirez,44,Male,Married,591,98042,Salaried,4,0,Bachelor
+Austin Richards,49,Female,Married,777,92642,Self-Employed,1,0,PhD
+Herbert Bird,42,Male,Married,835,96269,Salaried,5,3,Master
+Derrick Cross,37,Male,Married,767,135701,Unemployed,4,0,Bachelor
+Christopher Booth,60,Female,Married,573,125482,Salaried,2,1,PhD
+David Simpson,41,Female,Married,859,71933,Unemployed,5,3,Master
+Brandy Vazquez,33,Male,Single,824,83380,Self-Employed,3,1,Bachelor
+Annette Bernard,33,Male,Married,826,60442,Self-Employed,6,0,High School
+Leah Mills,45,Female,Married,439,126855,Unemployed,1,0,Bachelor
+Angie Bell,57,Female,Married,445,42206,Self-Employed,4,1,PhD
+Melissa Buchanan,26,Female,Single,300,119227,Unemployed,6,0,Bachelor
+Stephanie Henderson,30,Male,Single,781,135663,Unemployed,2,0,Bachelor
+Angela Hernandez,34,Female,Single,485,128414,Self-Employed,5,2,PhD
+Stacey Jackson,47,Male,Married,436,15325,Unemployed,1,0,PhD
+Jacob Dalton,39,Male,Married,677,50655,Salaried,5,3,Bachelor
+April Smith,33,Female,Single,349,26347,Self-Employed,2,1,High School
+Glenda Obrien,37,Female,Married,494,114876,Salaried,6,1,Bachelor
+Ashley Williams,47,Female,Single,849,142400,Self-Employed,6,3,High School
+Suzanne Anderson,57,Female,Married,854,71675,Self-Employed,1,0,PhD
+David Lopez,40,Male,Married,423,80801,Self-Employed,3,0,Bachelor
+Ronald Houston,40,Female,Single,656,91201,Self-Employed,1,0,Master
+Robin Garcia,42,Female,Single,363,42439,Unemployed,1,0,Master
+Darren Yoder,30,Female,Single,308,38413,Self-Employed,5,0,Master
+Daniel Blake,52,Male,Married,641,157688,Unemployed,4,2,Bachelor
+Melissa Mooney,35,Male,Single,359,29452,Salaried,3,2,PhD
+Gabrielle Mckee,25,Male,Single,492,41340,Unemployed,6,4,Master
+James Davis,30,Male,Single,865,103103,Unemployed,4,0,High School
+Belinda Edwards,30,Male,Married,305,73175,Salaried,5,0,High School
+Kiara Lee,52,Female,Single,513,146978,Salaried,2,1,Bachelor
+Shirley Flores,39,Female,Married,521,66250,Salaried,1,0,Bachelor
+Todd Fuller,52,Male,Single,400,31580,Salaried,2,1,PhD
+Samantha Howard,35,Male,Single,708,69036,Salaried,2,1,High School
+Jennifer Gibbs,40,Female,Married,563,150577,Unemployed,2,0,PhD
+Taylor Rodriguez,26,Female,Married,799,145211,Salaried,3,0,Bachelor
+Cody Saunders,44,Female,Married,477,125144,Unemployed,2,1,PhD
+Ana Mclaughlin,55,Female,Married,395,52957,Unemployed,5,3,High School
+Tracy Johnson,23,Male,Single,868,101035,Unemployed,3,2,PhD
+Kimberly Chandler,26,Female,Married,612,199543,Salaried,3,2,High School
+Jasmine Mckee,23,Male,Single,748,98864,Self-Employed,5,3,Master
+Leslie Freeman,58,Male,Married,377,196470,Salaried,2,1,High School
+Sherry Thompson,37,Male,Single,583,184211,Self-Employed,3,1,Bachelor
+Matthew Ryan,26,Male,Single,465,157891,Unemployed,4,3,PhD
+John Mckay,47,Female,Single,394,195283,Unemployed,5,3,Master
+Kelly Medina,24,Male,Single,508,85915,Unemployed,5,0,Bachelor
+Daniel Rodriguez,36,Male,Single,444,188714,Unemployed,3,0,Master
+Julie Brown,53,Male,Single,413,44825,Self-Employed,6,3,Bachelor
+Bryan Williams,53,Female,Single,460,34216,Salaried,2,1,PhD
+Shawn Aguilar,56,Male,Married,477,28631,Self-Employed,4,2,PhD
+Brian Morrison,33,Male,Single,369,33898,Self-Employed,5,2,Master
+Mary Bush,60,Male,Married,875,17215,Salaried,6,1,Bachelor
+Christopher Maddox,51,Female,Married,898,174216,Self-Employed,6,3,High School
+Amy Aguirre,25,Female,Married,726,24152,Unemployed,6,0,High School
+Derek Davis,50,Male,Single,443,39301,Salaried,5,2,Bachelor
+Samantha Vazquez,23,Female,Single,838,184858,Salaried,6,4,Bachelor
+Lisa Wilson,53,Female,Married,828,120622,Self-Employed,2,0,Master
+William Austin,60,Female,Married,609,67086,Self-Employed,4,1,Master
+Elizabeth Hicks,36,Female,Single,882,182438,Self-Employed,5,0,PhD
+Rachel Vargas,35,Male,Single,732,106459,Salaried,6,3,Bachelor
+Shannon Tyler,28,Female,Married,550,102734,Salaried,5,4,High School
+Michael Gardner,24,Female,Single,713,171264,Salaried,4,2,PhD
+Juan Logan,25,Male,Married,876,72525,Salaried,4,1,Master
+Renee Keller,40,Male,Married,649,19410,Unemployed,3,0,Bachelor
+Glenn Mcfarland,38,Male,Single,672,32039,Salaried,3,1,Master
+Mary Martin,27,Female,Married,781,134510,Salaried,4,3,Bachelor
+Sarah Nielsen,41,Male,Single,884,95485,Unemployed,3,2,Bachelor
+Joseph Chapman,60,Male,Single,661,163252,Salaried,5,2,Master
+Deborah Bowen,48,Male,Single,810,164257,Self-Employed,5,3,PhD
+Joseph Hardy,42,Male,Single,527,125620,Salaried,5,4,Master
+Anne Mccoy,53,Male,Married,592,50956,Self-Employed,1,0,PhD
+Joseph Harris,34,Female,Married,630,63378,Salaried,4,3,PhD
+James Olson,40,Male,Married,430,20186,Salaried,4,0,High School
+Zachary Dominguez,52,Female,Married,751,32904,Salaried,1,0,Bachelor
+Jonathan Johnson,51,Female,Single,695,58426,Salaried,3,2,Bachelor
+Danielle Allen,41,Female,Married,705,178240,Salaried,5,0,Bachelor
+Lisa Aguilar,23,Female,Single,420,196449,Unemployed,4,2,Master
+Samuel Howard,32,Female,Single,502,188505,Salaried,2,0,PhD
+Kelly Adams,40,Female,Single,387,95612,Salaried,6,0,Bachelor
+Eric Brown,25,Female,Single,628,87487,Salaried,1,0,Bachelor
+Paul Johnson,56,Female,Single,469,163726,Self-Employed,5,3,PhD
+Melissa Bryant,40,Female,Married,355,63948,Salaried,6,4,Master
+Carolyn Watts,23,Male,Single,821,164299,Salaried,5,3,Bachelor
+Antonio Williams,28,Male,Single,653,83569,Salaried,4,3,Bachelor
+Gloria Martinez,24,Male,Married,501,150756,Self-Employed,5,1,High School
+Kaitlyn Miranda,21,Female,Married,469,56129,Self-Employed,5,2,Bachelor
+Craig Ochoa,38,Male,Married,868,96019,Unemployed,2,1,High School
+Evan Jenkins,54,Male,Married,767,27012,Unemployed,3,2,Master
+John Hamilton,42,Female,Single,603,48267,Unemployed,6,0,Bachelor
+Alex Harris,31,Male,Single,386,60863,Unemployed,1,0,PhD
+Jasmine Contreras,21,Male,Married,334,100866,Self-Employed,6,5,High School
+Kelly Lopez,21,Female,Married,471,126976,Unemployed,1,0,Bachelor
+Christine Bryant,29,Female,Married,596,106884,Unemployed,6,0,Bachelor
+Valerie Miller,26,Female,Single,470,22550,Salaried,5,4,Master
+Adam Hall,32,Female,Single,549,72634,Salaried,6,5,Bachelor
+Gerald Mcintyre,25,Male,Married,502,27239,Self-Employed,4,0,Master
+Andre Carroll,29,Female,Single,780,29392,Unemployed,6,1,High School
+Anna Warren,27,Female,Married,541,87834,Unemployed,2,1,High School
+Omar Salas,38,Female,Married,319,178924,Unemployed,1,0,PhD
+Sydney Peterson,51,Male,Single,592,17465,Unemployed,6,3,Master
+Jeffery Farmer,39,Male,Married,552,33164,Unemployed,1,0,Master
+Emily Arias,52,Male,Single,382,124365,Unemployed,1,0,Bachelor
+Samuel Turner,39,Male,Single,476,48538,Salaried,3,1,Master
+Marco Thomas,45,Male,Single,407,104274,Salaried,3,1,High School
+William Jones,42,Male,Married,309,120481,Self-Employed,3,0,PhD
+Carl Navarro,50,Female,Married,587,49237,Salaried,5,0,PhD
+Laurie Parker,35,Male,Married,710,156590,Self-Employed,6,1,Master
+Andrew Thomas,57,Male,Single,342,37018,Salaried,2,1,PhD
+Ricky Barr,33,Female,Single,776,63962,Self-Employed,6,3,Bachelor
+Monique Keller,27,Male,Married,540,196614,Unemployed,4,2,PhD
+Kimberly Peters,42,Male,Married,358,177383,Salaried,4,3,High School
+Brandy Werner,26,Female,Married,849,162607,Unemployed,5,4,PhD
+Jeffrey Smith,50,Female,Married,786,129276,Self-Employed,6,0,High School
+Dylan Clark,23,Male,Single,707,71273,Salaried,6,0,Bachelor
+Michele Smith,32,Female,Married,711,76695,Self-Employed,1,0,PhD
+Valerie Burton,32,Male,Married,414,76961,Self-Employed,4,3,Master
+Lauren Rivera,45,Female,Married,810,28870,Unemployed,4,3,Bachelor
+Kim Mann,55,Female,Married,516,177396,Self-Employed,3,0,PhD
+Jacob Nguyen,25,Male,Married,431,158345,Unemployed,2,1,Bachelor
+Kelli Walton,42,Male,Married,869,57840,Unemployed,3,2,Master
+Kathy Watts,47,Male,Single,331,108643,Salaried,1,0,Master
+Tracy Williams,58,Female,Single,697,75005,Unemployed,1,0,High School
+Lisa Dudley,36,Male,Single,496,128367,Salaried,6,2,Bachelor
+Christine Bennett,22,Female,Married,325,52995,Salaried,2,0,Master
+Julie Todd,34,Female,Single,378,159991,Unemployed,4,0,High School
+Christopher Perez,45,Female,Single,487,138661,Unemployed,4,1,Bachelor
+James Mendez,33,Male,Single,724,84506,Self-Employed,2,0,High School
+Albert Anderson,25,Female,Married,502,46468,Unemployed,6,5,High School
+Lawrence Hayes,21,Female,Single,809,160686,Salaried,5,3,High School
+Sharon Flores,25,Female,Single,850,111224,Unemployed,4,3,Master
+Taylor Kirby,26,Male,Married,410,106855,Self-Employed,6,0,Master
+Bethany Garcia,31,Male,Married,465,165203,Self-Employed,5,1,High School
+Sheila Boyd,33,Male,Single,511,165133,Unemployed,1,0,PhD
+Cassandra Mullen,33,Male,Single,787,97093,Unemployed,2,0,PhD
+Melinda Good,41,Female,Single,673,30801,Unemployed,1,0,PhD
+Jessica Campbell,32,Female,Married,451,124307,Self-Employed,1,0,PhD
+Cindy Robinson,24,Female,Single,340,127073,Salaried,1,0,High School
+Daniel Chapman,28,Male,Married,567,19816,Self-Employed,3,1,PhD
+Juan Silva,31,Female,Married,678,117764,Self-Employed,3,1,Master
+Kelly Martinez,49,Male,Married,358,186351,Unemployed,6,4,Master
+Lisa Chavez,26,Female,Married,797,84138,Self-Employed,5,4,High School
+Sharon Thomas,29,Male,Single,559,28311,Salaried,4,1,Master
+Crystal Payne,24,Female,Single,799,112975,Salaried,5,2,High School
+Crystal Leon MD,39,Male,Single,661,104704,Unemployed,4,2,PhD
+Michael Parker,53,Female,Married,391,191605,Self-Employed,6,0,High School
+Leslie Stevens,43,Male,Married,428,104988,Unemployed,2,1,PhD
+Elizabeth Hicks,33,Male,Single,690,61545,Self-Employed,4,2,High School
+Mitchell Diaz,52,Male,Married,471,99648,Self-Employed,1,0,Master
+Dennis Lee,48,Female,Married,830,141814,Unemployed,6,0,Bachelor
+Karen Vega,36,Male,Married,888,157397,Unemployed,2,1,PhD
+Angela Carr,43,Female,Married,572,36787,Salaried,4,1,Master
+Chad Barker,34,Male,Married,414,169469,Self-Employed,2,1,High School
+Kerry Scott,54,Male,Married,443,109537,Salaried,2,0,High School
+Erica Delgado,36,Female,Single,778,79514,Salaried,5,0,Bachelor
+Courtney Evans,42,Male,Married,593,136842,Salaried,4,2,Bachelor
+Christopher Stewart,45,Male,Single,439,182837,Self-Employed,6,2,PhD
+Jennifer Henderson,52,Female,Single,860,155214,Salaried,4,1,Bachelor
+David Jones,50,Male,Single,824,89460,Self-Employed,4,2,High School
+Christine Munoz,58,Female,Married,466,138793,Salaried,2,1,High School
+Sherri Huerta,51,Female,Single,476,32574,Salaried,3,0,Master
+Robert Wade,37,Male,Married,562,26855,Unemployed,5,3,Bachelor
+Miguel Humphrey,29,Female,Married,860,40420,Self-Employed,4,1,Bachelor
+Thomas Bryant,24,Male,Single,306,40007,Self-Employed,2,0,PhD
+Deborah Greene,21,Male,Single,837,63610,Unemployed,2,0,High School
+Jared Cohen,38,Female,Married,767,168288,Salaried,2,1,High School
+John Johnson,27,Female,Single,830,138558,Self-Employed,6,0,Bachelor
+Amber Garcia,25,Female,Single,782,199911,Self-Employed,6,1,Bachelor
+Jacob Martin,27,Female,Married,735,79735,Self-Employed,3,0,Master
+Kelsey Brown,35,Male,Single,637,37768,Unemployed,3,1,High School
+Clayton Lee MD,26,Female,Single,814,174514,Self-Employed,3,2,Bachelor
+Michael Houston,40,Female,Single,558,129272,Salaried,5,1,Bachelor
+Hannah Bradley,23,Female,Single,802,103780,Self-Employed,1,0,PhD
+Anna Huerta,44,Male,Single,481,180135,Self-Employed,4,2,PhD
+Aaron Walton,38,Male,Married,346,46156,Self-Employed,4,2,Master
+Marissa Cuevas,37,Male,Single,498,164202,Self-Employed,5,2,PhD
+Troy Bennett,51,Male,Married,633,43370,Unemployed,5,4,Master
+Stanley Robinson,46,Female,Single,338,98626,Unemployed,2,1,PhD
+Candace Nielsen,28,Female,Single,737,93625,Unemployed,6,4,PhD
+Jennifer Carpenter,53,Male,Married,510,196191,Salaried,6,2,Master
+Brian Wells MD,26,Female,Married,803,149033,Self-Employed,6,1,High School
+Pamela Nunez,60,Male,Single,439,194473,Salaried,2,1,Master
+Michael Brown,21,Female,Married,465,152555,Salaried,6,3,PhD
+Michelle Stone,55,Female,Married,805,104874,Unemployed,5,4,Bachelor
+Keith Freeman,39,Male,Married,422,99250,Salaried,3,2,Bachelor
+Michael Myers,56,Male,Married,602,88990,Self-Employed,1,0,High School
+Roberto Hernandez II,30,Female,Married,605,183076,Salaried,5,0,High School
+Frances Joyce,44,Male,Married,755,172876,Self-Employed,3,0,Master
+Hannah Taylor,24,Female,Married,310,69285,Unemployed,2,0,PhD
+Ashley Brown,49,Female,Single,509,143601,Salaried,4,3,High School
+Michael Horton,53,Male,Married,581,148938,Salaried,2,1,Bachelor
+Ian Hunt,29,Female,Single,702,166375,Self-Employed,6,5,PhD
+Nathan Sheppard,48,Male,Married,545,187733,Salaried,6,4,High School
+Don Harrison,27,Male,Married,888,85404,Salaried,5,4,Master
+Christopher Hall,22,Male,Single,449,101601,Unemployed,4,2,Master
+Stephanie Gibbs,46,Female,Married,616,138389,Self-Employed,4,3,High School
+Anthony Brown,36,Female,Single,798,28450,Self-Employed,3,0,PhD
+Bryan Thompson,31,Male,Married,607,128042,Unemployed,5,3,High School
+Theresa Reed,44,Female,Single,852,91317,Salaried,4,0,Bachelor
+Mark Murray,34,Male,Single,680,143969,Self-Employed,3,0,PhD
+Amanda Woods,35,Female,Married,709,162375,Salaried,6,3,Bachelor
+Calvin Bonilla,22,Male,Single,874,118260,Self-Employed,4,1,Master
+Elizabeth Mann,31,Male,Married,314,116635,Self-Employed,4,0,PhD
+Karen Cruz,31,Female,Married,883,144939,Self-Employed,4,2,Master
+Jesus Lee,44,Female,Married,851,147019,Self-Employed,4,2,Bachelor
+Kevin Snyder,30,Male,Single,351,76897,Self-Employed,3,2,PhD
+Jessica Roberson,30,Male,Single,428,96973,Unemployed,3,0,Bachelor
+Shelby Bond,57,Male,Married,750,74766,Self-Employed,5,4,Master
+Emily Castro,28,Female,Married,605,188104,Unemployed,5,0,Master
+Alexis Fleming,38,Female,Married,826,32385,Self-Employed,5,3,Bachelor
+David Atkinson,48,Female,Single,542,35675,Salaried,2,0,Bachelor
+Jenna Juarez,29,Female,Married,561,195968,Salaried,5,2,High School
+David Hughes,43,Male,Single,625,75573,Unemployed,2,1,Bachelor
+Cory Garza PhD,49,Female,Single,889,188056,Unemployed,6,5,PhD
+Jared Harding,23,Male,Single,714,62510,Salaried,2,1,Bachelor
+Andrew Terry,48,Female,Single,554,35677,Salaried,3,1,PhD
+Randy Morris,60,Female,Single,655,162337,Unemployed,1,0,Bachelor
+Christine White,25,Male,Married,585,192346,Unemployed,1,0,High School
+Heather Whitehead,43,Male,Single,322,170814,Self-Employed,3,1,PhD
+Krystal Valdez,21,Male,Single,852,82445,Self-Employed,2,0,Bachelor
+Chad Nunez,37,Male,Single,562,24620,Self-Employed,1,0,High School
+Keith Hood,51,Male,Single,584,79092,Self-Employed,2,0,Bachelor
+Scott Peterson,47,Female,Single,529,78958,Self-Employed,3,1,Master
+Shelia Cook,49,Male,Married,520,41394,Self-Employed,3,1,High School
+Joshua Robinson,34,Male,Single,774,167712,Salaried,6,5,High School
+Christopher Wright,36,Female,Single,556,86672,Salaried,4,3,High School
+Luke Solis,40,Female,Married,515,199126,Unemployed,3,1,PhD
+Sheila Estes,54,Male,Married,437,171320,Unemployed,2,0,High School
+Brian Hernandez,38,Female,Single,478,63534,Unemployed,3,1,PhD
+Lauren Hoffman,24,Male,Married,789,163909,Salaried,1,0,Bachelor
+Brian Wiley,38,Female,Single,526,151602,Unemployed,5,3,Bachelor
+Mary Banks,50,Female,Single,368,157241,Self-Employed,3,2,PhD
+Sharon Meyer,23,Male,Single,307,114219,Self-Employed,1,0,Master
+John Bradley,54,Male,Married,587,20049,Unemployed,6,1,PhD
+Jennifer George,26,Female,Married,702,119889,Salaried,4,2,PhD
+James Dillon,34,Female,Married,444,175482,Unemployed,1,0,PhD
+Elizabeth Rivas,37,Female,Married,720,117110,Self-Employed,5,0,High School
+Rebecca Contreras,53,Female,Single,649,167255,Salaried,6,3,Bachelor
+Anthony Randolph,23,Female,Married,695,127403,Self-Employed,6,4,High School
+David Fischer,34,Female,Single,632,27085,Salaried,3,1,Master
+Jennifer Rodriguez,39,Male,Single,879,27751,Salaried,5,1,Bachelor
+Christopher Bryant,28,Female,Single,403,106569,Unemployed,4,2,Bachelor
+Mark Gutierrez,53,Male,Married,745,56399,Unemployed,6,1,Master
+Renee Mccarthy,54,Female,Married,740,118495,Self-Employed,3,2,PhD
+Andrea Williams,37,Female,Single,677,197485,Salaried,6,1,PhD
+Mark Jensen,57,Male,Single,897,73541,Unemployed,6,2,Master
+Karen Mckee,36,Male,Single,471,161230,Salaried,2,1,Bachelor
+David Brown,30,Male,Single,302,169002,Unemployed,5,3,PhD
+Edward Johnson,55,Male,Married,339,161707,Self-Employed,2,0,Master
+Christopher Mitchell,57,Female,Single,495,50506,Salaried,6,0,Bachelor
+Daniel Moore,36,Male,Single,785,130482,Unemployed,2,1,Bachelor
+Stephanie Ferguson,25,Male,Married,363,55898,Salaried,4,3,High School
+Andrew Howard,23,Female,Married,490,107738,Unemployed,6,3,High School
+Samantha Harrison,39,Female,Married,891,150035,Salaried,3,2,Master
+Daniel Thompson,23,Female,Married,367,129805,Self-Employed,4,1,Master
+Eric Mason,50,Female,Single,775,45927,Self-Employed,4,1,Bachelor
+Lance Campbell,51,Female,Married,390,56456,Self-Employed,2,1,High School
+Timothy Smith,41,Male,Married,841,59000,Salaried,2,0,Master
+Katherine Carter,25,Female,Single,615,180704,Salaried,4,1,High School
+Emily Lee,56,Male,Single,531,171180,Unemployed,1,0,High School
+Mark Bentley,53,Male,Single,548,94062,Self-Employed,4,2,High School
+Andrew Cook,26,Female,Married,556,94898,Unemployed,1,0,PhD
+Julie Fields,44,Male,Single,354,95073,Salaried,2,1,PhD
+Nancy Hall,43,Female,Married,479,57575,Salaried,6,1,High School
+Emily Beltran,39,Male,Married,593,150887,Self-Employed,3,1,High School
+Traci Villarreal,58,Male,Single,709,106838,Salaried,5,4,PhD
+Sarah Stevens,47,Female,Single,803,66296,Salaried,3,0,PhD
+Madeline Miller,32,Male,Married,354,195364,Self-Employed,2,1,High School
+Felicia Ruiz,55,Female,Married,842,163847,Unemployed,2,0,Master
+Angela Benitez,42,Male,Single,462,40806,Unemployed,6,5,Master
+Cindy Bailey,31,Male,Married,704,190541,Self-Employed,3,0,Master
+Daniel Abbott,38,Male,Single,767,100116,Unemployed,4,2,Master
+Shawn Palmer,28,Female,Single,703,179520,Self-Employed,5,3,Bachelor
+Sydney Watson,40,Male,Married,444,152521,Salaried,4,2,PhD
+Antonio Davenport,58,Male,Single,784,88975,Self-Employed,6,2,Master
+Whitney Duncan,28,Female,Married,887,117755,Salaried,5,2,Master
+Michael Jones,56,Female,Single,568,127745,Salaried,2,1,High School
+Vincent Taylor,27,Male,Married,420,170772,Salaried,1,0,Master
+Danielle Cooper,29,Female,Married,419,96175,Unemployed,4,2,Bachelor
+Maurice Holmes,26,Female,Married,691,129197,Self-Employed,3,2,PhD
+Tyler Buckley,50,Male,Married,464,21224,Unemployed,6,5,Bachelor
+Clayton Wells,43,Male,Married,575,22666,Self-Employed,2,0,Master
+David Kirk,42,Male,Single,899,91386,Salaried,1,0,Master
+Sarah Allen,24,Male,Single,794,31718,Self-Employed,5,0,High School
+Brandon Leblanc,24,Female,Married,429,95265,Unemployed,3,0,Bachelor
+Valerie White,40,Female,Single,829,76273,Self-Employed,5,2,High School
+Matthew Lopez,33,Male,Single,533,116673,Unemployed,3,0,Bachelor
+Daniel Wilson,35,Female,Single,708,68339,Self-Employed,6,3,Bachelor
+Gabriel White,33,Female,Married,777,54866,Self-Employed,4,1,High School
+Michael Barnett,44,Female,Single,516,58110,Unemployed,4,1,PhD
+Mrs. Michelle Cunningham,40,Female,Single,339,25741,Salaried,6,4,High School
+Marcia Turner,49,Male,Single,420,85838,Self-Employed,1,0,Bachelor
+Amy Chandler,32,Female,Married,538,135455,Self-Employed,6,4,High School
+Mark Chavez,57,Female,Married,361,86054,Unemployed,5,4,PhD
+Nicholas Kelly,45,Female,Single,770,127756,Salaried,1,0,High School
+Thomas Tapia,23,Female,Single,822,166688,Salaried,5,3,Bachelor
+Jordan Conley,33,Female,Single,752,148212,Unemployed,2,1,Bachelor
+April Patterson,32,Female,Single,710,75775,Salaried,1,0,PhD
+Teresa Mack,28,Male,Married,777,183026,Unemployed,5,2,High School
+Renee Johnson,23,Female,Single,554,52948,Unemployed,5,3,High School
+Shannon Kelley,38,Female,Married,673,191010,Self-Employed,1,0,Master
+Matthew Anderson,23,Male,Married,794,71281,Self-Employed,3,1,Master
+Kathryn Logan,22,Male,Married,562,193406,Salaried,6,0,PhD
+Dr. Alexandra Thomas MD,60,Male,Married,704,176534,Unemployed,6,2,Master
+Mary Hicks,52,Female,Married,457,170921,Salaried,1,0,High School
+Holly Zimmerman MD,40,Female,Single,715,114278,Self-Employed,2,0,Master
+Joshua Wood,26,Male,Married,589,27085,Salaried,5,3,Bachelor
+Linda Williams,22,Male,Married,700,72253,Unemployed,2,0,Master
+Curtis Herring,28,Male,Single,358,47189,Salaried,5,3,PhD
+Ryan Richardson,44,Female,Married,614,160459,Self-Employed,4,3,Master
+Michael Lamb,55,Male,Married,662,103973,Self-Employed,5,1,Master
+Thomas Ramsey,25,Female,Single,382,165943,Salaried,5,0,High School
+Tom Murphy,52,Female,Married,564,146206,Salaried,1,0,PhD
+Melanie Mcbride,58,Male,Married,491,167955,Unemployed,3,1,PhD
+Debbie Hansen,22,Female,Single,840,17075,Salaried,5,0,High School
+Cindy Hernandez,40,Female,Married,725,42533,Unemployed,1,0,PhD
+Mary Arellano,56,Male,Married,655,40930,Unemployed,6,0,Bachelor
+Debbie Trujillo,51,Male,Single,803,89490,Self-Employed,3,0,Bachelor
+Jeffrey Powell,35,Male,Single,837,21154,Salaried,2,1,Master
+Philip Williams,55,Female,Married,403,173362,Self-Employed,4,0,High School
+Kevin Stephens,43,Male,Single,846,182871,Salaried,3,2,Bachelor
+Sabrina Wright,53,Male,Married,412,170902,Salaried,5,1,Bachelor
+Donna Martinez,29,Female,Married,301,106028,Self-Employed,6,4,PhD
+Anne Ramirez MD,58,Female,Married,600,170924,Unemployed,3,2,High School
+Stefanie Hayes,55,Male,Married,543,62272,Salaried,4,0,Master
+James Newman,50,Female,Single,740,113675,Self-Employed,3,0,High School
+Christopher Lewis,25,Male,Married,783,146299,Unemployed,1,0,Master
+Laurie Jackson,60,Female,Married,597,100703,Self-Employed,5,3,Master
+Jeffery Allen,52,Male,Single,475,57067,Unemployed,1,0,PhD
+Tyler Garcia,59,Female,Single,606,90829,Unemployed,2,0,High School
+Zachary Phillips,43,Female,Single,603,44671,Unemployed,1,0,High School
+Walter Lee,22,Male,Single,689,177346,Self-Employed,6,3,PhD
+Jasmine Stewart,27,Female,Single,349,167760,Salaried,4,3,Master
+Nicole Ochoa,41,Female,Married,538,37669,Unemployed,3,1,PhD
+David Williams,34,Female,Married,793,127797,Self-Employed,3,0,Master
+Michael Reeves,32,Female,Single,451,174727,Unemployed,2,1,Master
+Heather Hatfield,37,Female,Single,587,94682,Unemployed,6,5,Master
+Randy Murphy,25,Female,Single,412,197394,Self-Employed,2,1,High School
+Brandon Braun,39,Female,Single,892,47198,Unemployed,4,2,High School
+Alexandra Blevins,51,Female,Single,364,187225,Self-Employed,6,0,PhD
+Catherine Kelley,59,Female,Single,654,198770,Self-Employed,6,5,High School
+Molly Alexander,30,Male,Single,700,80343,Salaried,5,3,High School
+Rodney Turner,57,Male,Single,570,132673,Salaried,1,0,High School
+Brian Cordova,45,Male,Single,493,21084,Salaried,2,0,High School
+Abigail Martin,60,Male,Married,446,92610,Self-Employed,1,0,Master
+Ian Conley,52,Female,Married,603,38204,Salaried,1,0,High School
+Brenda Nelson,36,Female,Married,481,109779,Self-Employed,1,0,PhD
+Michelle Smith,22,Male,Single,357,126982,Salaried,3,0,High School
+Jason Hoover,22,Female,Single,898,90550,Self-Employed,5,2,Master
+William Cooper MD,36,Female,Married,515,90027,Self-Employed,5,2,High School
+Daniel Hoffman,39,Female,Single,631,139034,Salaried,3,2,PhD
+Courtney Johnson,37,Female,Single,384,69334,Self-Employed,3,0,Master
+Christopher Kennedy,44,Male,Single,510,29304,Unemployed,3,0,High School
+Dr. Riley Vaughn,38,Male,Married,358,125560,Unemployed,4,0,PhD
+Benjamin Johnson,60,Female,Single,376,114090,Salaried,6,2,High School
+Tyler Scott,48,Female,Single,781,76899,Salaried,1,0,Bachelor
+Shelby Benson,56,Female,Married,505,141766,Self-Employed,1,0,High School
+Larry Hernandez,24,Female,Single,329,181865,Unemployed,1,0,Bachelor
+Rachel Robbins,45,Female,Married,511,194829,Self-Employed,5,4,Master
+Charles Gibbs,27,Female,Married,490,191668,Salaried,5,4,PhD
+Elizabeth Black,42,Female,Married,603,175641,Salaried,1,0,Bachelor
+Valerie Skinner,32,Female,Single,396,117177,Salaried,2,1,Master
+Matthew Knight,53,Male,Married,801,180863,Salaried,4,1,High School
+Jason Gray,43,Male,Single,340,137930,Self-Employed,6,0,PhD
+Robert Kaufman,59,Male,Married,813,15422,Self-Employed,6,1,Bachelor
+Nicholas Stevens,26,Female,Married,420,60583,Self-Employed,2,0,PhD
+Andrew Li,45,Female,Single,302,71743,Self-Employed,2,0,Bachelor
+Dillon Barnes,47,Female,Married,361,183000,Unemployed,4,2,PhD
+Justin Nguyen,54,Female,Married,459,43532,Salaried,4,0,High School
+Ian Patterson,44,Female,Married,309,27526,Unemployed,1,0,High School
+Michael Lawrence,27,Male,Single,406,116559,Self-Employed,1,0,Master
+James Smith,30,Male,Married,781,186385,Self-Employed,4,2,Bachelor
+Danielle Armstrong,27,Male,Single,572,22379,Unemployed,1,0,PhD
+Tina Forbes,35,Female,Married,616,165811,Salaried,1,0,High School
+David Bailey,55,Female,Single,427,66408,Self-Employed,3,1,High School
+Denise Mueller,50,Female,Single,844,54936,Self-Employed,2,0,PhD
+Lisa Miller,27,Male,Married,362,16198,Self-Employed,5,4,PhD
+Eric Johnson,53,Female,Single,542,34112,Self-Employed,6,4,PhD
+Kristine Green,27,Female,Married,483,60206,Unemployed,2,1,Master
+Kathryn Velasquez,53,Male,Married,364,108451,Unemployed,5,3,Bachelor
+Eric Landry,59,Female,Married,697,186736,Unemployed,5,4,PhD
+Steven Gould,28,Female,Single,507,58282,Salaried,1,0,Bachelor
+Jill Anderson,44,Male,Single,538,195941,Unemployed,3,1,Master
+Matthew Jenkins,34,Female,Married,661,138279,Self-Employed,3,1,High School
+Bill Williams,60,Female,Married,512,104404,Unemployed,2,1,High School
+Mr. Larry Mclaughlin MD,34,Female,Single,850,82956,Self-Employed,3,0,PhD
+Brian Sanchez,34,Male,Single,752,132434,Unemployed,2,0,PhD
+Jonathon Williams,29,Female,Single,371,32588,Salaried,1,0,High School
+Michael Walker,22,Female,Single,900,165708,Unemployed,1,0,High School
+Julie Martinez,51,Female,Married,555,77833,Salaried,3,1,PhD
+Dennis Key,50,Male,Single,459,88334,Self-Employed,6,2,High School
+Patrick Fuentes,51,Female,Married,821,191750,Self-Employed,5,3,PhD
+Raymond Fernandez,45,Female,Married,605,174563,Unemployed,1,0,Bachelor
+Laura Thompson,41,Female,Married,421,35707,Unemployed,1,0,High School
+Jessica Farmer,40,Male,Married,408,167506,Salaried,6,2,High School
+Sabrina Gutierrez,33,Male,Married,665,64007,Salaried,1,0,Bachelor
+Luis Arnold,56,Female,Married,699,163412,Salaried,5,2,Master
+Patrick Carter,33,Female,Married,630,107712,Self-Employed,5,3,PhD
+Kelly Smith,41,Male,Single,516,19338,Salaried,2,1,PhD
+Stephanie Carroll,35,Male,Single,615,90941,Unemployed,3,1,Bachelor
+Kimberly Powers,30,Female,Single,793,163688,Self-Employed,3,1,PhD
+Corey Guerrero,37,Male,Married,658,82413,Unemployed,4,0,High School
+Dr. Paul Gutierrez,24,Male,Single,421,99346,Salaried,1,0,Bachelor
+Eric Thomas,37,Female,Single,568,184113,Unemployed,4,1,Bachelor
+Rachel Wiggins,37,Male,Married,600,87454,Self-Employed,2,0,PhD
+Kayla Edwards,57,Female,Single,774,21991,Unemployed,6,3,Master
+Lisa Shields MD,28,Female,Single,746,191656,Self-Employed,5,0,PhD
+Craig Malone,57,Female,Married,450,66439,Salaried,2,1,High School
+Cody Lara,28,Male,Married,485,125488,Unemployed,5,3,Bachelor
+Javier Clay,42,Male,Married,581,115367,Self-Employed,5,1,PhD
+Bailey Allen,39,Male,Single,328,125216,Self-Employed,6,0,Bachelor
+Matthew Berry,42,Female,Married,753,152992,Self-Employed,5,4,High School
+Kimberly Ray,22,Male,Married,405,135512,Unemployed,2,0,PhD
+Christopher Santos,52,Female,Married,829,98509,Self-Employed,4,0,PhD
+Matthew Cooper,39,Male,Single,490,69206,Self-Employed,2,1,PhD
+Sean Moore,35,Female,Single,753,70342,Self-Employed,2,1,PhD
+Donald Green,33,Female,Married,615,62678,Self-Employed,6,5,High School
+Robert Gilbert,33,Female,Married,328,188907,Unemployed,4,1,Bachelor
+Clifford Morse,57,Male,Married,625,77255,Self-Employed,2,1,Master
+Courtney Doyle,30,Female,Single,755,110170,Salaried,6,5,Master
+Ryan Wilson,32,Female,Single,893,68067,Salaried,3,0,Bachelor
+Miranda Davis,49,Male,Single,592,126769,Unemployed,5,3,High School
+William Swanson,41,Female,Single,386,121916,Unemployed,5,1,High School
+Brian King,60,Female,Single,493,175740,Self-Employed,4,1,High School
+Martha Larsen,32,Male,Married,878,142128,Salaried,6,0,Master
+Dr. Lisa Murphy,50,Male,Married,623,19457,Self-Employed,3,2,PhD
+Lindsay Adams,56,Female,Single,817,64567,Salaried,4,0,High School
+Joseph Gomez,55,Male,Single,557,112070,Self-Employed,1,0,PhD
+Rhonda Swanson,50,Male,Single,582,170497,Unemployed,1,0,Bachelor
+Mark Barnes,47,Male,Single,493,147769,Unemployed,4,1,Master
+Lee Blevins,46,Male,Single,539,19152,Unemployed,2,1,High School
+Joshua Hill,59,Male,Married,516,134246,Self-Employed,1,0,Bachelor
+Bailey Figueroa,27,Female,Single,573,179522,Self-Employed,5,3,High School
+Joshua Marshall,21,Female,Married,342,95120,Salaried,3,2,Bachelor
+Paul Taylor,23,Male,Married,883,180260,Unemployed,1,0,Bachelor
+Stacey Silva MD,58,Female,Single,731,178115,Salaried,5,2,Bachelor
+Jennifer Smith,29,Male,Single,592,48661,Self-Employed,2,0,PhD
+Eric Sullivan,42,Female,Single,728,138008,Salaried,4,1,PhD
+Aaron Chen,59,Female,Single,791,173571,Salaried,1,0,Bachelor
+Rhonda Simmons,47,Male,Married,873,26512,Unemployed,4,0,PhD
+Trevor Berry,32,Female,Married,624,35553,Unemployed,2,0,Bachelor
+Randall Simon,42,Male,Married,866,153582,Self-Employed,5,2,Bachelor
+Benjamin Dennis,39,Male,Single,757,148643,Self-Employed,5,2,Bachelor
+Sarah Jones,37,Male,Married,406,39839,Self-Employed,3,1,Master
+Krista Floyd,22,Male,Married,476,186283,Self-Employed,3,2,PhD
+Casey Bautista,49,Male,Single,870,141167,Salaried,1,0,PhD
+Stacy Morris,51,Male,Married,368,150600,Self-Employed,1,0,Bachelor
+Sean Simon,46,Female,Single,894,59236,Unemployed,1,0,High School
+Dalton Velasquez,38,Female,Single,550,140495,Unemployed,3,1,High School
+Thomas Clements,29,Female,Single,423,18396,Self-Employed,4,2,PhD
+Melissa Cantrell,55,Male,Single,825,126130,Unemployed,2,0,PhD
+Paul Fisher,48,Female,Single,747,191913,Self-Employed,4,2,PhD
+Tanya Rivera,46,Male,Married,619,124401,Self-Employed,4,3,Master
+Benjamin Morrison,21,Female,Married,811,144064,Unemployed,2,1,PhD
+Anthony Abbott,38,Male,Single,716,131404,Self-Employed,6,4,Master
+Janet Mcdonald,36,Female,Married,623,44515,Unemployed,5,4,PhD
+Sherri Fitzpatrick,42,Male,Single,422,80091,Unemployed,4,1,PhD
+Dana Richardson,40,Male,Single,799,52912,Unemployed,1,0,Master
+Mark Rowe,44,Female,Married,877,86099,Self-Employed,1,0,Bachelor
+Christine Reed,31,Male,Married,396,159764,Unemployed,5,4,Bachelor
+Robert Schmidt,27,Male,Single,706,30804,Unemployed,5,2,Master
+Charles Allen,25,Male,Single,424,110177,Salaried,6,5,Bachelor
+Billy Watkins,26,Female,Married,894,195779,Unemployed,5,2,Master
+Emily Harmon,51,Male,Single,847,34973,Salaried,1,0,PhD
+Elizabeth Erickson,36,Male,Married,555,158442,Self-Employed,1,0,High School
+Sharon Morales,35,Male,Married,534,113973,Unemployed,6,2,PhD
+Robert Welch,44,Female,Married,681,86211,Self-Employed,6,1,Master
+Scott Mathews,31,Female,Married,457,97480,Unemployed,6,0,Bachelor
+Michael Bell,24,Female,Married,886,183074,Salaried,5,0,High School
+Sean Martinez,40,Male,Married,577,126665,Self-Employed,1,0,High School
+Dawn Byrd,31,Male,Single,857,100191,Salaried,1,0,High School
+Curtis Campbell,48,Female,Married,510,86269,Unemployed,2,0,High School
+Bethany Blackwell,40,Male,Married,677,116006,Salaried,3,2,Master
+Travis Pittman,49,Male,Single,480,140753,Salaried,5,1,Master
+Matthew Park,51,Female,Married,416,50606,Unemployed,4,2,Master
+Troy Payne,54,Male,Single,748,152400,Unemployed,2,0,Bachelor
+Dawn Park,36,Female,Single,488,92685,Self-Employed,3,1,High School
+Matthew Stevens,60,Female,Married,333,81997,Salaried,2,0,Master
+Carolyn Zamora,25,Male,Married,550,17470,Self-Employed,6,3,High School
+Amanda Lopez,45,Female,Married,500,110746,Unemployed,2,0,High School
+Kelly Ward,60,Female,Single,441,45323,Self-Employed,4,1,PhD
+Amanda Young,42,Female,Married,451,95346,Salaried,2,0,High School
+Debra Watkins,43,Male,Single,841,180698,Unemployed,3,1,High School
+Jenny Curtis,26,Female,Married,568,46033,Self-Employed,6,4,High School
+Sara Jones,60,Female,Single,370,148908,Self-Employed,3,0,High School
+Carolyn Chase,58,Female,Married,508,83475,Unemployed,3,1,Bachelor
+Kristina Cunningham,46,Male,Married,388,179499,Unemployed,5,1,PhD
+Brittany Hood,42,Female,Married,547,99255,Self-Employed,1,0,Bachelor
+Peter Robinson,21,Male,Married,737,65694,Self-Employed,5,0,Master
+James Cole,31,Female,Single,420,129359,Unemployed,5,2,Bachelor
+Michael Sanchez,32,Male,Married,554,67202,Self-Employed,5,2,Bachelor
+Dawn Daniel,40,Female,Single,355,20964,Unemployed,3,0,Bachelor
+Mrs. Rita Rodriguez,48,Male,Married,833,132140,Salaried,6,4,PhD
+Allen Fletcher,29,Female,Married,814,130144,Unemployed,3,1,PhD
+Jessica Sparks,50,Male,Single,424,199241,Salaried,3,1,Master
+Calvin Pierce,60,Male,Married,483,114926,Self-Employed,5,4,High School
+Sean Martin,58,Male,Married,375,190536,Salaried,4,1,Bachelor
+Jessica Cox,45,Male,Married,896,122438,Salaried,1,0,PhD
+Michelle Moore,35,Female,Single,750,149134,Self-Employed,6,4,High School
+Richard Dunlap,42,Male,Single,637,44427,Salaried,2,1,High School
+Debra Keller,28,Female,Married,504,70228,Unemployed,2,1,Bachelor
+Melinda Avila,27,Female,Married,382,126353,Unemployed,4,3,High School
+Becky Jordan,55,Male,Single,782,88488,Unemployed,2,0,High School
+Crystal Hartman,28,Male,Single,696,42228,Unemployed,6,0,High School
+Joseph Valdez,60,Female,Married,832,42471,Unemployed,4,2,Bachelor
+Kathryn Mosley,32,Female,Single,656,146864,Self-Employed,1,0,Bachelor
+Norman Allen,57,Female,Married,425,69381,Self-Employed,4,2,Master
+Kenneth Mitchell,60,Male,Single,510,171106,Unemployed,3,2,Bachelor
+Travis Buchanan,38,Male,Single,802,134671,Salaried,6,5,Master
+Monica Keller,29,Female,Single,514,58644,Salaried,6,2,PhD
+Charles Roberts,55,Female,Single,308,187967,Unemployed,4,2,PhD
+Linda Harmon,25,Female,Married,684,119126,Self-Employed,4,0,Bachelor
+James Walls,44,Female,Married,512,185472,Salaried,3,0,Master
+Angela Chaney,28,Female,Single,418,178666,Unemployed,1,0,PhD
+Stephanie Gonzalez,50,Male,Single,312,62805,Self-Employed,5,0,PhD
+Chelsea Howell,57,Male,Single,608,118377,Unemployed,3,0,Master
+Louis Reese,31,Male,Married,795,109979,Unemployed,2,0,PhD
+Amy Hamilton,23,Male,Married,446,85466,Self-Employed,5,1,Bachelor
+Roger Murillo,21,Female,Single,879,114723,Salaried,2,0,Master
+Miguel Boyer,49,Female,Single,454,195833,Salaried,4,3,High School
+Kathryn Ramos,27,Female,Married,555,193911,Unemployed,4,0,High School
+Christopher Reyes,21,Male,Single,305,158553,Unemployed,4,3,PhD
+Nicholas Crawford,53,Female,Single,456,176152,Self-Employed,4,2,PhD
+Ronald Cross,51,Female,Single,704,19991,Unemployed,6,0,PhD
+Shaun Jennings,54,Female,Married,356,16753,Salaried,2,1,Bachelor
+Joel Becker,55,Female,Single,583,58492,Salaried,3,2,High School
+Lisa Williams,57,Male,Single,725,57854,Salaried,4,2,PhD
+Zachary Maynard,41,Male,Single,759,89566,Self-Employed,3,1,Master
+Joshua Allen,24,Male,Single,639,26300,Salaried,2,0,High School
+Thomas Torres,47,Female,Single,342,149815,Self-Employed,3,2,PhD
+Alexander Larson,45,Female,Single,802,170983,Salaried,2,0,PhD
+Mrs. Jessica Boyle,56,Male,Single,331,161164,Salaried,1,0,High School
+Sean Buchanan,57,Male,Married,711,91054,Self-Employed,4,0,High School
+Michael Stevens,21,Male,Single,824,52758,Salaried,3,2,Master
+Charles Zhang,53,Female,Married,829,108622,Salaried,5,2,High School
+Alyssa Salazar,56,Female,Married,620,82775,Self-Employed,1,0,Master
+Anthony Simmons,34,Male,Single,879,100956,Unemployed,5,0,Bachelor
+Melissa Johnson,33,Female,Single,436,69991,Unemployed,3,2,High School
+Jeremy Bowers,31,Male,Married,782,124460,Salaried,4,1,High School
+Susan Gutierrez,44,Male,Married,770,57346,Salaried,2,0,High School
+David Gomez,42,Male,Single,418,86189,Salaried,6,0,PhD
+Michelle Patel,45,Female,Single,381,123782,Salaried,4,1,Master
+Felicia Thompson,22,Female,Single,631,113460,Salaried,3,1,Bachelor
+Laura Werner,58,Female,Single,702,162339,Self-Employed,3,2,Master
+Sheri Fields,42,Female,Married,615,110616,Self-Employed,2,1,Bachelor
+Steven Diaz,22,Male,Single,699,92471,Salaried,6,4,Bachelor
+Richard Watson,48,Female,Married,800,136017,Salaried,1,0,High School
+Bryce Davis,25,Female,Married,327,157583,Unemployed,6,5,PhD
+Jessica Diaz,33,Female,Married,530,126644,Salaried,2,0,Bachelor
+Terry Rodriguez,58,Female,Single,747,164074,Salaried,6,4,High School
+Erica Gibson,33,Female,Married,526,116828,Salaried,1,0,High School
+Brian Perry,45,Male,Single,313,178188,Salaried,2,0,PhD
+Jason Brown,53,Female,Single,752,50389,Salaried,6,3,Master
+Dustin Spence,38,Male,Single,420,75763,Unemployed,6,5,Master
+Marisa Reyes,29,Male,Married,749,102510,Salaried,5,1,Master
+John Stewart,33,Female,Single,529,168166,Self-Employed,4,2,PhD
+John Obrien,43,Male,Single,791,61959,Self-Employed,1,0,High School
+Mark Young,31,Male,Single,420,85728,Salaried,1,0,Bachelor
+Lisa Knox,50,Male,Single,826,137789,Self-Employed,5,3,Master
+Adrian Gonzalez,41,Female,Single,789,139552,Salaried,2,0,PhD
+Christina Melendez DDS,31,Female,Married,724,156200,Salaried,6,5,High School
+Susan Love,32,Female,Single,304,114010,Salaried,1,0,High School
+Dr. Susan Davis,52,Female,Married,417,83269,Unemployed,1,0,PhD
+Brenda Becker,45,Male,Married,606,139369,Unemployed,5,0,Master
+Ernest Ross,59,Female,Married,731,46901,Self-Employed,5,2,Master
+Deborah Banks,39,Female,Single,320,29750,Salaried,1,0,Bachelor
+Ashley Simmons,29,Male,Married,383,158974,Unemployed,6,2,Bachelor
+Christopher Campbell,52,Female,Single,821,46596,Unemployed,2,0,Master
+Valerie Daugherty,47,Male,Married,513,140901,Unemployed,5,2,PhD
+Monica Hudson,26,Female,Married,836,21115,Salaried,6,2,PhD
+Ronnie Hudson,58,Female,Married,883,187551,Salaried,2,0,Master
+Shannon Mays,33,Male,Single,506,159647,Unemployed,1,0,Master
+Christopher Ward,57,Female,Married,734,48322,Unemployed,6,0,High School
+Elizabeth Hudson,51,Female,Married,749,40034,Self-Employed,4,2,Master
+Lance Skinner,42,Female,Single,616,94924,Unemployed,5,0,High School
+Andrea Williams,26,Male,Married,393,64263,Unemployed,1,0,High School
+Ashley Jones,35,Male,Married,813,87925,Unemployed,2,0,Master
+Angela Campbell DDS,39,Male,Single,640,69405,Self-Employed,5,3,PhD
+Jamie Zavala,37,Female,Single,456,180416,Salaried,2,0,Bachelor
+Kimberly Perez,30,Male,Single,338,196509,Self-Employed,3,1,Bachelor
+Vincent Olson,58,Female,Single,521,128195,Unemployed,1,0,Bachelor
+Gregory Rodriguez,40,Male,Married,478,173956,Self-Employed,3,0,Bachelor
+Michael Hernandez,31,Female,Married,425,106533,Unemployed,6,1,PhD
+Shannon Parker,23,Female,Single,656,83760,Self-Employed,6,4,Master
+Peter Adkins,56,Male,Married,303,102775,Unemployed,4,3,Bachelor
+Taylor Marks,33,Male,Married,635,68837,Unemployed,4,2,PhD
+Alison Gates,45,Female,Single,785,92174,Salaried,2,1,PhD
+Kyle King,54,Female,Married,576,46503,Self-Employed,1,0,PhD
+Jacob Rush,51,Female,Single,562,137917,Self-Employed,2,1,PhD
+Erica Scott,38,Male,Married,883,147163,Self-Employed,5,3,Bachelor
+Phyllis Miller,56,Male,Single,884,144110,Self-Employed,6,1,Master
+Kathryn Boyd,40,Female,Married,440,136830,Salaried,6,0,High School
+Joseph Williams,53,Female,Single,392,42987,Self-Employed,1,0,PhD
+Patricia Donovan,28,Male,Married,652,108480,Salaried,3,0,PhD
+Robert Swanson,25,Male,Married,734,131451,Salaried,6,0,Master
+Travis Mccoy,44,Male,Single,611,150373,Unemployed,3,2,Bachelor
+Sean Meza,22,Male,Single,420,23603,Self-Employed,4,1,PhD
+Leslie Williams,35,Female,Married,555,84058,Salaried,2,0,High School
+Holly Curtis,44,Female,Married,412,157846,Salaried,4,2,Master
+Scott Black,27,Female,Single,330,150079,Unemployed,4,1,Bachelor
+Melody Hall,54,Female,Single,416,162597,Self-Employed,6,3,PhD
+James Watson,21,Male,Married,561,71388,Self-Employed,2,1,High School
+Joann Richards,31,Male,Single,779,194861,Self-Employed,5,2,Bachelor
+Angela Fischer,59,Female,Married,377,71663,Salaried,3,0,Master
+Lisa Christian,51,Male,Married,329,76926,Self-Employed,5,0,Master
+Jose Daugherty,49,Male,Single,414,28942,Salaried,6,4,Bachelor
+Debra Watkins,23,Female,Married,450,191691,Unemployed,3,0,Master
+Jasmine Pope,26,Male,Married,325,58256,Self-Employed,5,2,PhD
+Joseph Rodriguez,42,Female,Married,779,189795,Self-Employed,1,0,Bachelor
+Christopher Moreno,46,Female,Married,650,61312,Unemployed,4,3,High School
+Michelle Crawford,46,Male,Married,543,180090,Salaried,2,0,PhD
+Eric Smith,28,Male,Single,776,130400,Salaried,5,1,PhD
+Melissa Adams,24,Male,Married,385,16040,Self-Employed,6,2,PhD
+Ronald Tran,25,Female,Single,859,158183,Unemployed,2,0,High School
+Tonya Williams,45,Male,Married,897,19066,Salaried,4,0,Bachelor
+Ronald Lambert,29,Male,Married,497,100194,Unemployed,2,1,High School
+John Bryant,33,Male,Single,408,173264,Unemployed,6,3,Bachelor
+Derrick Singleton,56,Female,Single,706,182951,Self-Employed,5,0,Bachelor
+Kim Rodriguez,30,Female,Single,888,191687,Self-Employed,2,1,Master
+Kimberly White,31,Male,Single,401,81863,Self-Employed,1,0,High School
+Krystal Bowen,47,Female,Married,815,35322,Unemployed,4,2,PhD
+Samantha Blankenship,42,Male,Single,358,138795,Salaried,3,1,PhD
+William Mccoy,40,Female,Married,886,25721,Self-Employed,5,2,PhD
+Kimberly Browning,29,Male,Single,760,67324,Self-Employed,4,3,Bachelor
+Michelle Terry,56,Female,Married,765,26350,Self-Employed,4,2,Master
+Natalie Kelly,21,Male,Single,879,140477,Unemployed,2,0,High School
+Pamela Mora,59,Male,Married,791,115887,Unemployed,2,1,PhD
+Jennifer Carpenter,47,Male,Single,599,35685,Unemployed,4,0,Master
+Michele Scott,35,Male,Single,392,136556,Salaried,3,0,High School
+Kevin Banks,33,Male,Single,581,141713,Self-Employed,4,2,Bachelor
+Steven Brown,27,Female,Married,781,110426,Self-Employed,3,1,Bachelor
+Steven Myers,34,Male,Single,632,198940,Unemployed,3,0,Master
+Vincent Huerta,59,Male,Married,556,106322,Self-Employed,3,1,Bachelor
+Patricia Williams,56,Female,Single,744,136272,Self-Employed,1,0,Bachelor
+Lance Rogers,40,Female,Single,862,61040,Unemployed,5,2,Bachelor
+James Williams,29,Male,Single,372,55033,Self-Employed,6,2,High School
+Jane Hendrix,41,Male,Single,344,66296,Self-Employed,1,0,PhD
+Austin Rodriguez,48,Male,Married,787,137927,Salaried,6,5,Master
+Jose Stone,50,Female,Married,308,32305,Self-Employed,6,4,Master
+Matthew Martin,49,Female,Single,827,165361,Unemployed,5,2,Master
+Austin Ryan,43,Male,Single,787,80608,Salaried,4,0,High School
+Logan Gray,28,Male,Married,617,24190,Unemployed,4,1,Master
+Jennifer Rosales,48,Female,Married,576,95709,Self-Employed,5,1,High School
+Lucas Maldonado,32,Male,Married,716,80382,Unemployed,5,3,High School
+Larry Gordon,22,Male,Married,612,31329,Salaried,2,0,Bachelor
+Mia Clark,39,Female,Married,603,106748,Unemployed,3,1,Bachelor
+Mrs. Deanna Carr,45,Male,Married,792,86633,Salaried,2,0,Bachelor
+Shelly Hernandez,26,Female,Single,469,63001,Unemployed,4,1,PhD
+Joshua Peters,48,Male,Married,348,127146,Unemployed,3,1,Bachelor
+David Bailey,53,Male,Single,616,91745,Salaried,6,3,PhD
+Joshua Hall,56,Male,Single,472,24005,Self-Employed,3,2,High School
+Bruce Cox,31,Male,Married,765,41570,Salaried,5,2,Bachelor
+Justin Sullivan,34,Male,Single,857,30717,Salaried,4,2,Bachelor
+Mark Cook,32,Female,Single,474,134379,Unemployed,3,2,PhD
+Kristen Pittman,27,Male,Married,627,111731,Salaried,2,0,PhD
+Patricia Butler,33,Male,Single,366,87232,Self-Employed,5,3,PhD
+Todd Green,37,Male,Single,728,73976,Salaried,5,4,High School
+Edward Bass,48,Female,Single,542,104913,Self-Employed,4,1,Master
+David Lopez,34,Female,Single,750,68507,Salaried,4,1,PhD
+Jeffrey Yang,42,Female,Single,628,165154,Self-Employed,4,3,Bachelor
+Cameron Kennedy,49,Male,Single,797,125981,Unemployed,6,1,High School
+Joe Solomon,54,Female,Single,422,193494,Self-Employed,5,4,PhD
+Miranda Williams,48,Female,Married,386,161777,Unemployed,6,3,Bachelor
+Allison Wolf,56,Female,Married,765,18199,Unemployed,5,1,PhD
+Jennifer Reeves,52,Female,Married,524,29577,Self-Employed,3,1,Master
+Steven Patterson,40,Female,Married,883,116506,Self-Employed,4,2,Bachelor
+Cindy White,25,Male,Married,752,149318,Self-Employed,3,2,Bachelor
+Nancy Sullivan,59,Male,Married,390,32959,Salaried,1,0,Master
+Ronnie Reed,26,Female,Married,882,25303,Self-Employed,2,0,High School
+Angela Ramsey,25,Male,Married,573,105165,Unemployed,6,0,PhD
+Justin Ward,41,Male,Married,687,151070,Self-Employed,5,3,PhD
+Holly Mayer,50,Female,Married,479,134244,Salaried,3,2,High School
+Angel Houston,45,Male,Married,568,87671,Salaried,4,0,Master
+Philip Zhang,27,Female,Single,436,38329,Unemployed,3,2,Master
+Jennifer King,55,Male,Single,612,33294,Salaried,5,0,Bachelor
+Larry Carroll,49,Male,Married,470,62307,Salaried,3,2,High School
+Melissa Morton,45,Male,Married,480,49790,Unemployed,4,1,Bachelor
+Mr. Adrian Lamb,30,Male,Married,703,64455,Salaried,3,0,Master
+William Mitchell,49,Male,Single,373,28713,Self-Employed,6,2,PhD
+Emma Lewis,27,Male,Married,386,181752,Self-Employed,1,0,Bachelor
+Charlotte Smith,53,Male,Married,737,50966,Unemployed,2,0,PhD
+Susan Smith,39,Male,Single,633,143201,Unemployed,4,2,High School
+Danielle Martin,41,Female,Married,757,83348,Unemployed,2,0,Bachelor
+Jennifer Fischer,51,Female,Married,749,75769,Self-Employed,1,0,PhD
+David Russell,41,Male,Married,376,123210,Salaried,4,3,PhD
+Andrea Larson,21,Female,Married,479,198658,Self-Employed,2,0,Bachelor
+Lauren Navarro,52,Male,Married,310,41606,Self-Employed,3,0,PhD
+Kristin Gonzalez,30,Male,Married,506,171153,Self-Employed,6,5,High School
+Stacy Frye,30,Female,Single,368,125715,Self-Employed,1,0,High School
+Yolanda Phillips,55,Female,Single,861,146641,Unemployed,6,2,High School
+Steven Pierce,31,Male,Single,653,83137,Self-Employed,1,0,High School
+Alyssa Logan,54,Male,Single,532,54339,Salaried,6,4,Master
+Amanda Davis,26,Male,Single,325,18659,Salaried,5,2,Master
+Austin Miller,22,Female,Married,572,129404,Unemployed,1,0,High School
+Katelyn Jones,31,Male,Married,573,57604,Self-Employed,2,0,Master
+Krista Chen,48,Female,Single,546,29028,Unemployed,5,2,Bachelor
+James Soto,34,Female,Married,521,61877,Salaried,2,0,Master
+Amber Murphy,53,Female,Single,544,42846,Self-Employed,1,0,Bachelor
+Gregory Arnold,35,Female,Single,552,71861,Self-Employed,5,4,Bachelor
+David Smith,37,Female,Married,831,30553,Self-Employed,6,3,Bachelor
+Thomas Rojas,43,Male,Single,667,174742,Salaried,5,4,Master
+Melissa Velazquez,36,Female,Married,765,16533,Self-Employed,2,1,Master
+Ricky Reyes,21,Male,Single,624,98649,Unemployed,2,0,Bachelor
+Theresa Rivera,36,Male,Single,642,181214,Salaried,2,1,High School
+David Lopez,40,Male,Married,674,177882,Self-Employed,2,0,Bachelor
+Kimberly Henderson,44,Male,Single,781,42046,Self-Employed,5,1,Bachelor
+Michael Gray,36,Female,Married,857,115190,Self-Employed,4,1,PhD
+Donna Ortiz,46,Male,Single,528,192889,Salaried,4,1,Master
+Paul Manning,35,Male,Single,677,150410,Self-Employed,1,0,Bachelor
+Cheryl Black,22,Female,Married,499,180287,Self-Employed,1,0,High School
+Ian Salazar,25,Male,Married,453,90477,Unemployed,3,2,Master
+Christy Underwood,56,Male,Single,360,67488,Salaried,1,0,Bachelor
+Courtney Coffey,44,Male,Single,725,43275,Self-Employed,3,2,PhD
+Diana Saunders,31,Female,Married,797,71827,Salaried,4,2,PhD
+Katie Carter,34,Male,Married,686,25648,Salaried,5,4,High School
+Travis Mitchell,33,Female,Married,775,150609,Unemployed,4,0,Bachelor
+Michele Jones,53,Female,Single,590,59859,Self-Employed,6,1,PhD
+Cindy Phillips,29,Female,Single,617,21176,Unemployed,2,1,High School
+Lauren Wagner,23,Male,Single,896,28651,Salaried,5,3,Master
+Patrick Mitchell,54,Female,Married,864,165084,Self-Employed,2,0,Master
+Brian Martinez,21,Male,Single,756,120560,Unemployed,4,1,PhD
+Nancy Richardson,36,Female,Single,508,97085,Unemployed,3,0,High School
+Charles Brown,52,Male,Single,600,49347,Salaried,4,1,High School
+Jason Edwards,50,Male,Married,852,86056,Self-Employed,5,3,Bachelor
+John Barnes,55,Male,Married,742,64690,Salaried,5,3,PhD
+Ellen Collins,57,Female,Married,433,44077,Unemployed,6,1,Bachelor
+Michelle Steele,27,Female,Married,522,23830,Self-Employed,5,4,PhD
+Nicole Pittman,22,Male,Married,691,143391,Salaried,5,1,High School
+Kendra Rodriguez,54,Female,Single,767,117447,Unemployed,4,3,High School
+Veronica Owens,26,Female,Married,875,77135,Unemployed,1,0,Bachelor
+Caleb Burton,35,Male,Married,333,151276,Self-Employed,6,5,High School
+Cassidy Lowe,32,Male,Single,707,111473,Salaried,5,1,PhD
+Richard Rollins,22,Female,Single,389,77166,Self-Employed,2,0,PhD
+Steven Miller,29,Female,Single,886,31797,Unemployed,2,0,Master
+Pam Brown,21,Male,Single,427,81013,Salaried,2,0,Bachelor
+Mrs. Linda Allen,24,Male,Single,578,65655,Self-Employed,2,0,Bachelor
+Sean Smith,49,Male,Married,853,60895,Salaried,6,4,Master
+Lisa Curtis,21,Female,Married,354,165790,Self-Employed,1,0,Master
+Joshua Jones,46,Female,Single,623,139303,Self-Employed,1,0,Master
+Laura Martin,29,Male,Married,504,102061,Self-Employed,4,1,Master
+Christine Henderson,21,Male,Married,595,190121,Unemployed,3,1,Master
+Robert Nicholson,51,Female,Married,705,123859,Self-Employed,3,2,Master
+Evan Aguirre,23,Male,Married,488,116938,Unemployed,4,2,Bachelor
+Anthony Kidd,31,Male,Single,365,168758,Salaried,6,0,Master
+Megan Smith,60,Female,Single,343,70492,Self-Employed,3,0,Master
+Timothy Archer,34,Male,Married,381,99109,Self-Employed,6,4,Master
+Christine Garrett,38,Male,Single,510,160282,Self-Employed,2,1,High School
+Ryan Smith,39,Female,Married,778,121871,Unemployed,4,1,Master
+David Graham,23,Male,Single,347,59779,Self-Employed,3,0,PhD
+John Dean,36,Female,Married,756,160014,Unemployed,1,0,High School
+Zachary Riley,21,Male,Married,700,145407,Salaried,6,1,High School
+Briana Weeks,50,Male,Married,493,141719,Salaried,6,0,High School
+Julia Robertson,60,Male,Single,837,27415,Unemployed,5,1,PhD
+Madison Mcgrath,28,Male,Single,435,159852,Salaried,1,0,PhD
+Beverly Wright,23,Female,Single,538,51395,Self-Employed,5,3,Master
+Donald Burke,52,Female,Single,494,164640,Unemployed,4,2,PhD
+Michael Grant,28,Male,Single,670,54893,Unemployed,1,0,Master
+Diana Medina,28,Female,Single,561,55966,Salaried,6,2,PhD
+Meagan Wilson,39,Female,Married,624,196983,Unemployed,5,0,PhD
+Shaun Holmes,21,Male,Married,557,178421,Salaried,1,0,Master
+Jacob Miles,30,Female,Single,896,95117,Salaried,3,1,Bachelor
+Jesse Douglas,47,Male,Married,389,15234,Self-Employed,5,0,High School
+Rachel Brown,26,Female,Single,341,18299,Unemployed,1,0,High School
+Michael Harper,37,Female,Single,607,64526,Unemployed,5,0,Bachelor
+Shirley Martinez MD,26,Female,Married,562,186168,Self-Employed,1,0,PhD
+Ryan Rose,48,Male,Married,387,104085,Salaried,1,0,High School
+Paul Shea,52,Female,Married,341,91490,Self-Employed,4,2,PhD
+Brittany Taylor,34,Male,Married,571,133042,Salaried,2,0,Master
+Lauren Olson,50,Female,Married,534,88913,Self-Employed,1,0,PhD
+Bonnie Mendez,22,Female,Single,507,120199,Salaried,3,1,Bachelor
+Heather Walker,37,Female,Married,504,75378,Salaried,5,3,PhD
+Alicia Burnett,56,Male,Married,826,50435,Salaried,4,0,Master
+John Smith,39,Female,Married,879,34050,Self-Employed,3,1,PhD
+Jason Stewart,60,Female,Single,433,67095,Self-Employed,5,2,PhD
+Randall Bailey,21,Female,Single,560,138436,Self-Employed,1,0,Master
+Brian Weber,53,Male,Married,504,49996,Self-Employed,5,3,Master
+Heather Pennington,42,Female,Single,326,121783,Unemployed,5,3,High School
+Lisa Gonzalez,22,Female,Married,385,54719,Salaried,3,0,Bachelor
+Jessica Peters,22,Male,Single,712,60409,Salaried,5,0,Master
+Nicole Smith,46,Female,Single,562,159291,Self-Employed,2,1,Bachelor
+Lisa Middleton,41,Male,Married,548,186342,Salaried,5,3,Bachelor
+Stacey Brown,57,Female,Married,428,142377,Salaried,1,0,Master
+Steven Andrews,40,Male,Single,588,161236,Unemployed,1,0,Master
+David Miller,54,Male,Single,756,148125,Self-Employed,2,1,High School
+John Meyers,21,Female,Single,887,113708,Salaried,5,3,Master
+Mr. Johnathan Wood,26,Male,Married,497,45048,Salaried,3,0,High School
+Joseph Joseph,36,Male,Single,737,39848,Unemployed,4,0,High School
+Ryan Alexander,42,Male,Single,663,173204,Unemployed,4,3,PhD
+Lucas Jones,34,Male,Single,337,175910,Unemployed,3,1,Master
+Katie Hess,26,Female,Single,885,51239,Self-Employed,5,1,Master
+Chad Harris,51,Female,Single,455,148773,Unemployed,4,1,Master
+Matthew Nunez,37,Female,Married,377,121209,Salaried,4,2,Master
+Alan Perry,22,Female,Single,836,58361,Salaried,5,3,Bachelor
+Mark Adams,36,Male,Single,695,108945,Salaried,5,0,Master
+Eric Johnson,48,Male,Single,704,76635,Self-Employed,6,3,PhD
+Dwayne Hernandez,33,Female,Married,760,94953,Salaried,6,0,Master
+Robin Matthews,54,Male,Married,589,58298,Self-Employed,2,0,PhD
+Robin Fitzgerald,45,Female,Single,440,172940,Unemployed,3,1,Bachelor
+Dennis Henry,56,Male,Single,461,112510,Self-Employed,6,5,Master
+Shelby Cross,29,Female,Married,471,171075,Unemployed,1,0,High School
+Eric Murray,48,Male,Single,883,25640,Self-Employed,4,2,PhD
+Melissa Roberts,38,Female,Married,598,73188,Salaried,5,3,Bachelor
+Mark Mitchell,40,Female,Single,610,131731,Unemployed,5,0,Bachelor
+Anthony Holt,56,Male,Married,802,61898,Salaried,1,0,High School
+Jose Silva,43,Female,Single,788,143689,Salaried,3,2,High School
+John Burns,27,Male,Married,893,59406,Unemployed,3,1,Master
+Heather Bauer,28,Male,Married,832,20977,Salaried,4,2,Bachelor
+Paul Smith,22,Male,Single,341,117827,Self-Employed,5,3,Master
+Robert Ortiz,29,Male,Single,445,165820,Self-Employed,6,0,PhD
+Kathleen Cox,47,Male,Single,361,108725,Salaried,6,3,Master
+Christian Norton,47,Male,Married,672,180870,Self-Employed,6,3,Master
+Charlene Gonzalez,43,Female,Married,619,67889,Salaried,3,2,High School
+Michelle Chase,59,Male,Married,706,35873,Salaried,4,1,PhD
+Cheryl Hester,39,Female,Single,343,111549,Unemployed,1,0,PhD
+Jake Liu,57,Female,Single,718,88602,Unemployed,5,4,Master
+Mrs. Beth Barrett,46,Female,Single,654,82839,Self-Employed,5,1,High School
+Patrick Duncan,51,Female,Married,834,112790,Self-Employed,6,5,PhD
+Connie West,49,Male,Married,351,174239,Self-Employed,2,1,Master
+William Reyes,50,Male,Married,610,179321,Unemployed,2,0,Bachelor
+Michael Khan,28,Male,Single,325,182761,Unemployed,6,3,PhD
+William Butler,39,Female,Single,319,107721,Unemployed,5,3,PhD
+Matthew Walker,21,Female,Married,529,48082,Self-Employed,6,2,Bachelor
+Paul Dawson,31,Female,Single,499,70853,Salaried,6,2,Bachelor
+Deborah Murphy,24,Female,Single,588,25610,Salaried,5,2,Master
+Leah Green,54,Female,Single,580,115414,Salaried,2,0,Master
+John Warner,39,Male,Single,412,83688,Self-Employed,4,0,Master
+Tracy Contreras,28,Male,Single,309,45940,Unemployed,1,0,PhD
+Alejandro Lewis,37,Female,Single,826,196458,Unemployed,2,0,High School
+Melissa Brown,35,Male,Single,689,49307,Salaried,5,1,Master
+Lisa Parks,33,Female,Married,330,40739,Self-Employed,3,2,High School
+Kathryn Terry,42,Female,Single,897,61689,Salaried,1,0,High School
+Kara Matthews,31,Male,Single,624,57533,Unemployed,1,0,High School
+Janet Beard,42,Female,Married,594,163280,Self-Employed,6,0,Bachelor
+James Chen,47,Male,Married,594,77657,Salaried,6,5,High School
+Samantha Lopez,58,Male,Married,586,104030,Salaried,4,3,High School
+William Faulkner,22,Male,Married,453,101124,Self-Employed,5,2,Bachelor
+Justin Herrera,30,Male,Single,828,197714,Self-Employed,1,0,High School
+Dana Parker,39,Male,Married,626,20540,Unemployed,1,0,Master
+Margaret Weaver,51,Male,Single,301,73553,Unemployed,1,0,Bachelor
+Beverly Sanchez,43,Male,Married,356,48114,Self-Employed,5,0,Master
+Richard Castaneda,29,Male,Married,613,88730,Self-Employed,5,2,Bachelor
+Walter Boyer,58,Female,Married,573,62348,Salaried,3,0,Master
+Sharon Preston,52,Female,Single,364,115086,Unemployed,3,1,High School
+Tracey Eaton,24,Male,Married,466,190018,Salaried,3,0,High School
+Kelly Santos,30,Female,Married,697,136730,Unemployed,6,4,Master
+Brett Burns,54,Female,Married,505,24417,Unemployed,2,1,Bachelor
+William Brown,41,Female,Married,610,108443,Self-Employed,6,0,Master
+Patrick Aguirre,58,Male,Single,524,142031,Salaried,3,1,High School
+Kathleen Brown,30,Male,Single,601,70428,Salaried,2,0,High School
+Kristen Powell,44,Male,Single,672,127140,Unemployed,4,3,Master
+Sierra Rodriguez,54,Female,Single,607,180378,Salaried,6,1,Master
+Billy Fowler,25,Female,Married,722,130218,Unemployed,6,4,Master
+Paula Wilson,24,Female,Married,544,63574,Unemployed,2,0,Master
+Brittany Johnston,22,Female,Single,869,19188,Salaried,5,4,Master
+Kathleen Chapman,47,Male,Married,314,174301,Self-Employed,1,0,Master
+Rebecca Green,30,Female,Single,386,164370,Salaried,2,1,Bachelor
+Lisa Johnston,47,Female,Married,821,101524,Unemployed,1,0,High School
+Alyssa Rivas,35,Male,Married,303,48207,Unemployed,5,2,High School
+Erika Mcconnell,29,Male,Married,518,62368,Unemployed,2,0,PhD
+Riley Mejia,37,Female,Single,731,189352,Salaried,1,0,Master
+Allen Short,59,Female,Married,445,168466,Unemployed,3,0,PhD
+Denise Kim,38,Female,Married,563,46832,Self-Employed,6,4,High School
+Brittney Nguyen,56,Male,Married,642,81366,Unemployed,3,0,Bachelor
+Tiffany Park,24,Male,Married,649,95953,Salaried,6,2,PhD
+Linda Becker,33,Male,Married,597,74306,Unemployed,5,0,High School
+Edward Jefferson,26,Male,Single,395,173582,Salaried,6,1,Master
+Theresa Hays,32,Male,Single,606,116634,Unemployed,2,0,Master
+Joseph Martin,23,Male,Single,461,191224,Self-Employed,2,0,Bachelor
+Tonya Taylor,50,Female,Married,427,150730,Unemployed,1,0,PhD
+Rebekah Liu,54,Male,Married,426,171797,Self-Employed,5,1,High School
+Danielle Dunn,60,Male,Married,851,96274,Self-Employed,5,1,High School
+James Kirby,30,Female,Married,539,54249,Unemployed,4,2,PhD
+Jessica Butler,60,Female,Single,537,38605,Salaried,3,2,Master
+Mitchell Payne,33,Male,Single,694,59449,Self-Employed,3,1,Master
+Sara Hall,30,Male,Single,486,98008,Salaried,4,1,High School
+Dylan Mitchell,57,Female,Married,727,131148,Self-Employed,3,1,Bachelor
+Anna Cook,57,Male,Single,883,105356,Unemployed,2,0,Bachelor
+Cynthia Green,21,Male,Single,439,17004,Self-Employed,3,0,Bachelor
+Victoria Fox,41,Male,Married,463,179765,Unemployed,5,0,Master
+Jennifer Price,23,Male,Married,358,44678,Self-Employed,3,0,Bachelor
+Timothy Mathews,25,Male,Married,755,95441,Unemployed,5,3,Master
+Benjamin Liu,57,Male,Married,449,140445,Unemployed,5,4,Bachelor
+Jennifer Murray,23,Female,Single,418,63688,Salaried,6,1,Bachelor
+Jonathan Blake,23,Male,Married,397,162158,Self-Employed,3,1,Master
+Regina Reed,28,Female,Married,677,177576,Self-Employed,3,0,High School
+Jared Jensen,59,Male,Single,748,144825,Self-Employed,5,4,High School
+Peter Rivera,56,Male,Single,845,43429,Salaried,4,0,PhD
+Francis Cooper,26,Female,Married,814,42073,Salaried,1,0,PhD
+Jennifer Conner,22,Female,Single,544,141392,Unemployed,6,1,High School
+Alyssa Williams,60,Male,Married,306,183741,Salaried,6,0,High School
+Kevin Haas,45,Male,Single,508,30327,Unemployed,1,0,High School
+Melissa Williams,26,Male,Married,387,49477,Self-Employed,1,0,Bachelor
+Ms. Jamie Barton,28,Male,Married,423,125292,Self-Employed,6,2,Master
+Lisa Hernandez,21,Male,Married,826,62103,Salaried,1,0,Master
+Jared Arnold,44,Male,Single,476,79966,Self-Employed,1,0,Master
+Mark Hudson,35,Male,Married,339,53038,Unemployed,5,0,Master
+Cristian Hicks,53,Female,Single,379,119049,Salaried,5,4,Bachelor
+Tina Sparks,50,Male,Married,601,94359,Unemployed,2,0,High School
+Joshua Vance,37,Male,Married,895,128031,Self-Employed,6,3,Bachelor
+Kristen Moore,45,Male,Single,768,155851,Self-Employed,6,2,Bachelor
+Anthony Collins,55,Male,Single,896,95687,Self-Employed,4,2,Master
+Christopher Simpson,43,Female,Married,372,124669,Unemployed,2,1,High School
+Raymond Sexton,56,Male,Single,890,170468,Unemployed,1,0,Master
+Eric Jackson,54,Female,Single,522,165950,Salaried,4,0,PhD
+Chad Rhodes,32,Male,Single,824,91834,Unemployed,4,2,High School
+Emily Fry,40,Male,Married,642,125498,Self-Employed,3,0,Master
+Kara Harvey,50,Female,Married,704,54751,Self-Employed,5,0,Master
+Jennifer Fields,54,Male,Single,352,119764,Unemployed,4,1,Master
+Logan Wagner,52,Female,Married,513,98743,Salaried,5,2,PhD
+Christine Gross,41,Male,Married,313,37524,Self-Employed,1,0,High School
+Nancy Casey,23,Male,Single,448,26769,Unemployed,4,0,Master
+Christina Matthews,43,Female,Single,700,36602,Salaried,1,0,Bachelor
+Brandy Marquez,55,Male,Married,677,51653,Salaried,2,0,Bachelor
+Laura Thompson,49,Female,Single,411,119391,Self-Employed,1,0,Master
+Daniel Griffin,42,Female,Single,536,49197,Self-Employed,5,2,High School
+Mr. Stephen Cummings Jr.,39,Male,Single,560,80678,Salaried,5,3,Bachelor
+Jessica Mcneil,27,Female,Married,888,43277,Salaried,3,2,Master
+Kelly Rogers,24,Male,Single,668,60798,Unemployed,4,3,Bachelor
+Shannon Wells,43,Male,Married,394,147924,Unemployed,6,3,Master
+Michelle Thomas,48,Female,Single,471,84651,Unemployed,6,5,PhD
+Joseph Shaw,28,Female,Single,705,35483,Salaried,1,0,Master
+Amanda Gibbs,59,Male,Single,877,73223,Salaried,4,3,Master
+Thomas Moore,38,Female,Single,673,60182,Unemployed,1,0,Master
+Jeremy Robinson,39,Male,Married,648,38798,Salaried,2,1,High School
+Miss Rachel James,46,Female,Married,872,87916,Self-Employed,2,0,High School
+Samuel Carroll,32,Female,Single,807,99957,Salaried,5,4,Master
+Kathryn Johnson,28,Male,Single,416,61008,Self-Employed,1,0,High School
+Kendra Jenkins,31,Male,Married,795,194242,Self-Employed,5,0,Master
+Linda Parrish,36,Female,Single,316,92531,Self-Employed,1,0,Master
+Gina Craig,23,Female,Married,850,24569,Unemployed,2,0,High School
+Karen Townsend,40,Female,Married,737,170178,Salaried,5,4,Master
+Angela Sandoval,44,Male,Married,324,94009,Salaried,4,3,High School
+Lance Ortega,58,Female,Single,424,49691,Self-Employed,6,1,Bachelor
+Tammy Cooper,48,Male,Married,661,182956,Salaried,2,1,High School
+David Harris,35,Male,Single,734,24512,Salaried,4,0,High School
+Daniel Mendez,27,Female,Married,891,85101,Self-Employed,6,0,Master
+Cindy Rodriguez,38,Female,Married,537,41735,Unemployed,2,1,PhD
+Brandon Baker,35,Male,Married,831,150692,Self-Employed,1,0,High School
+David Lindsey,27,Female,Married,713,36638,Salaried,6,4,PhD
+Shannon Johns,37,Female,Single,424,62578,Self-Employed,1,0,Bachelor
+Sarah Webb,58,Male,Single,543,138807,Unemployed,5,4,Bachelor
+Michelle Harris,34,Female,Married,554,142128,Unemployed,5,1,High School
+Thomas Morrison,33,Male,Single,406,81911,Salaried,4,0,PhD
+Allison Prince,58,Female,Married,526,159051,Salaried,4,3,High School
+Peggy Moreno,53,Female,Single,348,147845,Self-Employed,6,1,High School
+Julie Mack,51,Male,Single,809,123481,Self-Employed,3,2,Master
+Jorge Marks,49,Male,Single,470,40831,Self-Employed,4,1,PhD
+Bobby Diaz,39,Female,Married,456,99252,Self-Employed,5,4,High School
+Isabella Nichols,39,Male,Married,341,147903,Salaried,4,0,High School
+Benjamin Martinez,48,Male,Single,386,54313,Salaried,6,4,Bachelor
+Cynthia Wilson,24,Female,Married,692,134586,Salaried,5,0,PhD
+Tara Aguilar,50,Male,Single,824,85533,Unemployed,5,1,Bachelor
+Stephanie Martinez,55,Female,Single,745,192605,Unemployed,3,1,PhD
+John Ray,21,Male,Married,586,40418,Salaried,4,3,High School
+Stephanie Smith,21,Male,Single,885,143492,Unemployed,5,4,PhD
+George Green,59,Male,Single,424,70384,Unemployed,4,1,PhD
+Kimberly Wright,21,Female,Single,886,85090,Unemployed,1,0,High School
+Christopher White,32,Male,Single,414,79744,Self-Employed,1,0,Master
+Justin Cruz,60,Female,Single,341,153966,Salaried,6,5,PhD
+Kelly Berry,29,Male,Single,720,157954,Self-Employed,5,1,Master
+Thomas Webb,36,Female,Single,413,121626,Salaried,6,1,High School
+Aaron West,51,Male,Single,430,163295,Salaried,2,0,High School
+Brittany Dixon,46,Female,Single,552,143608,Unemployed,6,1,Master
+Nicole Harper,54,Female,Married,734,182976,Unemployed,2,0,PhD
+Jesse Thompson,38,Female,Married,486,113504,Self-Employed,3,2,High School
+Erin Watkins,32,Male,Single,465,116022,Unemployed,5,1,Master
+Christopher Watson,33,Male,Single,504,91371,Salaried,1,0,Bachelor
+Jeffrey Sanchez,34,Male,Single,412,179036,Salaried,2,1,PhD
+Jennifer Allen,23,Female,Single,827,135836,Salaried,5,1,Master
+Heather Garcia,45,Female,Single,813,106127,Unemployed,5,2,Bachelor
+Lisa Collins,33,Male,Married,653,114812,Unemployed,6,5,Master
+Richard Khan,29,Male,Single,348,170867,Salaried,6,1,High School
+Amanda Johnson,50,Male,Married,896,78372,Salaried,1,0,PhD
+Rebecca Moses,44,Male,Single,725,97666,Unemployed,4,0,Bachelor
+Mary Robles,24,Male,Married,676,21347,Unemployed,3,1,Master
+Michael Miller,44,Male,Married,882,19258,Self-Employed,1,0,Bachelor
+Kim Meyer,22,Male,Married,884,70583,Self-Employed,4,3,Bachelor
+Justin Owens MD,22,Male,Married,443,163875,Salaried,6,4,PhD
+Jaclyn Montgomery,33,Male,Single,633,135327,Salaried,4,1,Master
+Laurie Reynolds,50,Male,Married,775,181118,Unemployed,6,5,Bachelor
+Mrs. Kimberly Fuentes,22,Male,Single,477,126960,Salaried,2,1,Bachelor
+Vincent Morris,48,Female,Single,636,108510,Self-Employed,5,0,Master
+Joseph Taylor,24,Female,Single,453,140154,Self-Employed,5,3,Bachelor
+Patricia Rosario,49,Female,Married,643,24492,Salaried,2,0,High School
+Chelsea Moreno,26,Male,Married,805,195843,Unemployed,4,1,High School
+Kathleen Jenkins,57,Male,Single,717,92283,Unemployed,5,0,PhD
+Dave Moody,40,Female,Married,312,75266,Unemployed,1,0,High School
+Kristin Russell,54,Female,Single,459,81692,Salaried,5,3,Bachelor
+Emily Taylor,47,Male,Single,471,168723,Self-Employed,6,0,Bachelor
+Kenneth Brown,41,Male,Married,507,182744,Unemployed,1,0,PhD
+Daisy Martin,56,Male,Single,803,33143,Unemployed,4,2,High School
+Sheri Small,25,Male,Single,840,194235,Unemployed,4,0,Bachelor
+Angela Matthews,43,Male,Single,358,140455,Salaried,6,2,Bachelor
+Rodney Sanders,37,Female,Single,337,135826,Unemployed,2,0,Master
+Douglas Mitchell,49,Female,Single,632,196523,Salaried,6,4,High School
+Nathan Mullins,47,Female,Single,890,113673,Salaried,3,1,Master
+Benjamin Jackson,58,Female,Single,774,20052,Salaried,2,1,Bachelor
+Jaime Larsen,26,Male,Single,749,20144,Salaried,2,0,Master
+Deborah Myers,60,Male,Married,642,108600,Self-Employed,1,0,PhD
+Dr. Roy Sharp MD,43,Male,Married,547,20882,Unemployed,5,1,Bachelor
+Susan Richards,50,Female,Single,615,175285,Self-Employed,5,2,PhD
+Melissa Henry,23,Female,Single,769,187364,Self-Employed,3,0,Bachelor
+Jenny Ortiz,39,Male,Single,864,78501,Self-Employed,2,1,High School
+Brian Johnson DDS,35,Female,Single,526,54220,Unemployed,2,0,Bachelor
+Michael Morgan,39,Female,Married,431,150541,Salaried,2,0,High School
+James Hatfield,38,Male,Single,368,186943,Salaried,3,2,Bachelor
+Nicole Ortiz DDS,39,Male,Married,756,143837,Salaried,1,0,Bachelor
+Joshua Jones,56,Female,Single,856,56047,Unemployed,1,0,Bachelor
+Jessica Powell,24,Male,Single,380,159708,Self-Employed,4,3,Bachelor
+Michael Lynch,42,Male,Single,518,176723,Unemployed,3,1,Master
+Carla Barron,26,Female,Single,590,112600,Salaried,1,0,Master
+Bill Nelson,46,Female,Married,517,128372,Salaried,3,0,Master
+Nicholas Hogan,27,Male,Married,590,99519,Self-Employed,1,0,High School
+Melissa Collins,57,Male,Single,568,184611,Salaried,2,1,Bachelor
+Melody Green,22,Female,Married,508,69003,Salaried,1,0,Bachelor
+Jack Jones,54,Female,Married,612,171255,Salaried,2,1,Bachelor
+Eric Sullivan,46,Male,Single,335,116082,Salaried,3,0,PhD
+Kimberly Mccarthy,26,Female,Single,633,58973,Self-Employed,6,2,Master
+Stephanie Terry,58,Female,Married,586,195059,Unemployed,5,2,PhD
+Kristy Castaneda,29,Male,Married,659,138915,Unemployed,2,1,Bachelor
+David Lee,42,Female,Single,743,71607,Self-Employed,4,3,PhD
+April Mitchell,32,Male,Single,601,64966,Salaried,4,2,Bachelor
+Kimberly Dickerson,24,Male,Married,322,137930,Salaried,1,0,PhD
+Kimberly Franco,56,Male,Married,596,133268,Salaried,2,0,High School
+Sara Boyd,21,Female,Married,756,42614,Unemployed,6,3,PhD
+Mrs. Brooke Thomas DDS,60,Female,Single,474,81814,Unemployed,5,4,Master
+Bobby Jennings,48,Male,Married,416,117755,Salaried,5,0,PhD
+Kimberly Johnson DVM,59,Female,Single,853,150163,Self-Employed,2,0,PhD
+Chad Serrano,46,Male,Single,824,38614,Self-Employed,6,3,PhD
+William Richardson,52,Male,Married,326,97267,Self-Employed,2,0,PhD
+Margaret Elliott,43,Female,Married,471,23561,Self-Employed,5,1,Master
+Matthew Castillo,29,Female,Single,872,189471,Self-Employed,1,0,PhD
+Laura Johnson,38,Female,Married,811,191088,Unemployed,4,0,PhD
+Valerie Webb,53,Male,Single,687,84042,Salaried,3,1,Master
+Eric Carlson,58,Male,Single,868,57474,Salaried,1,0,PhD
+Jessica Nguyen,49,Female,Married,583,163346,Salaried,6,0,Bachelor
+Eric Miller,32,Female,Married,869,53444,Unemployed,2,0,PhD
+Danielle Wagner,55,Female,Single,699,138887,Self-Employed,1,0,High School
+Kenneth King,30,Male,Single,389,149480,Unemployed,3,2,Bachelor
+Sarah Beck,35,Male,Married,820,170728,Salaried,3,1,High School
+Edward Russell,43,Female,Married,555,68315,Unemployed,4,1,Bachelor
+Sandra Johnson,36,Female,Single,766,139586,Unemployed,2,0,Master
+Tabitha Lewis,33,Female,Married,658,183144,Salaried,3,2,PhD
+Christopher Thompson,37,Female,Single,827,171502,Self-Employed,4,3,Bachelor
+Nathan Schneider,46,Male,Married,685,189230,Self-Employed,2,1,PhD
+Douglas Freeman,41,Female,Single,602,98041,Unemployed,3,1,Bachelor
+Christian Rose,51,Male,Single,854,56337,Salaried,5,3,PhD
+Janice Watkins,30,Female,Married,754,23043,Salaried,3,1,Bachelor
+Joseph Jones,50,Female,Single,852,98391,Unemployed,4,1,Bachelor
+Robin Larson,46,Female,Single,366,68736,Salaried,6,4,Master
+John Jackson,29,Female,Married,645,48883,Unemployed,1,0,High School
+Caitlin Sanchez,49,Female,Married,333,174155,Self-Employed,5,4,Master
+Mark Aguirre,51,Female,Single,429,137982,Unemployed,5,1,High School
+Jennifer Molina,33,Female,Married,568,73895,Self-Employed,2,0,High School
+Rebecca Payne,44,Male,Single,830,146552,Salaried,1,0,PhD
+Robert Vasquez,49,Male,Married,785,93127,Unemployed,4,3,Master
+David Mitchell,41,Male,Single,641,130327,Unemployed,4,1,Master
+Johnny Nelson DDS,32,Male,Married,391,46076,Salaried,3,1,High School
+Krystal Compton,25,Female,Married,781,83308,Self-Employed,2,0,PhD
+George Ryan,31,Female,Single,660,26203,Salaried,3,0,PhD
+Robert White,30,Female,Married,560,39875,Salaried,4,2,Bachelor
+Todd Ramos,35,Male,Single,562,157989,Salaried,5,2,Bachelor
+Emily Guzman,45,Female,Single,764,96469,Self-Employed,2,1,High School
+Julie Brandt,36,Female,Single,598,31127,Self-Employed,5,1,High School
+Karen Hernandez,28,Male,Married,357,92282,Self-Employed,3,1,Master
+Bonnie Mendoza,50,Male,Single,652,98393,Salaried,6,0,High School
+Paul Jennings,26,Female,Married,514,75783,Salaried,3,1,Bachelor
+Donna Carter,57,Female,Single,594,125566,Unemployed,5,4,Bachelor
+Nathan Brooks,39,Female,Single,394,144336,Self-Employed,2,1,PhD
+Brian Snyder DDS,59,Male,Married,418,163221,Self-Employed,4,3,PhD
+Alec Martin,26,Female,Single,483,116641,Unemployed,1,0,Master
+Juan Lucas PhD,51,Female,Married,442,102226,Salaried,4,0,High School
+Cory Wells,26,Female,Single,823,167762,Self-Employed,6,0,PhD
+Jesse Martin,44,Male,Single,720,25635,Self-Employed,5,1,PhD
+Brandon Atkins,45,Female,Married,615,122424,Self-Employed,4,3,Bachelor
+Molly Smith,41,Female,Married,649,30740,Salaried,3,0,High School
+Scott Knox,43,Male,Single,542,70396,Self-Employed,5,0,Master
+Christopher Manning,23,Female,Married,521,33090,Salaried,5,4,PhD
+Michelle Bailey,58,Male,Single,314,100750,Self-Employed,1,0,PhD
+Regina Howard,37,Female,Single,441,171496,Salaried,5,0,PhD
+Brandon Miller,32,Female,Single,497,55293,Unemployed,3,1,Bachelor
+Tony Yoder,60,Male,Single,467,122368,Self-Employed,3,0,PhD
+Andrea Walker,59,Male,Single,488,167246,Salaried,2,1,High School
+Sabrina Davis,53,Female,Single,595,75950,Salaried,5,4,Bachelor
+Mary Mclean,26,Female,Married,886,110489,Unemployed,3,0,PhD
+Christopher Garrett,56,Female,Married,841,67401,Unemployed,4,1,Master
+Daniel Robertson,28,Male,Married,524,177815,Unemployed,1,0,PhD
+Patrick Ferrell,48,Female,Single,641,43969,Salaried,2,0,Bachelor
+Matthew Barber,38,Female,Married,780,193455,Self-Employed,1,0,PhD
+Veronica Yates,59,Female,Married,431,109534,Salaried,5,1,PhD
+Jay Todd,28,Female,Single,585,145754,Salaried,1,0,PhD
+James Warren,31,Male,Married,305,16320,Salaried,3,1,Bachelor
+Mary Wong,57,Female,Married,806,29213,Salaried,4,0,Master
+Sheri Wilkinson,55,Male,Single,553,173182,Self-Employed,6,0,Bachelor
+Andrew Duran,58,Female,Single,427,148800,Unemployed,5,0,High School
+Patrick Reilly,49,Male,Single,407,29717,Self-Employed,1,0,PhD
+Diane Johnson,33,Male,Married,367,152113,Self-Employed,2,0,PhD
+Sarah Murray,31,Female,Married,461,141529,Self-Employed,6,3,PhD
+Judith Murphy,54,Female,Married,406,40613,Unemployed,4,2,PhD
+Eugene Alvarez,28,Male,Single,634,118761,Unemployed,5,3,High School
+Theresa Bullock,50,Male,Married,318,17296,Self-Employed,3,2,High School
+Mark Haas,23,Female,Single,777,112920,Salaried,3,2,Bachelor
+Veronica Robles,25,Male,Married,488,65466,Salaried,5,1,Master
+Jacob Wood,21,Male,Single,435,93748,Unemployed,3,1,PhD
+James White,49,Female,Single,318,152571,Salaried,5,1,High School
+Kara Miller,41,Male,Married,890,88613,Unemployed,6,1,PhD
+Maria Horn,60,Male,Single,617,174857,Unemployed,1,0,High School
+Ronald Hardy,40,Male,Single,347,165239,Self-Employed,4,1,Bachelor
+Susan Shaffer,39,Female,Married,476,33418,Unemployed,3,1,Master
+Willie Summers,38,Male,Married,388,145680,Unemployed,2,0,Master
+David Anderson,29,Male,Married,815,50776,Unemployed,1,0,PhD
+Mark Wilson,41,Male,Married,398,40046,Self-Employed,3,0,PhD
+Rachel Lopez,42,Male,Single,873,94491,Self-Employed,4,3,Bachelor
+Jeffrey Richards,34,Male,Married,615,17322,Unemployed,5,4,PhD
+Katelyn Diaz,30,Male,Married,318,138194,Salaried,5,0,Master
+Kyle Torres,40,Female,Married,379,94778,Self-Employed,2,0,Bachelor
+Sheri Gomez,54,Male,Married,512,25868,Unemployed,6,3,Bachelor
+Alexandra Chandler,54,Female,Married,729,137113,Salaried,2,0,PhD
+Rebecca Jones,36,Female,Single,592,187581,Self-Employed,1,0,PhD
+Donald Brown,36,Female,Married,659,138960,Unemployed,6,2,Bachelor
+Thomas Hall,37,Male,Single,588,115691,Self-Employed,5,1,Bachelor
+Willie Russell,24,Female,Single,375,178721,Salaried,5,1,High School
+Kylie Moore,53,Female,Single,566,129797,Salaried,5,0,Master
+Nicole Prince,27,Female,Single,394,70410,Unemployed,2,0,High School
+Gabriela Garner,40,Female,Single,667,167043,Unemployed,4,3,High School
+Kurt Perez,40,Male,Married,397,72065,Salaried,1,0,Master
+James Hall,59,Female,Married,443,27412,Salaried,5,0,Master
+Tanya Cox,59,Female,Married,669,89052,Unemployed,5,3,Bachelor
+Christopher Hill,38,Male,Single,876,197720,Salaried,3,0,PhD
+Martin Dixon,55,Male,Married,531,121217,Self-Employed,1,0,Master
+Angela Lane,38,Male,Single,581,92107,Salaried,3,0,PhD
+Christopher Simon,22,Male,Single,462,138487,Salaried,2,0,PhD
+Alexis Wilson,34,Male,Married,322,184177,Unemployed,5,4,High School
+Lisa Sanchez,27,Female,Single,468,171431,Salaried,1,0,Master
+Dillon Santiago,57,Female,Single,488,142226,Unemployed,2,0,Master
+Kathryn Chen,38,Male,Single,415,93563,Self-Employed,1,0,PhD
+Mr. Christian Davis,51,Female,Single,792,89753,Unemployed,4,2,High School
+Curtis Nelson,36,Male,Married,728,194800,Self-Employed,3,1,PhD
+Richard Franklin,41,Female,Married,539,187941,Unemployed,6,5,PhD
+Harold Jones,37,Female,Single,534,115542,Unemployed,1,0,High School
+Jimmy Nolan,60,Female,Single,574,134535,Salaried,1,0,PhD
+Daniel Price,52,Female,Single,482,76112,Self-Employed,6,2,PhD
+Alyssa Lucero,38,Male,Single,600,91396,Salaried,2,1,PhD
+Jessica Lee,56,Male,Single,492,176613,Unemployed,1,0,Master
+Joann Bryant,28,Female,Single,329,68744,Salaried,2,1,PhD
+Shaun Weaver,60,Male,Single,704,27336,Unemployed,1,0,Master
+Jack King,40,Female,Single,827,148869,Salaried,5,1,High School
+Wendy Powell,26,Male,Married,535,146866,Unemployed,2,1,PhD
+Debra Scott,48,Female,Married,689,99395,Unemployed,2,0,Master
+Beth Contreras,57,Female,Single,606,21921,Unemployed,4,2,Bachelor
+Mark White,58,Female,Single,722,101916,Unemployed,1,0,PhD
+Dustin Tapia,49,Female,Single,618,136810,Unemployed,5,0,Master
+Edward Keller,33,Male,Single,420,122680,Unemployed,5,0,PhD
+Marc Sanchez,46,Male,Single,780,118777,Salaried,6,1,PhD
+Brett Reyes,28,Female,Single,313,192576,Unemployed,3,1,PhD
+Matthew Gutierrez,37,Male,Single,670,15878,Unemployed,2,1,Bachelor
+Pamela Ramsey,51,Male,Single,408,190857,Unemployed,4,0,Master
+Dr. Kenneth Mcbride,56,Male,Married,705,48468,Unemployed,2,0,Master
+Catherine Whitaker,24,Male,Single,798,177721,Unemployed,5,4,Master
+Dana Mccoy,38,Female,Married,773,91288,Salaried,1,0,High School
+Justin Garrett,39,Male,Single,579,193395,Self-Employed,4,2,Master
+Maria Morrison,46,Female,Married,893,91995,Salaried,6,3,High School
+Paul Velasquez,25,Female,Married,680,189136,Self-Employed,2,0,Bachelor
+Terry Smith,29,Male,Married,773,171430,Self-Employed,3,2,PhD
+Roberta Parrish,42,Male,Married,565,199246,Self-Employed,5,3,PhD
+David Parker,47,Male,Married,766,128436,Unemployed,4,0,Master
+Donna Becker,28,Female,Single,374,74782,Unemployed,5,3,PhD
+Angela Moreno,49,Female,Single,776,40324,Self-Employed,6,4,PhD
+Christopher Johnson,43,Female,Single,636,187390,Unemployed,2,1,PhD
+Elizabeth Ray,30,Female,Married,354,16052,Self-Employed,3,2,High School
+Emily Fisher,46,Male,Married,859,134601,Self-Employed,3,2,PhD
+Karen Jones,32,Female,Single,669,54298,Unemployed,4,0,PhD
+Pam Stone,30,Female,Married,858,38032,Salaried,2,1,Master
+Gerald Holland,21,Male,Married,319,118199,Self-Employed,5,1,PhD
+Manuel Mitchell,38,Male,Single,628,58744,Unemployed,1,0,PhD
+Ashley Deleon,51,Male,Single,446,165869,Salaried,6,0,Master
+Richard Nguyen,33,Female,Single,843,20878,Self-Employed,2,1,PhD
+Daniel Humphrey,31,Male,Married,467,39941,Self-Employed,4,1,Master
+Andrew Singh,50,Female,Single,725,176061,Unemployed,5,0,Master
+Joe Snyder,44,Male,Single,858,178285,Unemployed,3,0,Master
+Amber Lee,50,Female,Single,670,147776,Unemployed,2,1,PhD
+Jennifer George,38,Male,Married,314,188863,Unemployed,5,0,PhD
+Kristin Martinez,38,Male,Single,711,90647,Unemployed,5,3,High School
+Amanda Adams,37,Female,Single,771,42264,Salaried,3,2,Master
+Cynthia Marshall,57,Female,Married,600,192320,Unemployed,6,4,PhD
+Lauren Adams,26,Female,Single,726,173030,Self-Employed,2,0,High School
+Erin Lawrence,21,Female,Single,668,99680,Salaried,6,4,Master
+Paul Johnson,21,Female,Single,630,100113,Unemployed,3,2,PhD
+Anna Miller,57,Male,Married,643,68437,Unemployed,2,0,Bachelor
+Patricia Wilson,25,Male,Single,575,180533,Self-Employed,5,0,Bachelor
+Jenny Walker,58,Female,Married,510,45230,Self-Employed,6,2,Bachelor
+Daniel Quinn,38,Male,Married,410,42827,Unemployed,6,1,High School
+Bryan Rodriguez,57,Male,Single,795,41583,Salaried,2,1,High School
+Timothy Hart,55,Male,Married,564,132123,Unemployed,6,1,High School
+Greg Young,21,Female,Married,587,42276,Self-Employed,3,2,Master
+Victoria Craig,58,Male,Single,721,132480,Salaried,2,1,Master
+Collin Rodriguez,21,Female,Married,564,184821,Self-Employed,1,0,Master
+Mark Morris,34,Female,Married,745,143436,Unemployed,5,4,Bachelor
+Jacqueline Fields,27,Female,Married,571,19769,Unemployed,1,0,High School
+Billy Gray,51,Male,Married,406,190519,Salaried,2,0,High School
+Jesse Harris,36,Female,Married,431,107818,Self-Employed,6,1,Master
+Mallory Anderson,40,Female,Single,369,89758,Salaried,3,1,PhD
+Rebecca Moore,48,Female,Married,653,28086,Salaried,4,0,Bachelor
+Alan Estes,22,Female,Single,737,118384,Unemployed,3,2,High School
+Mark Wong,26,Male,Single,386,52449,Salaried,3,0,Bachelor
+Ashley White,40,Female,Single,465,89910,Salaried,5,1,High School
+Teresa Perry,40,Male,Married,601,171887,Self-Employed,6,4,Bachelor
+Mr. James Smith,39,Female,Married,857,38892,Unemployed,5,3,Master
+Shelly Patterson,28,Male,Married,792,115732,Unemployed,5,4,High School
+Emily Macdonald,25,Male,Married,659,43163,Self-Employed,1,0,High School
+Joseph Love,34,Female,Married,358,160650,Unemployed,6,4,Master
+Melanie Mann,54,Female,Single,535,127486,Unemployed,3,0,PhD
+Michael Salas,24,Female,Married,464,85559,Unemployed,4,2,Bachelor
+Sarah Johnson,44,Male,Single,402,168945,Salaried,2,1,Master
+Brian Young,57,Male,Married,770,148843,Salaried,3,2,PhD
+Joshua Wise,36,Male,Single,869,146780,Self-Employed,4,3,Bachelor
+Thomas Warren,52,Female,Single,816,49561,Unemployed,1,0,Master
+Marvin Thompson,49,Female,Single,347,131263,Unemployed,6,3,PhD
+Megan Chaney,35,Male,Married,447,110312,Self-Employed,4,2,Master
+Adam Murphy,35,Male,Married,774,38275,Self-Employed,3,1,PhD
+Melissa Watson,59,Female,Single,622,123474,Salaried,6,2,Bachelor
+Austin Garcia,50,Female,Married,469,35181,Salaried,2,1,PhD
+Bryan Matthews DDS,52,Male,Single,848,104298,Unemployed,2,0,Master
+Ashley Carroll,59,Male,Married,407,164428,Unemployed,5,3,PhD
+Michaela Simon,43,Female,Single,472,176071,Unemployed,4,3,PhD
+Kimberly Herman,57,Male,Single,762,160178,Self-Employed,5,0,Bachelor
+Ryan Bautista,34,Male,Single,869,165211,Self-Employed,4,1,PhD
+Douglas Gould,43,Female,Single,349,66117,Salaried,6,4,High School
+Roy Roach,55,Female,Single,525,145576,Self-Employed,4,2,High School
+Kimberly Lang,40,Male,Single,606,21265,Salaried,2,1,Bachelor
+Shelley Brown,36,Male,Single,652,191512,Self-Employed,5,0,Bachelor
+Roy Myers,31,Female,Single,388,140606,Salaried,6,0,Bachelor
+Christy Miller,52,Female,Married,441,189795,Unemployed,5,2,High School
+Caroline Thompson,57,Female,Single,728,176044,Unemployed,2,0,High School
+Sara Lopez,21,Male,Single,361,72821,Self-Employed,3,0,Bachelor
+Lauren Montgomery,53,Female,Married,781,117504,Salaried,6,3,Bachelor
+Mrs. Barbara Love,26,Female,Single,554,29288,Salaried,5,0,Bachelor
+Kelsey Vasquez,47,Male,Married,738,180993,Self-Employed,5,1,PhD
+Todd Bishop PhD,59,Female,Single,882,33951,Unemployed,3,1,Master
+Mark Lewis,57,Male,Single,397,106297,Salaried,3,2,Bachelor
+Jennifer Richardson,25,Female,Married,594,90703,Self-Employed,4,0,High School
+Kathleen Cameron,48,Male,Married,799,156863,Unemployed,4,3,High School
+Roy Stephens,47,Male,Single,686,135277,Self-Employed,3,0,Bachelor
+Christopher Smith,26,Male,Married,881,197016,Self-Employed,2,1,Bachelor
+Jennifer Mason,60,Male,Married,509,59954,Unemployed,6,5,High School
+William Spears,37,Male,Single,380,58199,Salaried,2,0,PhD
+Mark Gonzalez III,45,Female,Single,827,166258,Unemployed,2,1,High School
+Patricia Anderson,32,Female,Married,511,177007,Salaried,6,2,Master
+Stacy Young,47,Male,Married,894,181914,Self-Employed,4,0,High School
+Heather Harris,50,Male,Single,429,160593,Salaried,5,2,PhD
+William Ramos,53,Female,Single,458,72131,Salaried,1,0,High School
+Robert Smith,26,Female,Married,420,137068,Unemployed,3,1,Master
+Jamie Ware,44,Male,Married,711,198303,Unemployed,2,1,High School
+Jill Montgomery,25,Male,Married,409,37586,Self-Employed,5,1,Master
+Stephanie Santana,43,Male,Single,417,29665,Unemployed,4,3,Bachelor
+Jeremy Villegas,30,Male,Married,510,164668,Unemployed,6,0,Bachelor
+Christopher Watson,37,Female,Single,703,129188,Unemployed,2,1,Master
+Zachary Rojas,56,Male,Married,365,142149,Unemployed,2,1,PhD
+Sherry Crosby,33,Male,Single,651,35996,Self-Employed,2,0,PhD
+Mallory Davis,57,Male,Married,744,96591,Self-Employed,3,0,Master
+Kevin Gibson,34,Male,Married,537,149445,Salaried,2,1,Master
+Megan Bennett,32,Male,Single,538,129187,Self-Employed,3,1,PhD
+Sara Valentine,46,Female,Married,760,113098,Salaried,1,0,PhD
+Gregg Coleman,56,Male,Married,857,155933,Unemployed,6,4,High School
+Selena Sanders,44,Female,Single,601,92968,Unemployed,3,1,PhD
+Sandra Baker,34,Male,Married,346,118068,Self-Employed,3,1,Bachelor
+Mr. Austin Anderson,45,Female,Married,882,33927,Unemployed,6,4,Bachelor
+Jennifer Kline,41,Female,Single,700,36821,Self-Employed,3,2,PhD
+Sean Luna,35,Female,Married,644,40646,Self-Employed,4,1,PhD
+James Jimenez,29,Female,Married,698,128569,Self-Employed,2,0,Bachelor
+Michael Garcia,38,Female,Married,332,188319,Salaried,4,3,Master
+Sabrina Jackson,59,Male,Single,521,24200,Salaried,3,2,Master
+Erica Watkins,55,Male,Single,484,43459,Self-Employed,4,2,High School
+Kenneth Nelson,22,Male,Single,595,114003,Unemployed,5,4,High School
+Alyssa Ray,32,Male,Single,760,137853,Salaried,2,1,High School
+Garrett Hubbard,21,Male,Married,847,83987,Self-Employed,5,3,PhD
+Matthew Ortega,34,Female,Single,585,150654,Self-Employed,6,2,PhD
+Colleen Terrell,23,Male,Married,542,198620,Self-Employed,4,2,Master
+Kelli Lewis,52,Male,Married,552,35785,Unemployed,2,1,High School
+Ashley Watson,49,Female,Married,690,81205,Unemployed,5,3,PhD
+Patricia Fletcher,35,Female,Married,817,99709,Self-Employed,1,0,Master
+Todd Carson,27,Female,Single,668,54575,Unemployed,1,0,PhD
+Laura Walker,28,Female,Married,624,128653,Self-Employed,3,0,Bachelor
+Jason Middleton,49,Female,Single,737,48372,Unemployed,4,1,Bachelor
+John Jimenez,25,Male,Single,606,135020,Self-Employed,3,1,PhD
+Charles Gould,49,Female,Married,355,190812,Salaried,5,3,Bachelor
+Phillip Price,31,Male,Single,757,134954,Unemployed,5,4,Bachelor
+Mrs. Alexandra Walters DDS,34,Female,Single,785,111391,Unemployed,3,0,Master
+Sean Gomez,37,Female,Married,861,62012,Salaried,6,4,Master
+Erin Chapman,23,Male,Single,350,164552,Unemployed,3,0,High School
+Micheal Hawkins,29,Male,Married,696,142791,Unemployed,4,3,High School
+Isabel Ford,42,Female,Single,716,66446,Unemployed,6,4,Master
+Todd Salas,24,Female,Single,304,55795,Self-Employed,3,1,High School
+Rebecca James,25,Male,Single,751,164574,Unemployed,5,0,Bachelor
+Elizabeth Allison,56,Female,Married,475,42538,Unemployed,1,0,Master
+Bailey Anderson,49,Male,Married,890,108352,Self-Employed,2,1,Bachelor
+Catherine Powell,31,Male,Single,805,102691,Unemployed,1,0,Master
+Joshua Underwood,33,Male,Single,576,150381,Self-Employed,1,0,PhD
+Mark Acevedo,38,Male,Married,658,96075,Salaried,4,1,Bachelor
+Jonathan Leblanc,56,Female,Married,626,100154,Salaried,4,2,Bachelor
+Emily Edwards,59,Male,Married,344,114737,Salaried,4,0,Master
+Kathleen Gonzalez,40,Male,Single,858,143485,Self-Employed,5,1,Bachelor
+Joshua Rogers,35,Female,Married,406,167676,Salaried,3,0,Bachelor
+Joshua Brown,56,Female,Married,804,65917,Unemployed,2,1,Master
+Carlos Turner,27,Female,Married,840,51919,Self-Employed,2,0,Master
+Scott Blake,37,Female,Married,894,70256,Self-Employed,4,1,PhD
+Joseph Page,23,Female,Single,887,104274,Self-Employed,2,1,Master
+Michelle Howard,48,Female,Single,426,28944,Self-Employed,2,1,Master
+Douglas Leon,56,Male,Married,811,153537,Self-Employed,3,2,High School
+Kathy Schneider,29,Male,Married,553,173902,Salaried,4,0,Bachelor
+Jasmine Maxwell,45,Male,Single,632,101843,Unemployed,2,1,PhD
+Ronald Thomas,60,Male,Single,775,60231,Unemployed,3,2,High School
+Elizabeth Ray,57,Male,Married,814,172244,Self-Employed,4,2,Bachelor
+Matthew Jones,44,Female,Married,623,116744,Self-Employed,3,0,PhD
+John Douglas,40,Male,Single,595,17605,Self-Employed,3,0,Bachelor
+Shawna Sparks,35,Male,Single,377,176582,Self-Employed,3,1,Master
+Jennifer Powell,24,Female,Married,898,96444,Salaried,6,5,Master
+Nicholas Fitzpatrick,52,Female,Single,602,96961,Salaried,6,0,Bachelor
+Chad Rose,39,Female,Married,420,150841,Unemployed,5,1,High School
+Glen Phillips,36,Male,Married,590,41853,Unemployed,6,4,Master
+Kathy Glass,51,Male,Married,767,153952,Salaried,3,0,High School
+Michael Chandler,38,Female,Single,441,72119,Salaried,1,0,Bachelor
+Adam Kelly,55,Female,Single,873,94678,Unemployed,3,0,Master
+Donald Cox,23,Male,Single,314,170748,Unemployed,6,4,High School
+Tracy Rhodes,35,Female,Single,416,171979,Salaried,1,0,Bachelor
+Desiree Chavez,28,Male,Single,469,66652,Self-Employed,3,2,Master
+Jonathon Oneill,33,Male,Single,379,91141,Unemployed,4,1,PhD
+Jennifer Stevens,33,Female,Single,772,108020,Self-Employed,6,1,PhD
+Eric Thompson DDS,42,Male,Single,738,181094,Salaried,1,0,Master
+Richard Robinson,23,Female,Married,530,161204,Self-Employed,6,1,Bachelor
+James Bush,46,Female,Single,332,49424,Salaried,4,0,PhD
+Jerry Kaiser,54,Female,Single,666,121443,Salaried,5,0,Master
+Shirley Simmons,37,Female,Single,712,158600,Salaried,4,3,High School
+Scott Burnett,24,Female,Married,614,78857,Salaried,6,2,PhD
+Morgan Cohen,54,Female,Married,763,184848,Salaried,5,3,High School
+Michael Lynn,36,Female,Married,439,40674,Salaried,2,0,Master
+Robin Hansen,52,Male,Single,538,115005,Salaried,6,4,High School
+Felicia Trujillo,52,Male,Single,365,139783,Salaried,6,3,Bachelor
+Alex Barnett,21,Female,Single,736,199299,Unemployed,3,0,Master
+Michael Knight,52,Male,Married,458,80265,Self-Employed,3,2,High School
+Melissa Kennedy,50,Female,Single,392,94110,Salaried,2,0,High School
+Morgan Burnett,42,Male,Single,614,99755,Salaried,1,0,Bachelor
+Donna Smith,38,Male,Married,380,111957,Salaried,3,1,Master
+Catherine Wood,48,Female,Married,399,187165,Salaried,4,1,Bachelor
+William Stokes,57,Female,Single,871,183465,Salaried,4,1,High School
+Kim Medina,45,Male,Single,367,68920,Salaried,1,0,Bachelor
+Amanda Murphy,54,Male,Married,860,97287,Self-Employed,4,2,Master
+Abigail Bennett,45,Male,Single,780,74206,Salaried,2,1,Bachelor
+Mary Mullen,36,Male,Married,823,164827,Self-Employed,2,0,Master
+Thomas Michael,22,Female,Married,432,125809,Salaried,5,2,Bachelor
+Eric Mercado,45,Female,Single,511,103742,Unemployed,5,0,Master
+John Turner,33,Male,Single,678,192231,Self-Employed,6,2,Bachelor
+Elizabeth Harris,35,Female,Single,811,42666,Salaried,3,2,Master
+Diane Davis,22,Male,Single,768,39079,Self-Employed,6,5,Master
+Dominique Hardy,49,Female,Single,373,127007,Salaried,3,2,Bachelor
+David Mccarty,52,Female,Single,608,105720,Salaried,5,1,High School
+Todd Fields,50,Female,Single,696,41288,Salaried,1,0,Master
+Shawn Obrien,44,Female,Single,417,114440,Self-Employed,4,3,PhD
+Amber Simon,35,Female,Single,688,183672,Unemployed,6,2,Master
+Edward Hutchinson,24,Female,Single,363,37749,Unemployed,6,1,Master
+Wesley Cole,36,Male,Single,453,21408,Unemployed,2,0,Master
+Patricia Wade,58,Male,Married,549,144095,Self-Employed,4,2,PhD
+Kimberly Johnson,27,Male,Single,679,165032,Self-Employed,3,2,PhD
+Sara Jones,42,Male,Married,336,141310,Salaried,2,0,Bachelor
+Thomas Dunn,44,Male,Married,487,36598,Self-Employed,1,0,PhD
+Gail Garcia,48,Female,Single,310,143565,Salaried,3,1,PhD
+Robert Perez,32,Female,Married,797,174392,Self-Employed,6,4,PhD
+Timothy Middleton,47,Male,Married,314,138887,Unemployed,2,0,Master
+Kevin Mckinney,21,Female,Married,457,66572,Unemployed,4,1,High School
+Laura Sherman,24,Female,Single,405,132606,Self-Employed,2,1,Master
+Michael Aguilar,23,Male,Married,544,155577,Self-Employed,5,2,High School
+Monica Williams,53,Male,Single,351,32395,Salaried,3,2,PhD
+Megan Hanson,29,Male,Married,743,120006,Salaried,1,0,Master
+Lori Johnson,31,Male,Married,381,56316,Self-Employed,3,0,Bachelor
+Sarah Sullivan,52,Female,Single,567,190120,Self-Employed,1,0,Master
+Jeffery Mills,37,Female,Married,383,76510,Unemployed,1,0,Master
+Leroy Jones,49,Female,Single,846,39120,Salaried,3,1,Bachelor
+Kristy Martin,36,Female,Single,827,92220,Salaried,5,4,PhD
+Scott Taylor,46,Male,Married,890,53574,Unemployed,5,3,PhD
+Jacob Dunn,25,Male,Married,538,79418,Salaried,5,1,Master
+Jonathan Wiley,54,Male,Single,839,114563,Self-Employed,2,0,Master
+Tony Cooper,60,Female,Married,899,142747,Salaried,3,2,Bachelor
+Tiffany Lewis,52,Male,Married,383,113235,Self-Employed,5,0,PhD
+Jose Reynolds,56,Female,Married,338,36611,Unemployed,4,1,Bachelor
+Alicia Martin,36,Male,Married,688,157008,Self-Employed,4,0,PhD
+Paula Howell,41,Female,Single,506,97860,Unemployed,6,3,Bachelor
+Patty Carr,58,Male,Single,760,177202,Unemployed,4,0,Bachelor
+Sarah Barnes,48,Male,Married,520,150445,Self-Employed,3,1,Master
+Taylor White,60,Male,Single,725,39943,Salaried,4,0,PhD
+Brian Mccormick,54,Female,Single,445,140399,Salaried,1,0,Bachelor
+Hannah Williams,59,Male,Married,686,132003,Salaried,5,1,PhD
+Randall Martinez,34,Female,Single,507,143892,Salaried,2,0,Master
+Jonathan Dixon,37,Female,Single,574,148181,Unemployed,2,0,PhD
+Curtis Gonzalez,21,Female,Married,658,103490,Self-Employed,2,1,Bachelor
+Bryan Cook,31,Male,Married,758,155076,Unemployed,2,0,Bachelor
+Dale Ortiz,32,Male,Single,447,130608,Unemployed,3,2,Master
+Devon Ellis,24,Female,Single,666,53058,Unemployed,6,3,Master
+Andrea Parker,32,Male,Married,859,115696,Salaried,4,3,Master
+Julie Yoder,47,Female,Married,485,187489,Self-Employed,6,3,PhD
+Daniel Vaughn,38,Male,Single,490,109482,Unemployed,4,3,High School
+Sydney Briggs,32,Male,Single,817,134551,Self-Employed,2,0,Master
+Kevin Davis,35,Male,Single,404,92789,Self-Employed,5,4,PhD
+Carlos Johnson,22,Female,Single,705,57352,Unemployed,6,3,Bachelor
+Bruce Elliott,30,Female,Married,511,106673,Unemployed,1,0,PhD
+Barbara Jones,56,Male,Single,793,172619,Unemployed,6,2,High School
+Jesse Pierce,29,Male,Married,802,21768,Salaried,4,2,PhD
+Joel Perkins,44,Female,Married,332,114614,Unemployed,1,0,Master
+Kelly Williams,58,Male,Married,890,156760,Salaried,3,2,High School
+Chad Walker,28,Male,Single,661,83038,Unemployed,2,0,Bachelor
+Philip Williams,34,Male,Married,451,104565,Unemployed,3,0,Bachelor
+Susan Klein MD,58,Female,Single,680,65564,Salaried,2,0,Master
+Tina Villa,21,Male,Single,854,69338,Unemployed,3,0,PhD
+Michael White,32,Male,Single,620,116852,Salaried,6,5,Master
+Diane Benitez,54,Female,Married,392,93822,Salaried,3,2,Master
+Stephanie Morton,49,Male,Married,625,71314,Unemployed,3,0,High School
+Elizabeth Myers,47,Male,Married,364,62360,Unemployed,3,0,Bachelor
+Sydney Farrell,46,Female,Single,859,182980,Self-Employed,2,0,High School
+Erika Alvarado,27,Male,Single,614,95451,Unemployed,1,0,Bachelor
+Leslie Hall,26,Male,Married,486,144922,Salaried,3,2,Bachelor
+Sandra Hall,21,Male,Single,739,199807,Salaried,3,2,Bachelor
+Matthew Sims,27,Female,Married,498,46897,Salaried,5,3,Bachelor
+Hannah Wright,36,Male,Single,793,44793,Self-Employed,2,1,PhD
+Michael Cantu,57,Female,Married,858,133793,Unemployed,4,0,PhD
+Lisa Villanueva,25,Female,Married,810,162513,Salaried,6,1,PhD
+Michael Miller,32,Female,Single,630,166565,Self-Employed,5,0,PhD
+Madison Flowers,54,Male,Married,425,199663,Unemployed,2,0,Bachelor
+Jessica Thompson,54,Male,Married,689,80664,Salaried,6,5,High School
+Jennifer Anderson,43,Male,Married,681,97078,Self-Employed,1,0,PhD
+David Cross,36,Male,Single,599,88608,Self-Employed,5,4,PhD
+Christopher Camacho,28,Male,Single,639,166980,Salaried,6,0,High School
+Zoe Owens,56,Male,Married,431,131538,Self-Employed,4,3,Master
+Roy Moreno,24,Female,Married,342,76554,Salaried,2,0,PhD
+Dennis Bryan,29,Female,Single,776,76057,Unemployed,3,1,High School
+Russell Hughes,41,Male,Married,741,156113,Salaried,6,0,Master
+Phillip Nelson,25,Female,Married,392,156857,Unemployed,5,0,Master
+Joseph Thornton,53,Male,Married,720,198802,Self-Employed,4,0,PhD
+Frank Solomon,41,Female,Single,515,39638,Self-Employed,2,0,PhD
+Dale Nunez,27,Male,Married,753,16481,Self-Employed,4,2,PhD
+Brandon Scott,47,Female,Single,589,103421,Unemployed,4,0,Bachelor
+Terrance Cisneros,60,Male,Single,779,36981,Salaried,3,0,Master
+Nathan Heath,30,Male,Married,720,169860,Self-Employed,4,1,Bachelor
+Cynthia Richardson,23,Female,Single,442,170962,Unemployed,3,2,High School
+Matthew Kirk,26,Male,Single,528,95727,Salaried,4,2,Bachelor
+Alicia Green,40,Female,Married,831,171499,Salaried,6,4,PhD
+Tammy Clark,54,Male,Married,355,27424,Self-Employed,4,2,Bachelor
+Jonathan Castillo,24,Female,Married,321,184490,Self-Employed,2,0,Bachelor
+Dr. Kevin Rogers DDS,35,Female,Single,601,64881,Self-Employed,1,0,High School
+Justin Farley,36,Female,Married,587,125899,Unemployed,3,0,Master
+Courtney Jensen,35,Male,Married,829,83887,Self-Employed,6,2,Bachelor
+Deanna Wilson,41,Female,Married,651,47002,Salaried,4,2,PhD
+Jacqueline Kramer,50,Male,Married,591,55120,Self-Employed,1,0,High School
+Gregg Proctor,51,Male,Married,571,39423,Salaried,3,2,PhD
+Kelly Henderson,36,Female,Married,793,188891,Unemployed,4,3,High School
+Terry Thomas,25,Male,Single,426,189866,Salaried,2,0,High School
+Hailey Wilcox,37,Female,Married,855,132752,Self-Employed,3,2,Master
+Angela Beck,26,Female,Single,682,35705,Self-Employed,1,0,High School
+Kevin Stewart,21,Female,Married,500,123381,Salaried,4,2,High School
+Bonnie Hunter,41,Male,Single,400,142659,Salaried,3,0,High School
+Cody Castillo,51,Female,Married,332,26624,Self-Employed,1,0,PhD
+Christopher Johnson,28,Female,Married,376,88537,Unemployed,3,1,High School
+Mark White,42,Female,Single,647,145100,Salaried,4,1,PhD
+Joseph Sanders,53,Male,Single,460,112581,Salaried,5,2,Master
+Stacy Frey,51,Male,Single,585,155486,Unemployed,5,4,High School
+Olivia Butler,49,Female,Married,893,160247,Unemployed,5,1,Master
+Tristan Berry,37,Male,Single,827,118565,Self-Employed,2,0,Bachelor
+Michael Williams,36,Male,Single,427,176886,Unemployed,5,4,High School
+Sylvia Erickson,53,Male,Married,471,38278,Salaried,1,0,PhD
+Walter Kemp,37,Female,Single,473,130868,Unemployed,1,0,Bachelor
+Blake Valdez,45,Female,Married,340,198088,Salaried,6,1,Master
+Diane Jones,43,Male,Single,838,37249,Self-Employed,5,4,High School
+Raven Mclaughlin,59,Male,Single,688,178318,Salaried,5,1,Bachelor
+April Nicholson,27,Female,Married,601,109237,Salaried,1,0,Master
+Steve Bradley,54,Male,Single,305,96773,Salaried,3,1,High School
+Michelle Adams,23,Male,Married,509,151239,Salaried,5,4,Master
+Christy Garcia,47,Female,Single,808,108740,Salaried,3,2,High School
+Michael Smith,21,Male,Married,376,185696,Unemployed,6,1,PhD
+Andre Spears,35,Female,Single,889,65769,Unemployed,5,0,Bachelor
+Sarah Walker,36,Female,Married,778,155367,Unemployed,3,2,High School
+Brian Schaefer,33,Female,Single,447,103161,Unemployed,5,1,Bachelor
+Todd Carr,42,Male,Married,744,16181,Self-Employed,4,3,PhD
+William Thomas,38,Male,Single,319,113238,Self-Employed,6,0,PhD
+Anne Nelson,60,Male,Single,554,93187,Unemployed,2,1,PhD
+Victor Solis,24,Female,Married,747,35388,Self-Employed,2,0,Bachelor
+Rebecca Smith,34,Female,Single,360,34432,Unemployed,3,2,Bachelor
+Shannon Adams,59,Male,Single,826,59516,Self-Employed,1,0,PhD
+Lisa Farley,21,Male,Married,874,143132,Self-Employed,4,1,Bachelor
+Andrew Wall MD,59,Female,Married,326,68612,Self-Employed,5,4,Master
+Jeffrey Morgan,23,Male,Married,898,169562,Unemployed,1,0,High School
+Katherine Collins,44,Female,Single,774,52694,Salaried,2,1,Bachelor
+Lori Washington,34,Male,Married,383,28849,Salaried,6,2,Master
+Thomas Moreno,59,Male,Single,784,179651,Salaried,2,0,Master
+Ryan Holmes,52,Male,Single,693,47669,Salaried,2,0,Bachelor
+April White,52,Male,Single,788,176789,Salaried,4,3,High School
+Ashley Taylor,27,Male,Single,470,35266,Salaried,6,3,Bachelor
+Tara Phelps,39,Female,Married,663,91786,Salaried,2,1,PhD
+Ashley Quinn,51,Female,Married,566,80403,Salaried,6,4,Bachelor
+Mr. Colton Barrera MD,24,Female,Married,407,61099,Self-Employed,4,1,Master
+Ricardo Hicks,36,Female,Single,332,59143,Unemployed,6,1,High School
+Alec Watkins,60,Female,Single,698,115038,Self-Employed,4,2,Master
+Gabriel Brown,50,Female,Married,360,37233,Unemployed,3,2,Master
+Albert Mckinney,59,Male,Married,643,125041,Salaried,6,5,Master
+Nicole Duncan,53,Female,Single,605,199658,Self-Employed,2,1,High School
+Alexis Jenkins MD,46,Female,Married,702,108757,Unemployed,4,3,Master
+Fernando Hudson,22,Female,Single,399,192643,Unemployed,4,2,Bachelor
+Gary Reed,21,Female,Single,631,172273,Salaried,5,2,Bachelor
+Timothy Fisher,30,Male,Single,789,111731,Self-Employed,1,0,PhD
+Judith Richardson,60,Male,Married,890,64051,Self-Employed,1,0,PhD
+Lisa Weaver,36,Female,Single,814,40742,Self-Employed,6,0,PhD
+Manuel Gaines,51,Male,Single,413,163219,Unemployed,4,2,Master
+Jamie Freeman,41,Female,Married,763,148074,Salaried,2,0,High School
+Krystal Smith,51,Female,Single,500,197231,Salaried,3,1,High School
+Joshua Moore,49,Female,Married,552,96531,Self-Employed,1,0,PhD
+Kayla Hughes,45,Female,Single,599,198744,Salaried,6,3,PhD
+Jamie Wells,31,Male,Single,387,50416,Salaried,3,0,High School
+Jordan Strong,22,Female,Single,553,27034,Unemployed,2,1,PhD
+Wesley Murphy,27,Female,Married,314,68304,Unemployed,1,0,High School
+Christine Terry,29,Female,Married,362,30276,Salaried,1,0,Bachelor
+Connie Richards,49,Male,Single,776,95066,Unemployed,3,1,Master
+Laurie Waller,39,Male,Married,894,61725,Salaried,5,3,High School
+Jennifer Martin,21,Female,Single,428,179156,Self-Employed,4,0,Bachelor
+Mrs. Jasmine Mason,39,Male,Married,373,130782,Salaried,6,2,Master
+Alexandra Watson,27,Female,Married,777,59441,Self-Employed,5,2,High School
+Shannon Compton,29,Male,Single,862,80870,Salaried,3,2,Master
+Marie Reese,55,Male,Married,541,50546,Self-Employed,4,1,High School
+Jason Smith,33,Female,Single,715,197765,Salaried,2,1,Bachelor
+Lisa Bass,40,Male,Single,453,101930,Self-Employed,5,2,Master
+Larry Fisher,53,Male,Single,758,176460,Self-Employed,4,0,High School
+Michael Blankenship,60,Female,Married,716,81195,Salaried,2,0,Bachelor
+Michelle Wagner,37,Female,Married,721,92696,Salaried,4,3,PhD
+Ricky Brooks,29,Male,Single,403,152201,Self-Employed,1,0,High School
+Ashley Vasquez,52,Female,Single,651,118257,Self-Employed,1,0,PhD
+Kimberly Beard,29,Male,Married,400,131333,Unemployed,4,0,Bachelor
+Michelle Williamson,44,Male,Single,735,106793,Salaried,5,3,Bachelor
+Corey Jenkins,36,Female,Single,349,168498,Salaried,3,2,High School
+Amy Miranda,49,Female,Married,859,20596,Unemployed,6,1,High School
+Susan Anderson,41,Female,Married,715,72569,Unemployed,4,2,Master
+Jamie Figueroa,44,Female,Married,490,43070,Unemployed,2,1,High School
+Stacey Walker,28,Male,Married,815,140132,Salaried,5,2,PhD
+Donald Short,57,Female,Married,408,38416,Unemployed,2,1,PhD
+Eric Turner,38,Female,Married,728,92968,Self-Employed,6,3,Master
+Eric Garcia,58,Female,Married,477,31031,Self-Employed,3,0,PhD
+Antonio King,31,Male,Married,722,145207,Unemployed,1,0,Master
+James Jones,59,Female,Single,706,69161,Salaried,6,5,Bachelor
+Traci Miller,26,Female,Single,712,76619,Self-Employed,6,1,Bachelor
+Brett Torres,47,Male,Married,377,35927,Self-Employed,1,0,PhD
+Melissa Carter,36,Female,Single,613,61838,Salaried,1,0,PhD
+Judy Patel,34,Male,Single,493,125900,Salaried,2,0,Bachelor
+Nicole Dalton,27,Female,Single,699,59643,Unemployed,3,2,High School
+William Lopez,34,Female,Married,668,130375,Salaried,6,2,Master
+Jamie Mcdonald,34,Female,Married,582,149253,Self-Employed,1,0,Master
+Aaron Colon,41,Male,Married,548,118574,Unemployed,3,1,Master
+Andrea Smith,38,Female,Single,771,153657,Unemployed,3,0,High School
+Emily Pennington DDS,60,Female,Single,874,110173,Salaried,4,1,PhD
+George Ray,51,Male,Married,486,53625,Salaried,1,0,High School
+Julie Delgado,58,Male,Single,539,154060,Self-Employed,2,1,PhD
+Sarah Rose,53,Female,Single,327,48229,Unemployed,4,2,Master
+Stephanie Rhodes DDS,45,Male,Married,867,77659,Salaried,6,5,Master
+Melanie Harris,49,Male,Single,612,104593,Unemployed,6,2,Bachelor
+Jamie Castillo,28,Female,Married,427,106874,Unemployed,2,1,Master
+Theresa Ward,41,Female,Single,886,69160,Salaried,4,1,PhD
+Kyle Leon,59,Female,Single,649,18807,Unemployed,2,1,Bachelor
+Valerie Bailey,31,Female,Single,589,176452,Unemployed,6,3,High School
+Steven Silva,46,Female,Married,565,35503,Salaried,3,0,PhD
+Timothy Rivers,43,Male,Married,653,162843,Self-Employed,1,0,High School
+Paula Moreno,45,Male,Single,494,194574,Self-Employed,5,0,Master
+Christopher Soto,33,Female,Single,435,178153,Self-Employed,2,0,Master
+Connie Ortiz,38,Female,Married,374,31399,Self-Employed,4,2,High School
+Anthony Parks,31,Female,Single,355,135017,Salaried,2,0,Bachelor
+Monica Baxter,59,Female,Married,493,181637,Self-Employed,3,2,High School
+Ruth Evans,43,Female,Single,371,116538,Unemployed,5,4,PhD
+Julie Nelson,53,Male,Married,428,104219,Unemployed,5,4,High School
+Amber Spencer,22,Male,Married,772,95723,Salaried,6,3,PhD
+Robert Johnson,21,Female,Single,373,35360,Unemployed,6,4,Bachelor
+Kristen Robertson,26,Male,Single,365,102728,Self-Employed,6,2,PhD
+Carol White,50,Female,Married,824,171398,Self-Employed,5,2,Master
+Brandon Trujillo,41,Female,Married,704,17214,Unemployed,2,0,Master
+Katie Frank,38,Female,Single,590,16107,Self-Employed,3,0,High School
+Tyler Johnson,46,Female,Married,354,84170,Salaried,3,1,PhD
+Mary Browning,45,Male,Single,403,49271,Salaried,2,1,PhD
+Jose Myers,40,Female,Married,372,67914,Self-Employed,4,3,Bachelor
+Doris Santiago,37,Female,Single,457,100859,Salaried,2,1,PhD
+Patrick Garrett,39,Female,Single,858,132057,Unemployed,2,1,PhD
+Erin Villanueva,25,Male,Single,880,16805,Self-Employed,6,1,Master
+Timothy Brown,42,Female,Single,677,15602,Self-Employed,6,4,PhD
+Erin Jordan,56,Female,Single,517,26053,Unemployed,5,0,Bachelor
+Paul Vasquez,22,Male,Married,316,38184,Self-Employed,1,0,PhD
+David Baker,58,Female,Married,315,78434,Salaried,6,5,High School
+Wendy Rodriguez,60,Male,Married,353,179229,Salaried,2,1,High School
+Deanna Mosley,36,Male,Married,704,171431,Salaried,3,0,Bachelor
+Haley Clayton,32,Female,Married,305,151340,Unemployed,3,2,Bachelor
+James Reynolds,34,Female,Married,345,112548,Unemployed,2,1,PhD
+Thomas Kelly,35,Male,Single,807,18365,Unemployed,1,0,Master
+Amy Espinoza,21,Male,Married,826,129690,Salaried,4,2,Bachelor
+Terri Mitchell,40,Male,Married,704,158157,Salaried,3,0,PhD
+Jacqueline Harris,33,Female,Single,466,197213,Unemployed,3,0,Bachelor
+Mrs. Jessica Briggs,36,Male,Single,495,151009,Self-Employed,1,0,Master
+Elizabeth Frank,59,Male,Married,503,39515,Salaried,5,0,High School
+Susan Lucero,28,Female,Married,379,154248,Salaried,1,0,PhD
+Stephanie Tran,57,Male,Married,858,18969,Unemployed,6,1,Bachelor
+Kelly Downs,24,Female,Married,599,47373,Salaried,2,0,High School
+Troy Frye,57,Female,Married,333,148608,Self-Employed,3,1,Bachelor
+Christopher Perez,59,Female,Single,392,62228,Unemployed,4,1,Bachelor
+Melanie Dillon,45,Female,Single,729,105291,Salaried,1,0,Bachelor
+Jacob Smith,33,Female,Single,365,107027,Self-Employed,1,0,High School
+Jennifer Porter,33,Female,Single,342,56312,Salaried,4,0,Bachelor
+Gary Shelton,53,Male,Single,310,64453,Self-Employed,3,1,Bachelor
+Rachel Buchanan,32,Male,Single,491,111929,Salaried,4,3,Bachelor
+Joseph Gardner,48,Male,Married,759,110796,Unemployed,3,2,Master
+Glenn Pacheco Jr.,27,Male,Married,452,136021,Salaried,1,0,Master
+John Johnson,51,Male,Married,524,41141,Salaried,3,0,High School
+Anthony Freeman,55,Female,Married,571,169463,Salaried,5,4,PhD
+Stephanie Thompson MD,30,Female,Married,420,58045,Salaried,6,5,High School
+Emily Bailey,57,Male,Married,381,15868,Unemployed,4,1,Master
+John Coleman,44,Male,Single,853,131696,Self-Employed,6,5,High School
+Christine Ford,56,Male,Married,509,97419,Salaried,5,4,Bachelor
+Samuel Williams,24,Female,Single,637,161728,Self-Employed,1,0,High School
+Marissa Stafford,31,Male,Married,595,73793,Unemployed,3,2,Master
+Lauren Ramirez,25,Male,Single,391,33363,Salaried,5,2,Bachelor
+Daniel Wright,51,Female,Single,381,65708,Salaried,6,0,Master
+Martin Jones,34,Male,Married,470,19777,Unemployed,2,1,Bachelor
+Jeremiah Brown,59,Female,Married,724,87004,Unemployed,5,2,Master
+Shaun Scott,51,Female,Married,446,76256,Salaried,4,0,Bachelor
+Jose Davis,49,Male,Single,380,67426,Salaried,4,3,High School
+Amy Ortiz,42,Male,Single,868,58581,Self-Employed,4,2,Bachelor
+Crystal Flores,59,Female,Married,492,67491,Self-Employed,6,3,Master
+Melanie Houston,56,Female,Single,732,102604,Self-Employed,5,2,PhD
+Calvin Mora,52,Female,Married,761,94195,Unemployed,6,2,PhD
+Luke Mcknight,39,Female,Married,664,89813,Salaried,4,1,High School
+Ralph Welch,45,Female,Married,773,46467,Unemployed,2,0,Master
+Edwin Dennis,44,Male,Single,764,85673,Unemployed,6,5,PhD
+Gary Fleming,55,Male,Single,451,98755,Salaried,4,3,Bachelor
+Kathryn Brown,60,Female,Married,877,187570,Unemployed,5,2,PhD
+Brandon Robles,34,Male,Married,576,34664,Salaried,3,1,High School
+Sherry Allen,27,Male,Married,352,97509,Self-Employed,6,3,Bachelor
+Ryan Morris,40,Male,Single,882,20764,Salaried,4,3,Master
+Steven Small,33,Female,Single,317,16796,Self-Employed,1,0,Master
+Andrew Deleon,43,Male,Married,878,162153,Self-Employed,2,0,PhD
+Sierra Martin,58,Female,Married,447,54366,Salaried,4,1,Bachelor
+Shelby Harris,54,Male,Married,858,54492,Self-Employed,1,0,PhD
+Joanne Guzman,45,Female,Married,493,54828,Self-Employed,3,2,PhD
+Sierra Hayes,44,Male,Married,703,148240,Self-Employed,1,0,High School
+Michael Smith,46,Male,Married,789,58295,Self-Employed,1,0,Bachelor
+Karen Briggs,39,Male,Single,388,136841,Self-Employed,3,0,PhD
+Diana Mitchell,36,Male,Married,656,139242,Salaried,5,2,PhD
+Caitlin Ward,50,Male,Married,350,185248,Salaried,6,2,Master
+Carlos Sanchez,45,Male,Single,709,149116,Unemployed,4,1,PhD
+Kaitlyn Coffey,22,Female,Married,310,37442,Unemployed,6,2,PhD
+John Daugherty,42,Female,Single,770,130065,Self-Employed,3,0,Bachelor
+Miguel Smith,36,Male,Single,558,82863,Unemployed,3,1,Bachelor
+Edward Flynn,37,Male,Married,546,43719,Unemployed,5,3,High School
+Elizabeth Burnett,32,Male,Married,390,180565,Salaried,1,0,Bachelor
+Connie Jackson,58,Male,Married,890,28710,Unemployed,3,1,Master
+Brian Poole,51,Male,Single,877,29833,Salaried,5,0,PhD
+Johnny Mckenzie,41,Male,Married,315,183244,Salaried,2,0,Master
+Nathan Elliott,32,Female,Single,710,99895,Self-Employed,6,2,Bachelor
+Michelle Jones,26,Female,Single,462,160372,Salaried,2,1,PhD
+Jeanette Griffith,54,Male,Married,420,165782,Salaried,1,0,High School
+Christopher Pacheco,55,Female,Single,749,60369,Self-Employed,1,0,High School
+Charles Wong,25,Female,Single,485,61635,Salaried,6,3,PhD
+Douglas Brown,53,Male,Married,562,99151,Self-Employed,3,1,High School
+Andre Alvarado,26,Male,Married,633,39829,Salaried,6,3,PhD
+Mason Hernandez,57,Female,Married,419,33918,Unemployed,1,0,Master
+Christopher Vincent,28,Female,Single,409,97989,Self-Employed,1,0,PhD
+Jessica Lee,45,Male,Single,810,192553,Self-Employed,2,0,High School
+Tammy Baker,34,Female,Married,597,177712,Salaried,6,0,Master
+Christy Wong,37,Female,Married,860,15867,Unemployed,2,1,High School
+Sally Gibson,43,Male,Married,889,145141,Self-Employed,6,0,PhD
+David Wilson,55,Female,Married,415,149589,Self-Employed,1,0,High School
+David Welch,52,Male,Single,589,44991,Self-Employed,5,2,Master
+Daniel Farrell,47,Female,Married,674,180870,Unemployed,5,3,High School
+Candice Washington,44,Male,Single,726,86033,Salaried,2,0,PhD
+Michael Yang,29,Female,Single,553,135807,Self-Employed,4,0,Bachelor
+Heather Taylor,32,Male,Married,814,20019,Salaried,5,0,Master
+Tamara Cunningham,59,Male,Married,456,87625,Self-Employed,4,0,PhD
+Jessica Kim,33,Female,Married,579,179337,Unemployed,1,0,PhD
+Mark Gill,23,Female,Married,881,56002,Unemployed,6,2,Master
+Samuel Kelly,49,Male,Married,850,89726,Salaried,3,1,Master
+Melanie Whitaker,58,Male,Married,466,155655,Salaried,2,0,PhD
+Heather Clarke,41,Male,Single,465,48683,Unemployed,2,0,Master
+Rebecca Preston,31,Male,Married,581,42988,Salaried,5,0,Bachelor
+Wendy Rodriguez,25,Male,Married,372,135937,Salaried,5,4,Bachelor
+Keith Davis,39,Male,Single,654,123341,Salaried,4,0,PhD
+Megan Thomas,29,Male,Single,359,44584,Salaried,1,0,Bachelor
+Diana Carney,48,Male,Married,439,52045,Unemployed,6,1,PhD
+James Berry,27,Male,Married,888,34407,Unemployed,1,0,High School
+Gina Burke,36,Male,Married,886,193162,Self-Employed,3,1,PhD
+Renee Smith,32,Female,Single,770,64733,Unemployed,5,4,Master
+Whitney Rhodes,25,Male,Single,458,183910,Self-Employed,6,0,Bachelor
+Patrick Barnes,46,Female,Married,317,130086,Unemployed,5,4,Bachelor
+Patty Obrien,44,Female,Single,819,146572,Self-Employed,4,3,High School
+Tina Williams,33,Male,Married,434,166638,Salaried,2,1,Master
