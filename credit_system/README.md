@@ -1,4 +1,4 @@
-# CreditChecker
+# CreditChecker - ZHIEND
 
 CreditChecker is an explainable AI credit decisioning and compliance platform for digital lending. It helps lenders evaluate loan applications with machine learning while making every decision explainable, fair, auditable, and regulator-ready.
 
